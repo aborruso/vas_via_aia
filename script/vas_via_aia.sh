@@ -20,4 +20,4 @@ mv "${folder}"/tmp/tmp.csv "${folder}"/../data/progetti_italia.csv
 
 # dati per numero di progetti presentati per ciascuna regione
 
-mlrgo -S --csv cut -f id,regioni,tipologia then nest --evar "," -f regioni then clean-whitespace "${folder}"/../data/progetti_italia.csv > "${folder}"/../data/progetti_italia_regioni.csv
+mlrgo -S --csv cut -f id,regioni,tipologia then nest --evar "," -f regioni then clean-whitespace then sub -f regioni "Valle.+" "Valle d'Aosta" then count-distinct -f regioni,tipologia then sort -f regioni,tipologia "${folder}"/../data/progetti_italia.csv > "${folder}"/../data/progetti_italia_regioni.csv
