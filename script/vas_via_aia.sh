@@ -30,3 +30,13 @@ mlrgo -S --csv cut -f id,regioni,tipologia then nest --evar "," -f regioni then 
 for i in regioni province comuni; do
     mlrgo -S --csv cut -f "$i" then nest --evar "," -f "$i" then clean-whitespace then uniq -a then sort -f "$i" "${folder}"/../data/progetti_italia.csv >"${folder}"/../data/risorse/"$i".csv
 done
+
+nome="listaComuniISTAT_ANPR"
+
+URL="https://github.com/aborruso/archivioDatiPubbliciPreziosi/raw/master/docs/archivioComuniANPR/comuniANPR_ISTAT.csv"
+
+# scarica comuni Istat
+if [ ! -f "${folder}"/../data/risorse/"$nome".csv ]; then
+    curl -skL "$URL" >"${folder}"/../data/risorse/"$nome".csv
+fi
+
