@@ -1714,7 +1714,7 @@ id,regioni,tipologia
 14290,Piemonte,Raffinerie
 13613,Puglia,Fotovoltaici
 13548,Veneto,Opere stradali
-13515,Valle d,Impianti idroelettrici
+13515,Valle d'Aosta,Impianti idroelettrici
 13635,Sardegna,Fotovoltaici
 13641,Sicilia,Fotovoltaici
 13612,Puglia,Fotovoltaici
@@ -3004,7 +3004,7 @@ id,regioni,tipologia
 11844,Puglia,Fotovoltaici
 11690,Sicilia,Opere stradali
 11706,Piemonte,Opere ferroviarie
-11706,Valle d,Opere ferroviarie
+11706,Valle d'Aosta,Opere ferroviarie
 11691,Campania,Impianti eolici onshore
 11688,Basilicata,Impianti eolici onshore
 11687,Liguria,Opere ferroviarie
@@ -4625,7 +4625,7 @@ id,regioni,tipologia
 647,Sicilia,Opere portuali e vie navigabili
 407,Emilia Romagna,Opere stradali
 410,Piemonte,Opere ferroviarie
-410,Valle d,Opere ferroviarie
+410,Valle d'Aosta,Opere ferroviarie
 429,Veneto,Opere stradali
 406,Campania,Elettrodotti
 168,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
@@ -5437,7 +5437,7 @@ id,regioni,tipologia
 1605,Basilicata,Opere idrauliche
 1567,Campania,Opere ferroviarie
 1568,Lazio,Opere ferroviarie
-1584,Valle d,Impianti di smaltimento e recupero rifiuti
+1584,Valle d'Aosta,Impianti di smaltimento e recupero rifiuti
 1582,Veneto,Opere portuali e vie navigabili
 1581,Piemonte,Elettrodotti
 1569,Trentino Alto Adige,Impianti di smaltimento e recupero rifiuti
