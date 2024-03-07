@@ -1,0 +1,5520 @@
+id,regioni,tipologia
+15968,Sardegna,Impianti eolici onshore
+15962,Sicilia,Fotovoltaici
+15967,Sardegna,Impianti eolici onshore
+15965,Puglia,Impianti eolici offshore
+15966,Sicilia,Fotovoltaici
+15971,Sicilia,Opere ferroviarie
+15971,Calabria,Opere ferroviarie
+15949,Calabria,Impianti eolici onshore
+15947,Sicilia,Impianti eolici onshore
+15960,Sardegna,Fotovoltaici
+15939,Marche,Interporti
+15941,Puglia,Fotovoltaici
+15938,Sicilia,Opere ferroviarie
+15950,Basilicata,Impianti eolici onshore
+15950,Puglia,Impianti eolici onshore
+15951,Basilicata,Impianti eolici onshore
+15963,Basilicata,Impianti eolici onshore
+15952,Puglia,Impianti eolici onshore
+15914,Sicilia,Opere stradali
+15910,Emilia Romagna,Aeroporti
+15927,Marche,Impianti eolici onshore
+15969,Umbria,Metanodotti
+15969,Marche,Metanodotti
+15973,Lombardia,Opere ferroviarie
+15973,Veneto,Opere ferroviarie
+15924,Sicilia,Fotovoltaici
+15920,Lazio,Opere ferroviarie
+15945,Puglia,Opere ferroviarie
+15945,Campania,Opere ferroviarie
+15892,Puglia,Impianti eolici onshore
+15906,Toscana,Metanodotti
+15958,Emilia Romagna,Opere stradali
+15903,Toscana,Fotovoltaici
+15886,Puglia,Fotovoltaici
+15915,Toscana,Risanamento ambientale
+15887,Puglia,Impianti eolici onshore
+15899,Sardegna,Fotovoltaici
+15901,Sardegna,Fotovoltaici
+15860,Liguria,Opere portuali e vie navigabili
+15861,Lazio,Fotovoltaici
+15861,Umbria,Fotovoltaici
+15961,Sardegna,Opere portuali e vie navigabili
+15876,Sicilia,Opere idrauliche
+15878,Emilia Romagna,Fotovoltaici
+15955,Emilia Romagna,Centrali
+15889,Basilicata,Impianti eolici onshore
+15888,Lazio,Opere idrauliche
+15943,Sardegna,Impianti eolici onshore
+15946,Liguria,Opere portuali e vie navigabili
+15930,Basilicata,Impianti idroelettrici
+15891,Basilicata,Fotovoltaici
+15954,Sardegna,Opere idrauliche
+15858,Puglia,Fotovoltaici
+15824,Piemonte,Fotovoltaici
+15824,Lombardia,Fotovoltaici
+15926,Sardegna,Impianti eolici onshore
+15931,Emilia Romagna,Fotovoltaici
+15896,Sicilia,Fotovoltaici
+15916,Calabria,Opere ferroviarie
+15942,Sardegna,Impianti eolici onshore
+15944,Sardegna,Opere portuali e vie navigabili
+15935,Veneto,Fotovoltaici
+15871,Puglia,Impianti eolici onshore
+15902,Campania,Fotovoltaici
+15937,Sardegna,Fotovoltaici
+15921,Piemonte,Opere portuali e vie navigabili
+15874,Puglia,Fotovoltaici
+15786,Sardegna,Fotovoltaici
+15776,Emilia Romagna,Centrali
+15929,Friuli Venezia Giulia,Interporti
+15904,Umbria,Metanodotti
+15904,Marche,Metanodotti
+15904,Toscana,Metanodotti
+15917,Emilia Romagna,Metanodotti
+15917,Toscana,Metanodotti
+15864,Sardegna,Fotovoltaici
+15932,Veneto,Opere ferroviarie
+15909,Lazio,Impianti eolici offshore
+15863,Puglia,Impianti eolici onshore
+15911,Campania,Opere ferroviarie
+15856,Sicilia,Fotovoltaici
+15953,Liguria,Opere portuali e vie navigabili
+15811,Sardegna,Opere portuali e vie navigabili
+15739,Abruzzo,Opere portuali e vie navigabili
+15928,Puglia,Fotovoltaici
+15762,Friuli Venezia Giulia,Impianti idroelettrici
+15855,Sicilia,Fotovoltaici
+15885,Basilicata,Fotovoltaici
+15741,Lazio,Fotovoltaici
+15900,Sicilia,Opere ferroviarie
+15850,Puglia,Fotovoltaici
+15854,Puglia,Fotovoltaici
+15755,Abruzzo,Impianti idroelettrici
+15866,Puglia,Impianti eolici onshore
+15795,Emilia Romagna,Metanodotti
+15851,Campania,Fotovoltaici
+15884,Calabria,Opere portuali e vie navigabili
+15881,Lombardia,Aeroporti
+15933,Liguria,Centrali
+15754,Toscana,Fotovoltaici
+15758,Basilicata,Opere ferroviarie
+15882,Emilia Romagna,Metanodotti
+15882,Toscana,Metanodotti
+15922,Basilicata,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+15736,Emilia Romagna,Impianti di stoccaggio
+15879,Campania,Opere portuali e vie navigabili
+15848,Emilia Romagna,Fotovoltaici
+15893,Lombardia,Opere ferroviarie
+15898,Sardegna,Elettrodotti
+15849,Sardegna,Fotovoltaici
+15852,Sardegna,Impianti eolici onshore
+15880,Liguria,Opere stradali
+15840,Puglia,Fotovoltaici
+15841,Veneto,Centrali
+15867,Puglia,Impianti eolici offshore
+15862,Umbria,Aeroporti
+15839,Molise,Fotovoltaici
+15844,Sardegna,Fotovoltaici
+15822,Sicilia,Fotovoltaici
+15857,Puglia,Metanodotti
+15846,Veneto,Opere stradali
+15847,Veneto,Opere stradali
+15832,Sicilia,Fotovoltaici
+15677,Sardegna,Fotovoltaici
+15752,Emilia Romagna,Fotovoltaici
+15681,Emilia Romagna,Opere stradali
+15838,Liguria,Opere stradali
+15859,Emilia Romagna,Opere stradali
+15821,Sardegna,Fotovoltaici
+15658,Lazio,Opere idrauliche
+15845,Emilia Romagna,Opere portuali e vie navigabili
+15845,Lombardia,Opere portuali e vie navigabili
+15845,Veneto,Opere portuali e vie navigabili
+15842,Umbria,Opere stradali
+15816,Sardegna,Fotovoltaici
+15688,Basilicata,Fotovoltaici
+15790,Sardegna,Impianti eolici onshore
+15837,Basilicata,Impianti eolici onshore
+15801,Toscana,Opere stradali
+15764,Puglia,Impianti eolici onshore
+15868,Veneto,Opere stradali
+15751,Sicilia,Fotovoltaici
+15745,Friuli Venezia Giulia,Fotovoltaici
+15805,Basilicata,Fotovoltaici
+15769,Sardegna,Impianti eolici onshore
+15771,Puglia,Fotovoltaici
+15693,Lazio,Fotovoltaici
+15923,Campania,Elettrodotti
+15797,Sardegna,Impianti eolici onshore
+15828,Sicilia,Opere ferroviarie
+15796,Lazio,Opere portuali e vie navigabili
+15748,Puglia,Fotovoltaici
+15772,Veneto,Opere stradali
+15940,Friuli Venezia Giulia,Centrali
+15777,Toscana,Aeroporti
+15655,Sicilia,Fotovoltaici
+15651,Lombardia,Centrali
+15780,Sicilia,Prospezione idrocarburi
+15726,Calabria,Impianti eolici onshore
+15731,Sardegna,Fotovoltaici
+15738,Toscana,Opere stradali
+15756,Toscana,Metanodotti
+15757,Sicilia,Impianti eolici onshore
+15760,Sicilia,Impianti eolici onshore
+15814,Emilia Romagna,Interporti
+15765,Basilicata,Impianti eolici onshore
+15678,Sicilia,Opere ferroviarie
+15770,Lazio,Impianti eolici onshore
+15800,Marche,Coltivazione idrocarburi
+15802,Nessuna regione,Coltivazione idrocarburi
+15820,Nessuna regione,Coltivazione idrocarburi
+15826,Nessuna regione,Coltivazione idrocarburi
+15829,Nessuna regione,Coltivazione idrocarburi
+15675,Sardegna,Fotovoltaici
+15792,Emilia Romagna,Coltivazione idrocarburi
+15806,Marche,Coltivazione idrocarburi
+15810,Marche,Coltivazione idrocarburi
+15818,Marche,Coltivazione idrocarburi
+15831,Nessuna regione,Coltivazione idrocarburi
+15833,Nessuna regione,Coltivazione idrocarburi
+15834,Nessuna regione,Coltivazione idrocarburi
+15835,Nessuna regione,Coltivazione idrocarburi
+15836,Nessuna regione,Coltivazione idrocarburi
+15813,Marche,Coltivazione idrocarburi
+15815,Marche,Coltivazione idrocarburi
+15819,Marche,Coltivazione idrocarburi
+15672,Sicilia,Fotovoltaici
+15652,Abruzzo,Coltivazione idrocarburi
+15609,Emilia Romagna,Opere stradali
+15798,Lombardia,Opere stradali
+15725,Puglia,Impianti eolici onshore
+15734,Basilicata,Fotovoltaici
+15630,Emilia Romagna,Fotovoltaici
+15827,Veneto,Fotovoltaici
+15641,Puglia,Fotovoltaici
+15682,Sicilia,Impianti eolici onshore
+15694,Lombardia,Centrali
+15612,Puglia,Fotovoltaici
+15830,Lazio,Centrali
+15564,Lazio,Fotovoltaici
+15768,Lombardia,Opere stradali
+15627,Sicilia,Fotovoltaici
+15750,Puglia,Impianti eolici onshore
+15626,Calabria,Impianti eolici onshore
+15667,Calabria,Impianti eolici onshore
+15761,Lombardia,Impianti di stoccaggio
+15634,Puglia,Fotovoltaici
+15567,Sicilia,Impianti eolici onshore
+15804,Piemonte,Fotovoltaici
+15644,Sardegna,Impianti eolici onshore
+15653,Sardegna,Impianti eolici onshore
+15724,Basilicata,Fotovoltaici
+15787,Piemonte,Fotovoltaici
+15588,Puglia,Fotovoltaici
+15533,Liguria,Opere portuali e vie navigabili
+15616,Sardegna,Fotovoltaici
+15614,Puglia,Fotovoltaici
+15720,Puglia,Impianti eolici onshore
+15549,Toscana,Fotovoltaici
+15744,Sardegna,Impianti eolici onshore
+15853,Sardegna,Impianti eolici onshore
+15680,Lombardia,Centrali
+15662,Sardegna,Fotovoltaici
+15668,Molise,Fotovoltaici
+15666,Sardegna,Fotovoltaici
+15707,Lombardia,Impianti di stoccaggio
+15743,Basilicata,Fotovoltaici
+15661,Puglia,Fotovoltaici
+15642,Sardegna,Impianti eolici onshore
+15664,Sardegna,Impianti eolici onshore
+15636,Sardegna,Fotovoltaici
+15648,Sardegna,Fotovoltaici
+15628,Sicilia,Fotovoltaici
+15546,Toscana,Impianti eolici onshore
+15660,Sicilia,Fotovoltaici
+15665,Sicilia,Fotovoltaici
+15766,Veneto,Fotovoltaici
+15774,Umbria,Metanodotti
+15650,Campania,Fotovoltaici
+15606,Umbria,Opere stradali
+15601,Toscana,Impianti eolici onshore
+15610,Liguria,Opere portuali e vie navigabili
+15575,Sardegna,Impianti eolici onshore
+15568,Lombardia,Impianti idroelettrici
+15732,Basilicata,Fotovoltaici
+15670,Emilia Romagna,Fotovoltaici
+15603,Puglia,Fotovoltaici
+15683,Sicilia,Fotovoltaici
+15635,Sicilia,Fotovoltaici
+15723,Puglia,Impianti eolici onshore
+15689,Sardegna,Impianti eolici onshore
+15563,Sardegna,Impianti eolici onshore
+15654,Sardegna,Fotovoltaici
+15631,Sicilia,Fotovoltaici
+15629,Puglia,Fotovoltaici
+15632,Sicilia,Fotovoltaici
+15500,Lombardia,Opere stradali
+15573,Sardegna,Fotovoltaici
+15594,Molise,Impianti eolici onshore
+15596,Campania,Impianti eolici onshore
+15597,Campania,Impianti eolici onshore
+15611,Campania,Impianti eolici onshore
+15690,Lombardia,Centrali
+15552,Sicilia,Impianti eolici onshore
+15572,Lombardia,Centrali
+15587,Puglia,Impianti eolici offshore
+15587,Calabria,Impianti eolici offshore
+15566,Sicilia,Opere ferroviarie
+15595,Emilia Romagna,Opere ferroviarie
+15560,Toscana,Opere ferroviarie
+15592,Sicilia,Opere ferroviarie
+15574,Sardegna,Impianti eolici onshore
+15604,Liguria,Opere portuali e vie navigabili
+15622,Campania,Impianti eolici onshore
+15791,Campania,Centrali
+15625,Trentino Alto Adige,Opere ferroviarie
+15490,Sicilia,Impianti eolici onshore
+15656,Piemonte,Opere stradali
+15763,Umbria,Opere stradali
+15763,Marche,Opere stradali
+15593,Marche,Fotovoltaici
+15623,Sardegna,Fotovoltaici
+15749,Puglia,Impianti eolici onshore
+15600,Toscana,Fotovoltaici
+15542,Emilia Romagna,Fotovoltaici
+15547,Sardegna,Impianti eolici onshore
+15515,Trentino Alto Adige,Opere ferroviarie
+15515,Veneto,Opere ferroviarie
+15753,Puglia,Impianti eolici onshore
+15501,Sicilia,Impianti eolici onshore
+15721,Basilicata,Fotovoltaici
+15659,Marche,Opere stradali
+15539,Molise,Impianti eolici onshore
+15556,Lombardia,Centrali
+15576,Puglia,Fotovoltaici
+15602,Puglia,Fotovoltaici
+15553,Sicilia,Fotovoltaici
+15581,Lazio,Metanodotti
+15581,Umbria,Metanodotti
+15581,Marche,Metanodotti
+15581,Abruzzo,Metanodotti
+15496,Sicilia,Impianti eolici onshore
+15570,Puglia,Fotovoltaici
+15746,Basilicata,Fotovoltaici
+15537,Umbria,Impianti geotermici
+15503,Emilia Romagna,Fotovoltaici
+15569,Puglia,Fotovoltaici
+15785,Liguria,Opere portuali e vie navigabili
+15517,Puglia,Impianti eolici onshore
+15489,Lazio,Opere idrauliche
+15480,Molise,Fotovoltaici
+15488,Friuli Venezia Giulia,Fotovoltaici
+15488,Veneto,Fotovoltaici
+15577,Puglia,Fotovoltaici
+15483,Sicilia,Fotovoltaici
+15492,Sicilia,Impianti eolici onshore
+15536,Marche,Impianti eolici onshore
+15536,Toscana,Impianti eolici onshore
+15544,Molise,Fotovoltaici
+15504,Lazio,Fotovoltaici
+15506,Sicilia,Impianti eolici onshore
+15522,Basilicata,Impianti eolici onshore
+15499,Emilia Romagna,Terminali marittimi
+15461,Campania,Centrali
+15510,Friuli Venezia Giulia,Fotovoltaici
+15691,Puglia,Opere ferroviarie
+15554,Marche,Opere ferroviarie
+15674,Lombardia,Centrali
+15550,Marche,Opere stradali
+15558,Marche,Opere stradali
+15557,Toscana,Opere stradali
+15562,Puglia,Impianti eolici onshore
+15543,Campania,Opere portuali e vie navigabili
+15459,Basilicata,Impianti eolici onshore
+15456,Sardegna,Fotovoltaici
+15561,Sicilia,Fotovoltaici
+15457,Puglia,Fotovoltaici
+15507,Marche,Opere ferroviarie
+15474,Lombardia,Opere stradali
+15508,Lazio,Opere stradali
+15447,Puglia,Impianti eolici onshore
+15493,Puglia,Impianti eolici offshore
+15455,Sicilia,Impianti eolici onshore
+15473,Sardegna,Impianti eolici offshore
+15497,Puglia,Impianti eolici onshore
+15448,Basilicata,Fotovoltaici
+15692,Umbria,Opere stradali
+15571,Lombardia,Opere stradali
+15450,Basilicata,Opere ferroviarie
+15450,Puglia,Opere ferroviarie
+15843,Lombardia,Centrali
+15449,Sicilia,Opere ferroviarie
+15471,Sardegna,Fotovoltaici
+15735,Marche,Metanodotti
+15511,Friuli Venezia Giulia,Fotovoltaici
+15438,Puglia,Impianti eolici onshore
+15462,Puglia,Impianti eolici onshore
+15495,Molise,Elettrodotti
+15502,Puglia,Impianti eolici onshore
+15477,Basilicata,Fotovoltaici
+15436,Puglia,Impianti eolici onshore
+15452,Lazio,Fotovoltaici
+15498,Lombardia,Opere stradali
+15509,Friuli Venezia Giulia,Fotovoltaici
+15472,Puglia,Opere ferroviarie
+15541,Veneto,Fotovoltaici
+15468,Calabria,Impianti eolici onshore
+15446,Veneto,Fotovoltaici
+15618,Campania,Opere portuali e vie navigabili
+15429,Sardegna,Fotovoltaici
+15466,Puglia,Opere ferroviarie
+15466,Campania,Opere ferroviarie
+15520,Umbria,Metanodotti
+15520,Marche,Metanodotti
+15463,Molise,Impianti eolici onshore
+15465,Sicilia,Coltivazione idrocarburi
+15494,Sicilia,Prospezione idrocarburi
+15605,Emilia Romagna,Centrali
+15485,Lombardia,Elettrodotti
+15442,Calabria,Opere idrauliche
+15460,Sicilia,Fotovoltaici
+15419,Emilia Romagna,Fotovoltaici
+15454,Emilia Romagna,Fotovoltaici
+15458,Basilicata,Impianti eolici onshore
+15714,Sicilia,Elettrodotti
+15431,Liguria,Opere portuali e vie navigabili
+15437,Sardegna,Fotovoltaici
+15663,Puglia,Raffinerie
+15405,Sardegna,Fotovoltaici
+15416,Emilia Romagna,Fotovoltaici
+15445,Basilicata,Opere ferroviarie
+15445,Campania,Opere ferroviarie
+15445,Calabria,Opere ferroviarie
+15409,Puglia,Fotovoltaici
+15444,Toscana,Impianti geotermici
+15413,Basilicata,Fotovoltaici
+15407,Campania,Impianti eolici onshore
+15453,Emilia Romagna,Fotovoltaici
+15441,Toscana,Fotovoltaici
+15404,Lazio,Fotovoltaici
+15408,Puglia,Fotovoltaici
+15415,Puglia,Fotovoltaici
+15417,Sardegna,Impianti eolici onshore
+15420,Sicilia,Impianti eolici onshore
+15406,Basilicata,Fotovoltaici
+15430,Lazio,Elettrodotti
+15538,Piemonte,Opere stradali
+15410,Marche,Opere stradali
+15411,Emilia Romagna,Opere stradali
+15394,Sicilia,Fotovoltaici
+15384,Umbria,Impianti eolici onshore
+15422,Toscana,Opere stradali
+15451,Liguria,Fotovoltaici
+15451,Piemonte,Fotovoltaici
+15386,Sicilia,Impianti eolici onshore
+15390,Basilicata,Opere ferroviarie
+15385,Sardegna,Impianti eolici onshore
+15400,Sicilia,Opere ferroviarie
+15395,Sicilia,Elettrodotti
+15425,Toscana,Opere stradali
+15414,Emilia Romagna,Opere portuali e vie navigabili
+15469,Piemonte,Centrali
+15398,Puglia,Fotovoltaici
+15379,Sicilia,Impianti eolici onshore
+15375,Sardegna,Impianti eolici onshore
+15369,Abruzzo,Impianti eolici onshore
+15427,Campania,Elettrodotti
+15381,Lombardia,Opere stradali
+15371,Puglia,Fotovoltaici
+15372,Puglia,Fotovoltaici
+15397,Campania,Opere ferroviarie
+15383,Sardegna,Fotovoltaici
+15396,Puglia,Fotovoltaici
+15401,Abruzzo,Metanodotti
+15380,Sicilia,Fotovoltaici
+15377,Molise,Impianti eolici onshore
+15373,Sicilia,Fotovoltaici
+15713,Sicilia,Fotovoltaici
+15376,Lazio,Centrali
+15676,Trentino Alto Adige,Centrali
+15877,Liguria,Opere portuali e vie navigabili
+15340,Sardegna,Opere portuali e vie navigabili
+15382,Lombardia,Centrali
+15337,Molise,Impianti eolici onshore
+15352,Puglia,Impianti eolici onshore
+15336,Sicilia,Fotovoltaici
+15333,Sardegna,Fotovoltaici
+15334,Marche,Opere stradali
+15374,Veneto,Opere stradali
+15370,Sicilia,Impianti eolici offshore
+15342,Liguria,Opere portuali e vie navigabili
+15399,Puglia,Fotovoltaici
+15318,Campania,Fotovoltaici
+15348,Molise,Impianti eolici onshore
+15956,Veneto,Opere ferroviarie
+15367,Veneto,Impianti di rigassificazione
+15335,Puglia,Fotovoltaici
+15696,Puglia,Impianti eolici onshore
+15314,Puglia,Impianti eolici onshore
+15327,Sicilia,Opere portuali e vie navigabili
+15344,Sicilia,Impianti eolici onshore
+15364,Sardegna,Opere portuali e vie navigabili
+15320,Puglia,Fotovoltaici
+15346,Liguria,Opere stradali
+15301,Sardegna,Fotovoltaici
+15312,Sardegna,Fotovoltaici
+15305,Sicilia,Fotovoltaici
+15304,Sicilia,Fotovoltaici
+15368,Puglia,Centrali
+15353,Veneto,Fotovoltaici
+15306,Calabria,Impianti eolici onshore
+15308,Puglia,Impianti eolici onshore
+15350,Liguria,Centrali
+15302,Abruzzo,Opere portuali e vie navigabili
+15293,Abruzzo,Impianti eolici offshore
+15288,Sicilia,Opere portuali e vie navigabili
+15702,Puglia,Impianti eolici onshore
+15285,Puglia,Impianti eolici onshore
+15329,Basilicata,Opere stradali
+15331,Abruzzo,Opere portuali e vie navigabili
+15349,Lombardia,Aeroporti
+15289,Puglia,Impianti eolici onshore
+15295,Sardegna,Impianti eolici onshore
+15283,Puglia,Impianti eolici onshore
+15290,Molise,Impianti eolici onshore
+15266,Puglia,Fotovoltaici
+15332,Lombardia,Aeroporti
+15316,Umbria,Opere stradali
+15267,Puglia,Fotovoltaici
+15354,Lazio,Impianti di rigassificazione
+15338,Umbria,Opere stradali
+15275,Lazio,Impianti eolici onshore
+15311,Lombardia,Centrali
+15260,Veneto,Fotovoltaici
+15255,Puglia,Fotovoltaici
+15263,Sicilia,Impianti eolici onshore
+15257,Sicilia,Fotovoltaici
+15254,Sardegna,Fotovoltaici
+15339,Puglia,Fotovoltaici
+15292,Toscana,Impianti eolici onshore
+15256,Sicilia,Impianti eolici onshore
+15272,Sardegna,Opere stradali
+15747,Emilia Romagna,Elettrodotti
+15747,Toscana,Elettrodotti
+15264,Lombardia,Centrali
+15355,Sardegna,Opere portuali e vie navigabili
+15265,Friuli Venezia Giulia,Centrali
+15243,Sicilia,Fotovoltaici
+15245,Sicilia,Fotovoltaici
+15297,Calabria,Opere portuali e vie navigabili
+15268,Sardegna,Fotovoltaici
+15269,Sicilia,Aeroporti
+15273,Sicilia,Fotovoltaici
+15280,Campania,Opere portuali e vie navigabili
+15271,Sardegna,Fotovoltaici
+15244,Campania,Impianti eolici onshore
+15251,Veneto,Aeroporti
+15234,Emilia Romagna,Interporti
+15249,Puglia,Impianti eolici onshore
+15258,Sardegna,Impianti di rigassificazione
+15236,Puglia,Fotovoltaici
+15235,Sardegna,Fotovoltaici
+15230,Sardegna,Fotovoltaici
+15231,Sardegna,Impianti eolici onshore
+15428,Friuli Venezia Giulia,Fotovoltaici
+15228,Sicilia,Fotovoltaici
+15226,Sardegna,Fotovoltaici
+15358,Basilicata,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+15239,Veneto,Opere stradali
+15222,Sardegna,Fotovoltaici
+15220,Puglia,Impianti eolici onshore
+15262,Campania,Opere ferroviarie
+15221,Sardegna,Fotovoltaici
+15252,Emilia Romagna,Metanodotti
+15225,Puglia,Fotovoltaici
+15825,Sicilia,Raffinerie
+15233,Lombardia,Opere stradali
+15360,Piemonte,Centrali
+15218,Liguria,Opere portuali e vie navigabili
+15211,Sardegna,Impianti eolici onshore
+15217,Piemonte,Centrali
+15214,Sardegna,Impianti eolici onshore
+15237,Trentino Alto Adige,Opere stradali
+15205,Sardegna,Impianti eolici onshore
+15210,Puglia,Fotovoltaici
+15198,Sicilia,Fotovoltaici
+15191,Puglia,Fotovoltaici
+15202,Sicilia,Impianti eolici onshore
+15204,Molise,Impianti eolici onshore
+15412,Campania,Elettrodotti
+15192,Molise,Fotovoltaici
+15223,Liguria,Opere stradali
+15216,Molise,Impianti eolici onshore
+15219,Toscana,Opere ferroviarie
+15203,Sicilia,Impianti eolici onshore
+15197,Umbria,Opere stradali
+15196,Sardegna,Fotovoltaici
+15229,Lazio,Impianti di rigassificazione
+15178,Lazio,Fotovoltaici
+15188,Sicilia,Fotovoltaici
+15189,Molise,Impianti eolici onshore
+15180,Sardegna,Fotovoltaici
+15869,Sicilia,Elettrodotti
+15177,Puglia,Fotovoltaici
+15176,Molise,Impianti eolici onshore
+15176,Campania,Impianti eolici onshore
+15171,Puglia,Fotovoltaici
+15174,Sardegna,Fotovoltaici
+15160,Puglia,Impianti eolici onshore
+15157,Puglia,Fotovoltaici
+15276,Campania,Centrali
+15964,Piemonte,Elettrodotti
+15182,Puglia,Opere portuali e vie navigabili
+15172,Basilicata,Fotovoltaici
+15307,Lazio,Aeroporti
+15165,Toscana,Fotovoltaici
+15163,Sicilia,Impianti eolici onshore
+15158,Puglia,Fotovoltaici
+15154,Sardegna,Fotovoltaici
+15162,Sicilia,Impianti eolici onshore
+15168,Sardegna,Fotovoltaici
+15186,Sicilia,Opere stradali
+15181,Calabria,Fotovoltaici
+15330,Sardegna,Fotovoltaici
+15169,Lazio,Opere portuali e vie navigabili
+15149,Sicilia,Impianti eolici onshore
+15166,Emilia Romagna,Opere idrauliche
+15166,Toscana,Opere idrauliche
+15147,Sicilia,Impianti eolici onshore
+15155,Molise,Impianti eolici onshore
+15170,Basilicata,Impianti eolici onshore
+15161,Puglia,Impianti eolici onshore
+15156,Liguria,Opere stradali
+15173,Liguria,Opere stradali
+15153,Friuli Venezia Giulia,Fotovoltaici
+15151,Basilicata,Impianti eolici onshore
+15128,Lazio,Opere stradali
+15131,Puglia,Fotovoltaici
+15121,Puglia,Fotovoltaici
+15141,Piemonte,Fotovoltaici
+15135,Campania,Fotovoltaici
+15118,Basilicata,Fotovoltaici
+15118,Puglia,Fotovoltaici
+15164,Abruzzo,Coltivazione idrocarburi
+15120,Lazio,Fotovoltaici
+15142,Basilicata,Opere stradali
+15142,Puglia,Opere stradali
+15113,Puglia,Fotovoltaici
+15108,Puglia,Metanodotti
+15112,Sardegna,Impianti eolici onshore
+15116,Sardegna,Opere ferroviarie
+15124,Molise,Impianti eolici onshore
+15119,Campania,Impianti eolici onshore
+15134,Campania,Opere portuali e vie navigabili
+15094,Lazio,Fotovoltaici
+15114,Sicilia,Opere ferroviarie
+15093,Basilicata,Impianti eolici onshore
+15123,Friuli Venezia Giulia,Opere portuali e vie navigabili
+15095,Sardegna,Fotovoltaici
+15092,Sicilia,Fotovoltaici
+15122,Sicilia,Fotovoltaici
+15125,Puglia,Opere stradali
+15291,Umbria,Opere stradali
+15130,Sardegna,Impianti eolici offshore
+15103,Sardegna,Fotovoltaici
+15096,Sicilia,Fotovoltaici
+15111,Campania,Opere portuali e vie navigabili
+15110,Puglia,Metanodotti
+15098,Sardegna,Fotovoltaici
+15082,Molise,Impianti eolici onshore
+15159,Friuli Venezia Giulia,Opere stradali
+15099,Lazio,Fotovoltaici
+15079,Puglia,Opere ferroviarie
+15143,Marche,Elettrodotti
+15088,Puglia,Opere portuali e vie navigabili
+15101,Emilia Romagna,Opere stradali
+15104,Emilia Romagna,Opere stradali
+15084,Umbria,Metanodotti
+15084,Toscana,Metanodotti
+15074,Sicilia,Fotovoltaici
+15059,Sardegna,Fotovoltaici
+15077,Puglia,Fotovoltaici
+15070,Calabria,Opere portuali e vie navigabili
+15073,Lazio,Fotovoltaici
+15080,Molise,Fotovoltaici
+15071,Toscana,Opere portuali e vie navigabili
+15058,Marche,Coltivazione idrocarburi
+15045,Puglia,Fotovoltaici
+15083,Emilia Romagna,Centrali
+15055,Liguria,Impianti di rigassificazione
+15060,Sardegna,Fotovoltaici
+15046,Puglia,Fotovoltaici
+15048,Lazio,Opere idrauliche
+15097,Trentino Alto Adige,Opere ferroviarie
+15053,Sicilia,Fotovoltaici
+15043,Liguria,Opere portuali e vie navigabili
+15042,Liguria,Impianti di rigassificazione
+15047,Puglia,Metanodotti
+15039,Emilia Romagna,Impianti eolici onshore
+15066,Sicilia,Elettrodotti
+15040,Calabria,Interporti
+15032,Emilia Romagna,Opere stradali
+15028,Sicilia,Fotovoltaici
+15056,Sicilia,Elettrodotti
+15022,Puglia,Fotovoltaici
+15069,Campania,Opere portuali e vie navigabili
+15194,Toscana,Opere idrauliche
+15014,Lazio,Fotovoltaici
+15011,Sardegna,Impianti eolici onshore
+15009,Sardegna,Fotovoltaici
+15019,Sardegna,Fotovoltaici
+15054,Puglia,Impianti eolici offshore
+14988,Puglia,Opere portuali e vie navigabili
+15025,Campania,Metanodotti
+14986,Liguria,Opere portuali e vie navigabili
+14976,Sicilia,Impianti eolici onshore
+15038,Marche,Elettrodotti
+14973,Puglia,Interporti
+15031,Piemonte,Fotovoltaici
+14951,Sardegna,Fotovoltaici
+14965,Sicilia,Opere portuali e vie navigabili
+14975,Calabria,Fotovoltaici
+14957,Puglia,Fotovoltaici
+14987,Puglia,Fotovoltaici
+14985,Lombardia,Opere stradali
+14962,Campania,Impianti eolici onshore
+14959,Sicilia,Opere portuali e vie navigabili
+14949,Sardegna,Impianti eolici onshore
+15004,Basilicata,Impianti idroelettrici
+14955,Sicilia,Fotovoltaici
+15036,Puglia,Fotovoltaici
+14950,Sardegna,Fotovoltaici
+14952,Puglia,Fotovoltaici
+15044,Sicilia,Fotovoltaici
+14977,Lombardia,Centrali
+14960,Sicilia,Impianti eolici onshore
+14974,Puglia,Impianti eolici onshore
+14974,Campania,Impianti eolici onshore
+15016,Marche,Opere ferroviarie
+14929,Puglia,Impianti eolici offshore
+14940,Sicilia,Fotovoltaici
+14971,Emilia Romagna,Aeroporti
+14947,Calabria,Impianti eolici onshore
+14937,Marche,Coltivazione idrocarburi
+14932,Sardegna,Fotovoltaici
+14984,Campania,Opere ferroviarie
+14933,Sardegna,Impianti eolici onshore
+14978,Lazio,Impianti eolici onshore
+15017,Sicilia,Opere ferroviarie
+14941,Lazio,Impianti eolici offshore
+14954,Sicilia,Fotovoltaici
+14961,Sicilia,Fotovoltaici
+14930,Puglia,Impianti eolici onshore
+14931,Puglia,Impianti eolici onshore
+15035,Lombardia,Aeroporti
+14981,Nessuna regione,Terminali marittimi
+14956,Sardegna,Opere stradali
+14966,Emilia Romagna,Opere stradali
+14972,Lazio,Fotovoltaici
+14958,Molise,Fotovoltaici
+15087,Emilia Romagna,Centrali
+14945,Calabria,Impianti eolici onshore
+14918,Calabria,Impianti eolici onshore
+14915,Sicilia,Fotovoltaici
+14927,Puglia,Impianti eolici onshore
+14942,Sicilia,Fotovoltaici
+14920,Basilicata,Fotovoltaici
+15007,Sicilia,Fotovoltaici
+14924,Basilicata,Impianti eolici onshore
+14922,Puglia,Impianti eolici onshore
+14912,Calabria,Impianti eolici onshore
+15072,Calabria,Metanodotti
+14910,Puglia,Fotovoltaici
+14970,Toscana,Fotovoltaici
+14911,Sicilia,Fotovoltaici
+14921,Basilicata,Fotovoltaici
+14925,Lazio,Fotovoltaici
+15085,Puglia,Impianti eolici onshore
+14906,Basilicata,Impianti eolici onshore
+14906,Puglia,Impianti eolici onshore
+15030,Lombardia,Centrali
+15029,Lombardia,Centrali
+14935,Abruzzo,Metanodotti
+14936,Puglia,Opere stradali
+14953,Puglia,Opere stradali
+14916,Basilicata,Impianti eolici onshore
+14917,Campania,Fotovoltaici
+14995,Veneto,Fotovoltaici
+14926,Sardegna,Fotovoltaici
+14923,Basilicata,Fotovoltaici
+14903,Sicilia,Fotovoltaici
+15064,Campania,Impianti eolici onshore
+14900,Puglia,Impianti eolici onshore
+14913,Abruzzo,Fotovoltaici
+14883,Sardegna,Fotovoltaici
+14919,Basilicata,Fotovoltaici
+14897,Liguria,Opere portuali e vie navigabili
+14889,Sardegna,Fotovoltaici
+14895,Sardegna,Fotovoltaici
+15024,Sardegna,Centrali
+14907,Lombardia,Opere ferroviarie
+14876,Puglia,Impianti eolici onshore
+14877,Puglia,Impianti eolici onshore
+14884,Calabria,Opere ferroviarie
+15037,Marche,Elettrodotti
+14880,Sardegna,Impianti eolici offshore
+14882,Sardegna,Impianti eolici offshore
+14893,Sicilia,Fotovoltaici
+14896,Toscana,Impianti eolici offshore
+14886,Marche,Opere stradali
+14887,Lazio,Impianti eolici offshore
+14887,Sardegna,Impianti eolici offshore
+14894,Emilia Romagna,Impianti eolici offshore
+14892,Emilia Romagna,Opere idrauliche
+14879,Lombardia,Centrali
+14902,Lombardia,Centrali
+15005,Lombardia,Opere idrauliche
+14881,Sicilia,Fotovoltaici
+14885,Sicilia,Impianti eolici onshore
+14908,Sardegna,Fotovoltaici
+15150,Campania,Risanamento ambientale
+14864,Puglia,Impianti eolici onshore
+14905,Lombardia,Opere stradali
+14854,Molise,Impianti eolici onshore
+14888,Sardegna,Fotovoltaici
+15433,Piemonte,Centrali
+14989,Friuli Venezia Giulia,Opere ferroviarie
+14860,Calabria,Impianti idroelettrici
+14856,Lazio,Fotovoltaici
+14856,Toscana,Fotovoltaici
+14862,Basilicata,Impianti eolici onshore
+14850,Sardegna,Impianti eolici onshore
+14843,Campania,Fotovoltaici
+14875,Sicilia,Fotovoltaici
+14839,Toscana,Fotovoltaici
+14996,Lazio,Fotovoltaici
+14846,Puglia,Impianti eolici onshore
+14838,Sicilia,Fotovoltaici
+14842,Sicilia,Fotovoltaici
+14835,Umbria,Opere stradali
+14863,Basilicata,Impianti eolici onshore
+14824,Puglia,Fotovoltaici
+14805,Lombardia,Attività minerarie
+14810,Sardegna,Fotovoltaici
+14807,Toscana,Fotovoltaici
+14848,Sardegna,Impianti eolici onshore
+14891,Lombardia,Opere stradali
+14811,Sicilia,Impianti eolici onshore
+14904,Sicilia,Opere ferroviarie
+14804,Sicilia,Fotovoltaici
+14809,Puglia,Fotovoltaici
+14833,Sardegna,Fotovoltaici
+15008,Sicilia,Fotovoltaici
+14819,Emilia Romagna,Coltivazione idrocarburi
+14998,Umbria,Opere stradali
+14849,Toscana,Fotovoltaici
+14983,Emilia Romagna,Centrali
+14803,Lazio,Fotovoltaici
+14800,Lazio,Fotovoltaici
+14797,Puglia,Fotovoltaici
+14867,Molise,Fotovoltaici
+14852,Sardegna,Fotovoltaici
+14786,Lombardia,Opere stradali
+14789,Puglia,Fotovoltaici
+14899,Basilicata,Impianti eolici onshore
+14787,Piemonte,Fotovoltaici
+14790,Puglia,Fotovoltaici
+14801,Lazio,Impianti eolici onshore
+14798,Sicilia,Fotovoltaici
+14794,Sicilia,Fotovoltaici
+14796,Puglia,Fotovoltaici
+14788,Puglia,Fotovoltaici
+14780,Emilia Romagna,Opere portuali e vie navigabili
+14999,Lombardia,Opere stradali
+14778,Sardegna,Centrali
+14841,Sardegna,Fotovoltaici
+14806,Lazio,Impianti geotermici
+14777,Basilicata,Fotovoltaici
+14784,Umbria,Elettrodotti
+14774,Puglia,Impianti eolici onshore
+14814,Sardegna,Fotovoltaici
+14832,Sardegna,Fotovoltaici
+14871,Piemonte,Opere ferroviarie
+14785,Friuli Venezia Giulia,Metanodotti
+14795,Molise,Metanodotti
+14779,Lazio,Impianti eolici onshore
+14792,Piemonte,Fotovoltaici
+14840,Sardegna,Opere portuali e vie navigabili
+14822,Sardegna,Fotovoltaici
+14770,Sicilia,Fotovoltaici
+14847,Toscana,Opere ferroviarie
+14769,Lazio,Impianti eolici onshore
+14772,Lazio,Impianti eolici onshore
+15129,Sicilia,Raffinerie
+14768,Puglia,Impianti eolici onshore
+14783,Sicilia,Fotovoltaici
+14775,Sicilia,Impianti eolici onshore
+14776,Sicilia,Impianti eolici onshore
+14765,Puglia,Fotovoltaici
+14816,Piemonte,Opere ferroviarie
+15049,Basilicata,Impianti eolici onshore
+14870,Basilicata,Fotovoltaici
+14766,Emilia Romagna,Fotovoltaici
+14761,Piemonte,Elettrodotti
+14754,Sicilia,Fotovoltaici
+14831,Sardegna,Fotovoltaici
+14827,Sardegna,Impianti eolici onshore
+14755,Puglia,Fotovoltaici
+14764,Puglia,Impianti eolici onshore
+14773,Puglia,Metanodotti
+14773,Molise,Metanodotti
+14773,Abruzzo,Metanodotti
+15138,Veneto,Centrali
+14853,Sardegna,Fotovoltaici
+15242,Abruzzo,Opere ferroviarie
+14748,Sicilia,Impianti eolici onshore
+14749,Sicilia,Impianti eolici onshore
+14757,Friuli Venezia Giulia,Opere portuali e vie navigabili
+14759,Basilicata,Fotovoltaici
+15139,Puglia,Centrali
+14745,Puglia,Impianti eolici offshore
+14751,Sicilia,Impianti eolici offshore
+14861,Sardegna,Impianti eolici onshore
+14756,Puglia,Fotovoltaici
+14740,Puglia,Fotovoltaici
+14721,Puglia,Impianti eolici onshore
+14763,Sicilia,Fotovoltaici
+14943,Sardegna,Opere portuali e vie navigabili
+14725,Sicilia,Fotovoltaici
+14808,Sardegna,Opere stradali
+14730,Sardegna,Opere portuali e vie navigabili
+14724,Puglia,Fotovoltaici
+14744,Campania,Fotovoltaici
+14726,Sicilia,Fotovoltaici
+14753,Campania,Impianti eolici onshore
+14722,Puglia,Fotovoltaici
+14758,Campania,Fotovoltaici
+14720,Puglia,Fotovoltaici
+14760,Liguria,Opere portuali e vie navigabili
+14729,Campania,Opere portuali e vie navigabili
+14715,Veneto,Aeroporti
+14712,Lazio,Fotovoltaici
+14711,Sicilia,Opere ferroviarie
+14719,Sicilia,Impianti eolici onshore
+14821,Emilia Romagna,Coltivazione idrocarburi
+14704,Piemonte,Centrali
+14696,Sardegna,Fotovoltaici
+14706,Calabria,Fotovoltaici
+14727,Lombardia,Centrali
+15185,Sicilia,Raffinerie
+14699,Sicilia,Fotovoltaici
+14742,Liguria,Opere ferroviarie
+14717,Lazio,Fotovoltaici
+14693,Sicilia,Opere portuali e vie navigabili
+14691,Emilia Romagna,Fotovoltaici
+14700,Sicilia,Fotovoltaici
+14692,Lazio,Fotovoltaici
+14736,Basilicata,Opere stradali
+14705,Puglia,Fotovoltaici
+14731,Basilicata,Fotovoltaici
+14713,Puglia,Impianti eolici onshore
+14686,Piemonte,Opere portuali e vie navigabili
+14714,Puglia,Impianti eolici onshore
+14739,Basilicata,Fotovoltaici
+15209,Sicilia,Opere ferroviarie
+14690,Sicilia,Opere ferroviarie
+14682,Sardegna,Impianti eolici onshore
+14669,Calabria,Opere portuali e vie navigabili
+14687,Puglia,Opere ferroviarie
+14687,Abruzzo,Opere ferroviarie
+14709,Sicilia,Opere ferroviarie
+14689,Puglia,Impianti eolici offshore
+14826,Marche,Coltivazione idrocarburi
+15018,Emilia Romagna,Impianti di stoccaggio
+14670,Umbria,Aeroporti
+14718,Basilicata,Fotovoltaici
+14762,Puglia,Fotovoltaici
+14675,Toscana,Metanodotti
+14737,Lombardia,Centrali
+14698,Puglia,Fotovoltaici
+14662,Marche,Opere portuali e vie navigabili
+14683,Umbria,Impianti eolici onshore
+14710,Sicilia,Fotovoltaici
+14707,Sicilia,Fotovoltaici
+14685,Sicilia,Impianti eolici onshore
+14746,Lazio,Fotovoltaici
+14703,Sicilia,Fotovoltaici
+14674,Piemonte,Metanodotti
+14676,Puglia,Metanodotti
+14684,Sicilia,Fotovoltaici
+14681,Sicilia,Fotovoltaici
+14665,Sicilia,Opere portuali e vie navigabili
+14663,Puglia,Opere stradali
+14708,Campania,Opere portuali e vie navigabili
+14728,Emilia Romagna,Centrali
+14680,Sicilia,Fotovoltaici
+14661,Lazio,Fotovoltaici
+14658,Basilicata,Impianti eolici offshore
+14658,Puglia,Impianti eolici offshore
+14678,Calabria,Impianti eolici onshore
+14660,Lazio,Fotovoltaici
+14679,Puglia,Fotovoltaici
+14649,Sardegna,Fotovoltaici
+14672,Sicilia,Impianti eolici offshore
+14648,Toscana,Attività minerarie
+14650,Toscana,Attività minerarie
+14653,Lazio,Impianti eolici onshore
+14667,Basilicata,Fotovoltaici
+14667,Puglia,Fotovoltaici
+14851,Sardegna,Opere ferroviarie
+14647,Sicilia,Impianti eolici onshore
+14620,Toscana,Fotovoltaici
+14628,Sardegna,Fotovoltaici
+14644,Sicilia,Fotovoltaici
+14623,Sardegna,Fotovoltaici
+14636,Sardegna,Fotovoltaici
+14641,Puglia,Impianti eolici onshore
+14664,Lazio,Opere ferroviarie
+14677,Basilicata,Fotovoltaici
+14616,Toscana,Attività minerarie
+14617,Toscana,Attività minerarie
+14635,Sardegna,Impianti eolici onshore
+14611,Puglia,Impianti eolici onshore
+14639,Lazio,Fotovoltaici
+14621,Sardegna,Fotovoltaici
+14612,Emilia Romagna,Metanodotti
+14612,Toscana,Metanodotti
+14630,Puglia,Fotovoltaici
+14626,Puglia,Fotovoltaici
+14609,Toscana,Fotovoltaici
+14619,Puglia,Fotovoltaici
+14837,Lombardia,Centrali
+14607,Sardegna,Fotovoltaici
+14901,Veneto,Elettrodotti
+14603,Marche,Opere portuali e vie navigabili
+14618,Sardegna,Fotovoltaici
+14614,Puglia,Impianti eolici onshore
+14613,Puglia,Opere idrauliche
+14597,Sardegna,Fotovoltaici
+14605,Sardegna,Fotovoltaici
+14604,Sardegna,Impianti eolici onshore
+14666,Lazio,Opere ferroviarie
+14868,Lombardia,Impianti di stoccaggio
+15190,Sicilia,Impianti eolici onshore
+14589,Liguria,Opere portuali e vie navigabili
+14655,Liguria,Opere portuali e vie navigabili
+14615,Puglia,Impianti eolici onshore
+14610,Veneto,Fotovoltaici
+14593,Sardegna,Fotovoltaici
+14596,Molise,Impianti idroelettrici
+14596,Abruzzo,Impianti idroelettrici
+14588,Marche,Metanodotti
+14590,Sicilia,Fotovoltaici
+14602,Sicilia,Fotovoltaici
+14599,Puglia,Fotovoltaici
+14580,Veneto,Opere stradali
+14578,Toscana,Impianti eolici onshore
+14818,Marche,Coltivazione idrocarburi
+14582,Puglia,Fotovoltaici
+14584,Sardegna,Fotovoltaici
+14694,Abruzzo,Elettrodotti
+14569,Sardegna,Impianti eolici onshore
+14571,Toscana,Opere portuali e vie navigabili
+14587,Puglia,Fotovoltaici
+14595,Puglia,Impianti eolici onshore
+14570,Lombardia,Centrali
+14581,Sicilia,Impianti eolici onshore
+14583,Molise,Impianti eolici onshore
+14573,Calabria,Impianti eolici onshore
+14825,Marche,Coltivazione idrocarburi
+14631,Sicilia,Fotovoltaici
+14562,Lazio,Impianti eolici onshore
+14562,Toscana,Impianti eolici onshore
+14598,Basilicata,Fotovoltaici
+14559,Lombardia,Opere stradali
+14572,Calabria,Impianti di rigassificazione
+14738,Lazio,Fotovoltaici
+14561,Lombardia,Attività minerarie
+14549,Campania,Opere ferroviarie
+14577,Puglia,Impianti eolici onshore
+14553,Veneto,Fotovoltaici
+14541,Liguria,Opere portuali e vie navigabili
+14552,Friuli Venezia Giulia,Fotovoltaici
+14528,Sicilia,Fotovoltaici
+14558,Lombardia,Opere stradali
+14873,Lazio,Elettrodotti
+14536,Sicilia,Fotovoltaici
+14575,Puglia,Impianti eolici offshore
+14522,Puglia,Fotovoltaici
+14521,Campania,Opere ferroviarie
+14828,Emilia Romagna,Coltivazione idrocarburi
+14829,Marche,Coltivazione idrocarburi
+14526,Puglia,Fotovoltaici
+14523,Sicilia,Impianti eolici onshore
+14518,Veneto,Fotovoltaici
+14560,Lazio,Fotovoltaici
+14668,Basilicata,Impianti eolici onshore
+14520,Sardegna,Fotovoltaici
+14529,Molise,Impianti eolici onshore
+14637,Lazio,Opere stradali
+14524,Sicilia,Fotovoltaici
+14516,Sardegna,Fotovoltaici
+14527,Calabria,Impianti idroelettrici
+14547,Lazio,Impianti di stoccaggio
+14515,Puglia,Fotovoltaici
+14546,Campania,Elettrodotti
+14642,Umbria,Opere stradali
+14511,Puglia,Opere stradali
+14514,Basilicata,Impianti eolici onshore
+14514,Puglia,Impianti eolici onshore
+14501,Sicilia,Fotovoltaici
+14494,Sardegna,Fotovoltaici
+15010,Emilia Romagna,Centrali
+14533,Basilicata,Fotovoltaici
+14499,Sardegna,Fotovoltaici
+14532,Basilicata,Fotovoltaici
+14510,Sardegna,Opere idrauliche
+14500,Sicilia,Fotovoltaici
+14509,Piemonte,Opere stradali
+14531,Basilicata,Fotovoltaici
+14496,Liguria,Opere stradali
+14567,Friuli Venezia Giulia,Centrali
+14503,Veneto,Opere stradali
+14512,Puglia,Impianti eolici onshore
+14493,Toscana,Impianti di rigassificazione
+14484,Sardegna,Impianti eolici onshore
+14579,Basilicata,Elettrodotti
+14497,Basilicata,Coltivazione idrocarburi
+14481,Sicilia,Fotovoltaici
+14502,Calabria,Impianti eolici onshore
+14479,Calabria,Impianti eolici onshore
+14476,Puglia,Fotovoltaici
+14486,Sicilia,Impianti eolici onshore
+14495,Calabria,Opere stradali
+14470,Emilia Romagna,Impianti eolici onshore
+14470,Toscana,Impianti eolici onshore
+14468,Sicilia,Fotovoltaici
+14548,Lazio,Fotovoltaici
+14508,Basilicata,Fotovoltaici
+14469,Sicilia,Fotovoltaici
+14530,Basilicata,Impianti eolici onshore
+14466,Puglia,Fotovoltaici
+14454,Sardegna,Fotovoltaici
+14461,Sicilia,Impianti eolici offshore
+14467,Sardegna,Impianti eolici offshore
+14473,Sardegna,Fotovoltaici
+14525,Basilicata,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+14457,Emilia Romagna,Aeroporti
+14450,Abruzzo,Metanodotti
+14450,Toscana,Metanodotti
+14451,Toscana,Impianti eolici onshore
+14464,Sicilia,Fotovoltaici
+14459,Sicilia,Impianti eolici onshore
+14453,Sardegna,Impianti eolici onshore
+14483,Sardegna,Fotovoltaici
+14475,Marche,Opere stradali
+14447,Sicilia,Impianti eolici onshore
+14557,Emilia Romagna,Opere stradali
+14445,Sicilia,Fotovoltaici
+14485,Sardegna,Fotovoltaici
+14458,Sardegna,Opere portuali e vie navigabili
+14446,Puglia,Fotovoltaici
+14507,Basilicata,Fotovoltaici
+14442,Lazio,Fotovoltaici
+14460,Puglia,Impianti eolici onshore
+14471,Puglia,Impianti eolici onshore
+14564,Sicilia,Impianti eolici offshore
+14506,Toscana,Opere ferroviarie
+14434,Toscana,Impianti eolici onshore
+14422,Basilicata,Fotovoltaici
+14422,Puglia,Fotovoltaici
+14432,Veneto,Opere stradali
+14480,Basilicata,Fotovoltaici
+14431,Puglia,Fotovoltaici
+14423,Sardegna,Fotovoltaici
+14421,Lazio,Fotovoltaici
+14421,Toscana,Fotovoltaici
+14411,Puglia,Fotovoltaici
+14418,Puglia,Fotovoltaici
+14416,Sicilia,Fotovoltaici
+14438,Marche,Opere stradali
+14435,Puglia,Opere ferroviarie
+14402,Sardegna,Impianti eolici onshore
+14834,Marche,Coltivazione idrocarburi
+14425,Basilicata,Fotovoltaici
+14407,Toscana,Fotovoltaici
+14409,Marche,Impianti eolici onshore
+14409,Toscana,Impianti eolici onshore
+14574,Sardegna,Opere portuali e vie navigabili
+14428,Emilia Romagna,Fotovoltaici
+14412,Puglia,Opere idrauliche
+14394,Puglia,Fotovoltaici
+14384,Sardegna,Fotovoltaici
+14449,Emilia Romagna,Coltivazione idrocarburi
+14383,Sardegna,Impianti eolici onshore
+14478,Basilicata,Fotovoltaici
+14375,Basilicata,Impianti eolici onshore
+14404,Toscana,Opere idrauliche
+14417,Piemonte,Fotovoltaici
+14990,Puglia,Elettrodotti
+14990,Campania,Elettrodotti
+14413,Sicilia,Fotovoltaici
+14373,Umbria,Opere stradali
+14405,Lombardia,Opere stradali
+14386,Veneto,Opere stradali
+14381,Marche,Opere stradali
+14399,Calabria,Opere portuali e vie navigabili
+14406,Lombardia,Centrali
+14391,Puglia,Impianti eolici onshore
+14408,Lombardia,Impianti di stoccaggio
+14455,Lombardia,Impianti di stoccaggio
+14396,Trentino Alto Adige,Opere ferroviarie
+14395,Calabria,Opere portuali e vie navigabili
+14388,Sicilia,Centrali
+14364,Sicilia,Impianti eolici onshore
+14361,Puglia,Fotovoltaici
+14356,Puglia,Opere stradali
+14429,Basilicata,Opere stradali
+14362,Puglia,Impianti eolici onshore
+14360,Abruzzo,Opere stradali
+14350,Puglia,Fotovoltaici
+14358,Sardegna,Impianti eolici onshore
+14371,Puglia,Impianti eolici onshore
+14351,Sicilia,Fotovoltaici
+14387,Basilicata,Metanodotti
+14465,Lombardia,Opere stradali
+14424,Marche,Opere stradali
+14369,Piemonte,Opere ferroviarie
+14374,Puglia,Impianti eolici onshore
+14353,Sicilia,Fotovoltaici
+14367,Abruzzo,Opere ferroviarie
+14400,Puglia,Metanodotti
+14376,Sicilia,Opere stradali
+14382,Molise,Fotovoltaici
+14382,Abruzzo,Fotovoltaici
+14355,Sicilia,Fotovoltaici
+14600,Sardegna,Opere idrauliche
+14370,Molise,Fotovoltaici
+14368,Abruzzo,Opere ferroviarie
+14339,Sardegna,Impianti eolici onshore
+14337,Sardegna,Fotovoltaici
+14346,Umbria,Opere stradali
+14347,Umbria,Opere stradali
+14342,Sardegna,Impianti eolici onshore
+14334,Sardegna,Fotovoltaici
+14365,Umbria,Opere idrauliche
+14365,Toscana,Opere idrauliche
+14345,Sicilia,Fotovoltaici
+14338,Sardegna,Impianti eolici offshore
+14349,Calabria,Impianti eolici offshore
+14336,Sardegna,Fotovoltaici
+14332,Puglia,Impianti eolici offshore
+14352,Puglia,Fotovoltaici
+14333,Puglia,Impianti eolici offshore
+14427,Basilicata,Fotovoltaici
+14380,Marche,Coltivazione idrocarburi
+14335,Liguria,Opere portuali e vie navigabili
+14359,Campania,Metanodotti
+14348,Emilia Romagna,Elettrodotti
+14397,Emilia Romagna,Opere stradali
+14327,Puglia,Fotovoltaici
+14328,Puglia,Impianti eolici onshore
+14316,Sardegna,Fotovoltaici
+14326,Lazio,Fotovoltaici
+14321,Sardegna,Opere stradali
+14323,Marche,Opere stradali
+14311,Molise,Impianti eolici onshore
+14308,Sicilia,Impianti eolici onshore
+14306,Sardegna,Impianti eolici onshore
+14302,Puglia,Fotovoltaici
+14299,Emilia Romagna,Aeroporti
+14301,Sicilia,Fotovoltaici
+14307,Sardegna,Impianti eolici onshore
+14303,Lazio,Fotovoltaici
+14282,Sardegna,Impianti eolici onshore
+14385,Campania,Opere ferroviarie
+14291,Molise,Impianti eolici onshore
+14291,Campania,Impianti eolici onshore
+14403,Toscana,Opere portuali e vie navigabili
+14277,Piemonte,Impianti idroelettrici
+14283,Puglia,Opere ferroviarie
+14539,Puglia,Opere stradali
+14372,Molise,Metanodotti
+14312,Emilia Romagna,Fotovoltaici
+14270,Sicilia,Fotovoltaici
+14267,Sardegna,Impianti eolici onshore
+14652,Veneto,Centrali
+14268,Sardegna,Impianti eolici onshore
+14264,Basilicata,Fotovoltaici
+14264,Puglia,Fotovoltaici
+14263,Marche,Opere ferroviarie
+14265,Lazio,Fotovoltaici
+14272,Puglia,Metanodotti
+15649,Trentino Alto Adige,Opere ferroviarie
+14594,Basilicata,Impianti eolici onshore
+14293,Toscana,Impianti di rigassificazione
+13483,Sardegna,Impianti eolici onshore
+14255,Sicilia,Impianti eolici onshore
+14258,Liguria,Metanodotti
+14258,Emilia Romagna,Metanodotti
+14252,Molise,Fotovoltaici
+14136,Friuli Venezia Giulia,Opere idrauliche
+14249,Puglia,Fotovoltaici
+14249,Molise,Fotovoltaici
+14298,Puglia,Impianti eolici offshore
+14250,Sicilia,Impianti eolici offshore
+14245,Puglia,Fotovoltaici
+14242,Liguria,Opere ferroviarie
+14242,Piemonte,Opere ferroviarie
+14237,Emilia Romagna,Opere portuali e vie navigabili
+14297,Basilicata,Coltivazione idrocarburi
+14330,Basilicata,Impianti eolici onshore
+14269,Puglia,Impianti eolici offshore
+14234,Sardegna,Impianti eolici onshore
+14224,Sardegna,Impianti eolici onshore
+14244,Sardegna,Interporti
+14225,Sardegna,Fotovoltaici
+14226,Puglia,Fotovoltaici
+14232,Puglia,Centrali
+14233,Sicilia,Fotovoltaici
+14231,Campania,Fotovoltaici
+14505,Liguria,Centrali
+14217,Sardegna,Fotovoltaici
+14317,Puglia,Terminali marittimi
+14221,Lazio,Impianti eolici offshore
+14223,Lazio,Impianti eolici offshore
+14218,Puglia,Fotovoltaici
+14363,Lazio,Opere idrauliche
+14240,Basilicata,Opere ferroviarie
+14214,Sicilia,Impianti eolici offshore
+14216,Puglia,Fotovoltaici
+14228,Lazio,Opere portuali e vie navigabili
+14213,Sicilia,Opere portuali e vie navigabili
+14204,Lazio,Fotovoltaici
+14230,Calabria,Impianti eolici onshore
+14207,Sardegna,Impianti eolici offshore
+14197,Lazio,Impianti eolici onshore
+14197,Toscana,Impianti eolici onshore
+14201,Sicilia,Impianti eolici onshore
+14229,Puglia,Fotovoltaici
+14300,Sicilia,Ricerca idrocarburi
+14377,Liguria,Opere portuali e vie navigabili
+14186,Sicilia,Interporti
+14202,Sicilia,Opere portuali e vie navigabili
+14219,Veneto,Opere stradali
+14329,Basilicata,Fotovoltaici
+14189,Puglia,Fotovoltaici
+14190,Puglia,Fotovoltaici
+14701,Lazio,Elettrodotti
+14175,Toscana,Fotovoltaici
+14198,Sicilia,Fotovoltaici
+14199,Puglia,Fotovoltaici
+14194,Puglia,Fotovoltaici
+14236,Basilicata,Fotovoltaici
+14192,Puglia,Fotovoltaici
+14243,Basilicata,Fotovoltaici
+14187,Sicilia,Impianti eolici offshore
+14180,Piemonte,Opere ferroviarie
+14209,Sicilia,Metanodotti
+14185,Abruzzo,Metanodotti
+14173,Sardegna,Impianti eolici offshore
+14174,Emilia Romagna,Opere stradali
+14154,Lazio,Centrali
+14163,Lazio,Fotovoltaici
+14158,Molise,Fotovoltaici
+14151,Sicilia,Fotovoltaici
+14152,Puglia,Fotovoltaici
+14212,Veneto,Opere portuali e vie navigabili
+14148,Calabria,Opere portuali e vie navigabili
+14144,Puglia,Opere stradali
+14147,Umbria,Opere stradali
+14135,Liguria,Opere portuali e vie navigabili
+14169,Puglia,Impianti eolici offshore
+14138,Sardegna,Opere portuali e vie navigabili
+14153,Sicilia,Fotovoltaici
+14168,Puglia,Impianti eolici offshore
+14141,Sicilia,Fotovoltaici
+14149,Basilicata,Fotovoltaici
+14145,Puglia,Elettrodotti
+14145,Campania,Elettrodotti
+14142,Puglia,Fotovoltaici
+14139,Puglia,Fotovoltaici
+14164,Lombardia,Centrali
+14137,Sicilia,Fotovoltaici
+14125,Sardegna,Impianti eolici onshore
+14120,Sicilia,Fotovoltaici
+14122,Emilia Romagna,Impianti eolici offshore
+14150,Veneto,Opere stradali
+14181,Basilicata,Impianti eolici onshore
+14108,Lombardia,Centrali
+14117,Liguria,Opere stradali
+14096,Sardegna,Fotovoltaici
+14114,Basilicata,Opere ferroviarie
+14170,Marche,Opere stradali
+14128,Piemonte,Opere stradali
+14140,Friuli Venezia Giulia,Fotovoltaici
+14092,Puglia,Fotovoltaici
+14089,Sardegna,Fotovoltaici
+14143,Basilicata,Impianti eolici onshore
+14143,Puglia,Impianti eolici onshore
+14082,Sicilia,Impianti eolici offshore
+14130,Veneto,Elettrodotti
+14067,Sardegna,Impianti eolici onshore
+14078,Sardegna,Impianti eolici onshore
+14103,Sicilia,Fotovoltaici
+14781,Lombardia,Elettrodotti
+14087,Lazio,Opere stradali
+14085,Puglia,Interporti
+14070,Puglia,Fotovoltaici
+14097,Sicilia,Fotovoltaici
+14079,Lombardia,Centrali
+14074,Sicilia,Fotovoltaici
+14115,Marche,Coltivazione idrocarburi
+14115,Abruzzo,Coltivazione idrocarburi
+14094,Calabria,Fotovoltaici
+14184,Basilicata,Fotovoltaici
+14064,Puglia,Fotovoltaici
+14035,Abruzzo,Opere stradali
+14083,Campania,Centrali
+14081,Veneto,Fotovoltaici
+14098,Sicilia,Aeroporti
+14121,Lombardia,Opere stradali
+14088,Veneto,Opere stradali
+14093,Liguria,Opere portuali e vie navigabili
+14075,Basilicata,Ricerca idrocarburi
+14071,Lazio,Fotovoltaici
+14073,Emilia Romagna,Opere ferroviarie
+14073,Toscana,Opere ferroviarie
+14048,Emilia Romagna,Fotovoltaici
+14051,Puglia,Fotovoltaici
+14032,Puglia,Fotovoltaici
+14086,Emilia Romagna,Opere stradali
+14086,Lombardia,Opere stradali
+14065,Sardegna,Impianti eolici offshore
+14038,Basilicata,Fotovoltaici
+14038,Puglia,Fotovoltaici
+14127,Emilia Romagna,Opere portuali e vie navigabili
+14012,Sicilia,Fotovoltaici
+14033,Puglia,Fotovoltaici
+15126,Veneto,Raffinerie
+14063,Sardegna,Opere idrauliche
+14020,Sicilia,Impianti eolici onshore
+14055,Campania,Opere stradali
+14003,Sardegna,Fotovoltaici
+14004,Sardegna,Fotovoltaici
+14018,Campania,Impianti eolici onshore
+14305,Puglia,Aeroporti
+14057,Puglia,Fotovoltaici
+14477,Piemonte,Attività minerarie
+13986,Sardegna,Opere ferroviarie
+13999,Basilicata,Fotovoltaici
+14039,Molise,Impianti eolici onshore
+13967,Sicilia,Opere ferroviarie
+14027,Sardegna,Impianti eolici onshore
+13961,Lombardia,Opere idrauliche
+14052,Basilicata,Fotovoltaici
+14028,Sardegna,Fotovoltaici
+13995,Basilicata,Impianti idroelettrici
+14041,Veneto,Terminali marittimi
+14104,Lombardia,Opere stradali
+13968,Puglia,Fotovoltaici
+14007,Sardegna,Fotovoltaici
+13924,Sardegna,Fotovoltaici
+14010,Sardegna,Impianti eolici onshore
+14030,Sicilia,Fotovoltaici
+14023,Sardegna,Fotovoltaici
+14844,Trentino Alto Adige,Elettrodotti
+13955,Sardegna,Fotovoltaici
+13946,Puglia,Impianti eolici onshore
+13993,Puglia,Fotovoltaici
+14043,Sardegna,Opere idrauliche
+13997,Sardegna,Impianti eolici offshore
+13982,Sardegna,Aeroporti
+13996,Veneto,Coltivazione idrocarburi
+14068,Veneto,Coltivazione idrocarburi
+14340,Puglia,Fotovoltaici
+13927,Lazio,Fotovoltaici
+13925,Puglia,Fotovoltaici
+13926,Puglia,Fotovoltaici
+14006,Puglia,Fotovoltaici
+14133,Basilicata,Impianti eolici onshore
+13987,Campania,Fotovoltaici
+13863,Lazio,Opere stradali
+13933,Sicilia,Fotovoltaici
+13935,Sicilia,Fotovoltaici
+13917,Sardegna,Impianti eolici onshore
+13885,Sicilia,Fotovoltaici
+13966,Piemonte,Impianti eolici onshore
+13979,Campania,Impianti eolici onshore
+13888,Calabria,Impianti eolici onshore
+13886,Puglia,Fotovoltaici
+13906,Puglia,Impianti eolici offshore
+13953,Campania,Impianti eolici onshore
+13900,Sardegna,Fotovoltaici
+14062,Puglia,Fotovoltaici
+13994,Campania,Fotovoltaici
+14037,Puglia,Fotovoltaici
+15545,Lazio,Fotovoltaici
+13963,Puglia,Impianti eolici onshore
+13960,Sicilia,Fotovoltaici
+13936,Basilicata,Fotovoltaici
+13950,Puglia,Fotovoltaici
+13958,Sicilia,Fotovoltaici
+13847,Sardegna,Impianti eolici onshore
+13889,Sardegna,Impianti eolici onshore
+13949,Sicilia,Fotovoltaici
+13819,Lazio,Opere idrauliche
+13875,Sardegna,Impianti eolici onshore
+13874,Piemonte,Opere idrauliche
+13941,Calabria,Impianti eolici onshore
+13894,Sardegna,Fotovoltaici
+13883,Sardegna,Fotovoltaici
+13892,Sardegna,Impianti eolici onshore
+13902,Puglia,Impianti eolici offshore
+13905,Puglia,Impianti eolici offshore
+13988,Veneto,Fotovoltaici
+13873,Sardegna,Fotovoltaici
+13945,Sicilia,Fotovoltaici
+13869,Sardegna,Fotovoltaici
+13868,Lazio,Fotovoltaici
+14053,Calabria,Impianti eolici onshore
+13859,Campania,Metanodotti
+13944,Puglia,Fotovoltaici
+13910,Emilia Romagna,Impianti di stoccaggio
+13832,Piemonte,Opere stradali
+13923,Sicilia,Impianti eolici onshore
+14026,Emilia Romagna,Centrali
+13879,Emilia Romagna,Fotovoltaici
+13831,Piemonte,Fotovoltaici
+13915,Puglia,Fotovoltaici
+13964,Sicilia,Fotovoltaici
+13849,Toscana,Impianti eolici onshore
+14659,Molise,Fotovoltaici
+13836,Calabria,Impianti eolici offshore
+13850,Sardegna,Fotovoltaici
+13919,Sicilia,Impianti eolici onshore
+14009,Emilia Romagna,Coltivazione idrocarburi
+13942,Veneto,Fotovoltaici
+14061,Basilicata,Impianti eolici onshore
+14061,Puglia,Impianti eolici onshore
+13851,Sardegna,Fotovoltaici
+13830,Calabria,Opere ferroviarie
+14021,Puglia,Fotovoltaici
+13848,Lazio,Fotovoltaici
+13858,Emilia Romagna,Fotovoltaici
+13901,Veneto,Fotovoltaici
+13856,Sardegna,Fotovoltaici
+13931,Sicilia,Fotovoltaici
+13880,Sardegna,Fotovoltaici
+13952,Molise,Fotovoltaici
+13810,Emilia Romagna,Opere stradali
+13823,Piemonte,Attività minerarie
+13813,Calabria,Opere stradali
+13899,Puglia,Opere stradali
+12723,Basilicata,Fotovoltaici
+12725,Basilicata,Fotovoltaici
+14022,Basilicata,Fotovoltaici
+14022,Puglia,Fotovoltaici
+13954,Sicilia,Impianti eolici onshore
+13928,Sicilia,Fotovoltaici
+13887,Sardegna,Impianti eolici offshore
+13962,Puglia,Fotovoltaici
+14178,Friuli Venezia Giulia,Centrali
+13828,Liguria,Opere portuali e vie navigabili
+13791,Sardegna,Opere idrauliche
+13965,Lazio,Impianti eolici offshore
+13778,Piemonte,Fotovoltaici
+13890,Lombardia,Opere stradali
+13857,Abruzzo,Opere idrauliche
+13938,Piemonte,Fotovoltaici
+14036,Molise,Impianti eolici onshore
+13812,Piemonte,Opere ferroviarie
+13934,Sicilia,Fotovoltaici
+13807,Veneto,Opere idrauliche
+13773,Sardegna,Impianti idroelettrici
+13764,Marche,Impianti eolici onshore
+13845,Sicilia,Fotovoltaici
+13864,Puglia,Impianti eolici onshore
+13840,Sardegna,Fotovoltaici
+12642,Calabria,Fotovoltaici
+12791,Sardegna,Fotovoltaici
+13913,Basilicata,Fotovoltaici
+13765,Lazio,Fotovoltaici
+13765,Toscana,Fotovoltaici
+13897,Friuli Venezia Giulia,Impianti idroelettrici
+14182,Piemonte,Centrali
+13811,Sardegna,Opere idrauliche
+13854,Puglia,Fotovoltaici
+13843,Puglia,Fotovoltaici
+13806,Sardegna,Fotovoltaici
+13809,Puglia,Fotovoltaici
+15052,Marche,Metanodotti
+15052,Abruzzo,Metanodotti
+13808,Puglia,Fotovoltaici
+13802,Sardegna,Impianti eolici offshore
+13855,Molise,Impianti eolici onshore
+13801,Friuli Venezia Giulia,Opere ferroviarie
+13853,Veneto,Opere stradali
+13835,Sicilia,Impianti eolici offshore
+13817,Molise,Fotovoltaici
+13803,Sicilia,Impianti eolici offshore
+13827,Puglia,Attività minerarie
+13916,Basilicata,Impianti eolici onshore
+13804,Sicilia,Opere portuali e vie navigabili
+13918,Puglia,Impianti eolici onshore
+13815,Puglia,Fotovoltaici
+12724,Basilicata,Fotovoltaici
+13818,Puglia,Impianti eolici onshore
+13749,Sardegna,Opere portuali e vie navigabili
+13752,Sardegna,Opere portuali e vie navigabili
+13762,Puglia,Impianti eolici onshore
+13785,Sicilia,Fotovoltaici
+13772,Sardegna,Fotovoltaici
+13786,Puglia,Fotovoltaici
+13745,Lazio,Fotovoltaici
+13753,Puglia,Impianti eolici offshore
+13754,Puglia,Impianti eolici offshore
+13824,Sardegna,Impianti eolici offshore
+13766,Toscana,Opere ferroviarie
+13780,Sicilia,Fotovoltaici
+13746,Abruzzo,Impianti idroelettrici
+13789,Sicilia,Impianti eolici offshore
+13844,Sicilia,Fotovoltaici
+13792,Sicilia,Impianti eolici onshore
+13846,Sicilia,Fotovoltaici
+13893,Sicilia,Fotovoltaici
+14024,Lombardia,Centrali
+13744,Lazio,Fotovoltaici
+13776,Puglia,Fotovoltaici
+13777,Puglia,Fotovoltaici
+13970,Emilia Romagna,Fotovoltaici
+13787,Puglia,Fotovoltaici
+13783,Sicilia,Impianti eolici onshore
+12977,Basilicata,Fotovoltaici
+12721,Basilicata,Fotovoltaici
+14285,Basilicata,Fotovoltaici
+13702,Puglia,Terminali marittimi
+12727,Basilicata,Fotovoltaici
+13768,Sardegna,Fotovoltaici
+13767,Nessuna regione,Fotovoltaici
+13770,Molise,Impianti eolici onshore
+13781,Sicilia,Impianti eolici offshore
+13797,Lazio,Impianti eolici offshore
+13798,Lazio,Impianti eolici offshore
+13750,Puglia,Fotovoltaici
+13750,Molise,Fotovoltaici
+13730,Puglia,Fotovoltaici
+13730,Molise,Fotovoltaici
+13729,Sicilia,Fotovoltaici
+13703,Lazio,Opere portuali e vie navigabili
+13728,Sardegna,Terminali marittimi
+13704,Basilicata,Fotovoltaici
+13718,Lazio,Fotovoltaici
+13692,Molise,Metanodotti
+13692,Abruzzo,Metanodotti
+13690,Basilicata,Impianti eolici onshore
+13690,Puglia,Impianti eolici onshore
+14126,Sicilia,Opere portuali e vie navigabili
+13948,Toscana,Raffinerie
+13663,Basilicata,Fotovoltaici
+13663,Puglia,Fotovoltaici
+13710,Sardegna,Metanodotti
+13726,Campania,Opere stradali
+13825,Basilicata,Impianti eolici onshore
+13825,Puglia,Impianti eolici onshore
+13725,Sardegna,Opere portuali e vie navigabili
+13771,Marche,Impianti di stoccaggio
+13722,Sardegna,Fotovoltaici
+13732,Marche,Opere stradali
+13652,Toscana,Opere portuali e vie navigabili
+13742,Abruzzo,Impianti idroelettrici
+13723,Puglia,Fotovoltaici
+13713,Sardegna,Fotovoltaici
+13712,Nessuna regione,Fotovoltaici
+14100,Abruzzo,Centrali
+13694,Sardegna,Fotovoltaici
+13699,Toscana,Opere idrauliche
+13689,Liguria,Opere ferroviarie
+13720,Molise,Fotovoltaici
+13715,Puglia,Fotovoltaici
+13662,Umbria,Opere stradali
+13717,Toscana,Opere stradali
+13805,Sardegna,Opere idrauliche
+13721,Puglia,Fotovoltaici
+13683,Sicilia,Fotovoltaici
+13895,Sardegna,Fotovoltaici
+13736,Puglia,Impianti eolici onshore
+13682,Campania,Impianti eolici onshore
+13671,Campania,Fotovoltaici
+14060,Basilicata,Ricerca idrocarburi
+13629,Calabria,Opere stradali
+13605,Marche,Opere ferroviarie
+13693,Campania,Fotovoltaici
+13691,Sicilia,Impianti eolici offshore
+13664,Sardegna,Opere stradali
+13644,Puglia,Aeroporti
+13734,Basilicata,Impianti eolici onshore
+13681,Puglia,Fotovoltaici
+13711,Calabria,Aeroporti
+13620,Lombardia,Opere ferroviarie
+13666,Veneto,Opere stradali
+13733,Basilicata,Impianti eolici onshore
+13733,Puglia,Impianti eolici onshore
+13585,Basilicata,Fotovoltaici
+13735,Basilicata,Impianti eolici onshore
+13669,Emilia Romagna,Fotovoltaici
+13667,Molise,Fotovoltaici
+13714,Lazio,Fotovoltaici
+13665,Puglia,Fotovoltaici
+13654,Sardegna,Impianti eolici onshore
+13758,Piemonte,Opere ferroviarie
+13589,Piemonte,Opere stradali
+13759,Puglia,Impianti eolici onshore
+13642,Sicilia,Impianti eolici onshore
+13586,Sicilia,Fotovoltaici
+13633,Sardegna,Opere stradali
+13656,Molise,Centrali
+14105,Sardegna,Impianti eolici onshore
+13643,Sicilia,Fotovoltaici
+13852,Piemonte,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+13658,Puglia,Fotovoltaici
+13563,Toscana,Opere stradali
+13564,Calabria,Opere stradali
+13660,Puglia,Fotovoltaici
+13648,Sicilia,Fotovoltaici
+14046,Lombardia,Centrali
+13562,Piemonte,Opere stradali
+13655,Puglia,Fotovoltaici
+13639,Sardegna,Fotovoltaici
+13574,Campania,Opere portuali e vie navigabili
+13638,Sardegna,Fotovoltaici
+13757,Sardegna,Terminali marittimi
+13596,Lazio,Fotovoltaici
+13653,Sicilia,Fotovoltaici
+13647,Sicilia,Fotovoltaici
+13593,Sicilia,Elettrodotti
+13645,Sicilia,Fotovoltaici
+13584,Liguria,Aeroporti
+13553,Lombardia,Opere stradali
+13592,Puglia,Opere stradali
+13651,Puglia,Impianti eolici onshore
+13581,Abruzzo,Opere portuali e vie navigabili
+13535,Friuli Venezia Giulia,Interporti
+14275,Puglia,Fotovoltaici
+13566,Piemonte,Centrali
+13624,Puglia,Fotovoltaici
+13615,Sicilia,Opere portuali e vie navigabili
+13587,Emilia Romagna,Coltivazione idrocarburi
+13588,Emilia Romagna,Coltivazione idrocarburi
+13538,Calabria,Aeroporti
+13616,Puglia,Fotovoltaici
+13614,Sicilia,Fotovoltaici
+14290,Piemonte,Raffinerie
+13613,Puglia,Fotovoltaici
+13548,Veneto,Opere stradali
+13515,Valle d,Impianti idroelettrici
+13635,Sardegna,Fotovoltaici
+13641,Sicilia,Fotovoltaici
+13612,Puglia,Fotovoltaici
+13611,Sicilia,Impianti eolici onshore
+13506,Trentino Alto Adige,Opere ferroviarie
+13650,Friuli Venezia Giulia,Fotovoltaici
+13602,Lombardia,Fotovoltaici
+13640,Sardegna,Fotovoltaici
+13601,Lazio,Fotovoltaici
+13600,Emilia Romagna,Impianti eolici onshore
+13439,Marche,Impianti idroelettrici
+13634,Sardegna,Fotovoltaici
+13595,Sardegna,Impianti eolici offshore
+13608,Puglia,Fotovoltaici
+13646,Basilicata,Fotovoltaici
+13467,Piemonte,Opere stradali
+13452,Calabria,Opere stradali
+13619,Campania,Fotovoltaici
+13419,Sardegna,Opere idrauliche
+13599,Toscana,Fotovoltaici
+13617,Sicilia,Fotovoltaici
+13622,Sicilia,Fotovoltaici
+13626,Puglia,Fotovoltaici
+13621,Puglia,Fotovoltaici
+13466,Piemonte,Centrali
+13523,Sicilia,Metanodotti
+13447,Sicilia,Elettrodotti
+13607,Calabria,Fotovoltaici
+13558,Puglia,Fotovoltaici
+13604,Sicilia,Fotovoltaici
+13598,Emilia Romagna,Fotovoltaici
+13606,Sicilia,Fotovoltaici
+13747,Abruzzo,Impianti di stoccaggio
+13534,Sardegna,Opere portuali e vie navigabili
+14015,Puglia,Fotovoltaici
+13366,Marche,Opere idrauliche
+13591,Sicilia,Impianti eolici offshore
+13583,Puglia,Fotovoltaici
+13533,Lazio,Fotovoltaici
+13582,Emilia Romagna,Centrali
+14059,Puglia,Fotovoltaici
+13364,Lombardia,Opere ferroviarie
+14069,Puglia,Fotovoltaici
+13580,Veneto,Fotovoltaici
+13490,Toscana,Opere stradali
+14101,Sicilia,Fotovoltaici
+13751,Sardegna,Fotovoltaici
+13529,Puglia,Impianti eolici onshore
+13517,Molise,Fotovoltaici
+12936,Basilicata,Fotovoltaici
+13516,Sicilia,Fotovoltaici
+13542,Emilia Romagna,Fotovoltaici
+13547,Basilicata,Fotovoltaici
+13429,Puglia,Impianti eolici onshore
+13315,Calabria,Opere stradali
+13513,Sardegna,Fotovoltaici
+13543,Sicilia,Fotovoltaici
+13321,Puglia,Opere stradali
+13385,Marche,Opere portuali e vie navigabili
+14058,Molise,Impianti eolici onshore
+13512,Sardegna,Fotovoltaici
+13539,Emilia Romagna,Fotovoltaici
+13514,Sicilia,Fotovoltaici
+14050,Molise,Fotovoltaici
+14049,Puglia,Centrali
+13416,Puglia,Impianti eolici onshore
+13876,Puglia,Fotovoltaici
+13312,Puglia,Impianti eolici onshore
+13436,Sicilia,Fotovoltaici
+13526,Puglia,Fotovoltaici
+13501,Sicilia,Metanodotti
+13527,Sardegna,Fotovoltaici
+13496,Sardegna,Impianti eolici offshore
+13511,Sicilia,Fotovoltaici
+13235,Liguria,Opere portuali e vie navigabili
+13510,Puglia,Fotovoltaici
+13455,Sicilia,Impianti eolici offshore
+13343,Basilicata,Impianti eolici onshore
+13240,Friuli Venezia Giulia,Terminali marittimi
+13974,Sardegna,Opere stradali
+13842,Sicilia,Fotovoltaici
+13477,Puglia,Fotovoltaici
+13459,Campania,Fotovoltaici
+13508,Sicilia,Fotovoltaici
+13218,Puglia,Opere ferroviarie
+13218,Molise,Opere ferroviarie
+13481,Puglia,Fotovoltaici
+13479,Puglia,Fotovoltaici
+13275,Emilia Romagna,Impianti di stoccaggio
+13473,Molise,Fotovoltaici
+13196,Campania,Opere idrauliche
+13493,Sicilia,Fotovoltaici
+13189,Sicilia,Impianti idroelettrici
+13487,Sicilia,Fotovoltaici
+13179,Puglia,Opere portuali e vie navigabili
+13491,Lazio,Fotovoltaici
+13498,Sardegna,Opere stradali
+13208,Sardegna,Opere ferroviarie
+13492,Puglia,Opere stradali
+13494,Lazio,Impianti eolici onshore
+13488,Puglia,Fotovoltaici
+13489,Sardegna,Impianti eolici onshore
+13507,Sicilia,Fotovoltaici
+13497,Sicilia,Fotovoltaici
+13505,Sicilia,Fotovoltaici
+13192,Liguria,Opere portuali e vie navigabili
+13178,Puglia,Opere ferroviarie
+13178,Campania,Opere ferroviarie
+13444,Sicilia,Fotovoltaici
+13445,Sicilia,Fotovoltaici
+13499,Puglia,Fotovoltaici
+13448,Puglia,Fotovoltaici
+14287,Campania,Fotovoltaici
+14288,Campania,Fotovoltaici
+13172,Marche,Opere stradali
+13446,Sicilia,Impianti eolici onshore
+13474,Puglia,Fotovoltaici
+13522,Sicilia,Fotovoltaici
+13475,Lazio,Fotovoltaici
+13317,Puglia,Impianti eolici onshore
+13453,Campania,Impianti eolici onshore
+13472,Puglia,Fotovoltaici
+13468,Sicilia,Fotovoltaici
+13461,Puglia,Fotovoltaici
+13233,Campania,Centrali
+13165,Emilia Romagna,Prospezione idrocarburi
+13213,Sardegna,Opere portuali e vie navigabili
+13434,Puglia,Fotovoltaici
+13437,Puglia,Fotovoltaici
+13435,Puglia,Fotovoltaici
+13460,Sicilia,Fotovoltaici
+13476,Puglia,Fotovoltaici
+13190,Lombardia,Elettrodotti
+13433,Lazio,Impianti eolici onshore
+13462,Sardegna,Impianti eolici onshore
+13458,Sicilia,Fotovoltaici
+13181,Sicilia,Opere portuali e vie navigabili
+13152,Puglia,Opere stradali
+13153,Calabria,Opere portuali e vie navigabili
+13482,Sardegna,Fotovoltaici
+13451,Sicilia,Fotovoltaici
+13464,Sardegna,Fotovoltaici
+13454,Sardegna,Fotovoltaici
+13463,Puglia,Fotovoltaici
+13197,Molise,Opere stradali
+13418,Puglia,Fotovoltaici
+13423,Sardegna,Fotovoltaici
+13260,Veneto,Opere ferroviarie
+13147,Liguria,Risanamento ambientale
+13274,Calabria,Centrali
+13410,Sicilia,Impianti eolici onshore
+13456,Umbria,Fotovoltaici
+13412,Sicilia,Fotovoltaici
+13411,Sardegna,Impianti eolici onshore
+13151,Lombardia,Opere ferroviarie
+13417,Puglia,Fotovoltaici
+13244,Sicilia,Fotovoltaici
+13257,Sicilia,Fotovoltaici
+13248,Abruzzo,Fotovoltaici
+13426,Emilia Romagna,Fotovoltaici
+13425,Puglia,Fotovoltaici
+13420,Molise,Fotovoltaici
+13427,Sicilia,Fotovoltaici
+13421,Sicilia,Fotovoltaici
+13141,Abruzzo,Opere stradali
+13250,Sicilia,Fotovoltaici
+13247,Puglia,Fotovoltaici
+13249,Sicilia,Fotovoltaici
+13143,Sicilia,Opere ferroviarie
+13144,Sicilia,Opere ferroviarie
+13253,Marche,Impianti eolici onshore
+13251,Puglia,Fotovoltaici
+13239,Puglia,Impianti eolici offshore
+13246,Campania,Fotovoltaici
+13229,Veneto,Centrali
+15908,Lombardia,Centrali
+13187,Veneto,Opere stradali
+13470,Sardegna,Fotovoltaici
+13415,Sardegna,Fotovoltaici
+13310,Lazio,Centrali
+13243,Lazio,Fotovoltaici
+13188,Puglia,Opere stradali
+13428,Lazio,Fotovoltaici
+13133,Campania,Opere portuali e vie navigabili
+13199,Sicilia,Impianti idroelettrici
+13430,Sicilia,Fotovoltaici
+13432,Campania,Impianti eolici onshore
+13450,Lombardia,Fotovoltaici
+13422,Calabria,Impianti eolici onshore
+13413,Sardegna,Fotovoltaici
+13431,Sardegna,Impianti eolici onshore
+13180,Molise,Impianti eolici onshore
+13131,Sicilia,Opere ferroviarie
+13268,Basilicata,Impianti eolici onshore
+13238,Puglia,Impianti eolici onshore
+13122,Calabria,Opere stradali
+13405,Sardegna,Fotovoltaici
+13390,Sardegna,Impianti eolici onshore
+13114,Calabria,Opere stradali
+13408,Sardegna,Fotovoltaici
+13384,Puglia,Fotovoltaici
+13220,Sardegna,Opere stradali
+13215,Lazio,Fotovoltaici
+13406,Sardegna,Fotovoltaici
+13121,Puglia,Impianti eolici offshore
+13108,Puglia,Opere portuali e vie navigabili
+13107,Sardegna,Opere portuali e vie navigabili
+14866,Sicilia,Impianti eolici onshore
+13709,Campania,Impianti eolici onshore
+13123,Puglia,Opere ferroviarie
+13398,Puglia,Fotovoltaici
+13191,Sicilia,Opere stradali
+13160,Molise,Impianti eolici onshore
+15117,Lombardia,Coltivazione idrocarburi
+13183,Marche,Opere stradali
+13402,Lazio,Fotovoltaici
+13098,Sicilia,Opere idrauliche
+13102,Emilia Romagna,Opere idrauliche
+13161,Piemonte,Fotovoltaici
+13401,Sicilia,Fotovoltaici
+13099,Lombardia,Opere stradali
+13360,Sicilia,Opere portuali e vie navigabili
+13318,Marche,Aeroporti
+13217,Sicilia,Fotovoltaici
+13389,Basilicata,Fotovoltaici
+13117,Molise,Fotovoltaici
+13407,Sardegna,Fotovoltaici
+13221,Puglia,Fotovoltaici
+13381,Sardegna,Impianti eolici onshore
+13362,Sicilia,Opere stradali
+13052,Sardegna,Impianti eolici offshore
+13119,Molise,Fotovoltaici
+13222,Campania,Fotovoltaici
+13404,Lazio,Fotovoltaici
+13441,Sardegna,Fotovoltaici
+13380,Puglia,Fotovoltaici
+13058,Abruzzo,Aeroporti
+13130,Sardegna,Opere idrauliche
+13440,Sardegna,Fotovoltaici
+13100,Lombardia,Impianti di stoccaggio
+13046,Sardegna,Opere portuali e vie navigabili
+13088,Liguria,Impianti di rigassificazione
+13104,Veneto,Opere stradali
+13219,Sicilia,Impianti eolici onshore
+13056,Sicilia,Opere ferroviarie
+13388,Puglia,Fotovoltaici
+13113,Basilicata,Fotovoltaici
+13116,Basilicata,Fotovoltaici
+13112,Basilicata,Fotovoltaici
+13393,Basilicata,Fotovoltaici
+13382,Basilicata,Fotovoltaici
+13378,Puglia,Fotovoltaici
+13118,Molise,Impianti eolici onshore
+13048,Emilia Romagna,Opere stradali
+13035,Liguria,Opere stradali
+13379,Puglia,Fotovoltaici
+13375,Puglia,Fotovoltaici
+13369,Lazio,Fotovoltaici
+13064,Sardegna,Opere portuali e vie navigabili
+13357,Sardegna,Fotovoltaici
+13214,Puglia,Fotovoltaici
+13209,Emilia Romagna,Fotovoltaici
+13377,Puglia,Fotovoltaici
+13031,Piemonte,Metanodotti
+13373,Sardegna,Fotovoltaici
+13120,Abruzzo,Impianti chimici integrati
+13367,Emilia Romagna,Fotovoltaici
+13361,Sardegna,Impianti eolici onshore
+13037,Veneto,Opere ferroviarie
+13862,Puglia,Fotovoltaici
+13022,Sicilia,Opere stradali
+13370,Sicilia,Fotovoltaici
+13365,Lazio,Fotovoltaici
+13012,Sardegna,Opere idrauliche
+13350,Campania,Impianti eolici onshore
+13124,Lombardia,Opere ferroviarie
+13135,Campania,Opere stradali
+13363,Puglia,Fotovoltaici
+13480,Puglia,Fotovoltaici
+12993,Marche,Opere stradali
+13347,Campania,Impianti eolici onshore
+13017,Sardegna,Opere idrauliche
+12990,Veneto,Aeroporti
+13661,Calabria,Centrali
+13157,Sardegna,Impianti eolici onshore
+13438,Sardegna,Fotovoltaici
+13027,Toscana,Opere stradali
+13399,Marche,Fotovoltaici
+13395,Sardegna,Fotovoltaici
+14160,Lombardia,Centrali
+13353,Campania,Impianti eolici onshore
+12991,Marche,Opere ferroviarie
+12995,Marche,Opere stradali
+13011,Lombardia,Centrali
+13374,Puglia,Fotovoltaici
+13271,Marche,Centrali
+13002,Veneto,Opere idrauliche
+13371,Puglia,Fotovoltaici
+13368,Puglia,Fotovoltaici
+13354,Sicilia,Fotovoltaici
+12999,Piemonte,Fotovoltaici
+13242,Puglia,Elettrodotti
+13241,Puglia,Elettrodotti
+13351,Sardegna,Impianti eolici onshore
+13627,Marche,Fotovoltaici
+13352,Toscana,Fotovoltaici
+14294,Basilicata,Impianti eolici onshore
+13372,Basilicata,Fotovoltaici
+13356,Sardegna,Fotovoltaici
+13332,Puglia,Fotovoltaici
+13028,Lombardia,Opere stradali
+13110,Trentino Alto Adige,Elettrodotti
+14817,Emilia Romagna,Coltivazione idrocarburi
+13228,Veneto,Opere stradali
+12956,Sardegna,Opere portuali e vie navigabili
+14815,Emilia Romagna,Coltivazione idrocarburi
+12951,Calabria,Opere ferroviarie
+13033,Basilicata,Impianti eolici onshore
+13109,Puglia,Impianti eolici onshore
+12953,Puglia,Opere ferroviarie
+13077,Puglia,Fotovoltaici
+12941,Marche,Opere portuali e vie navigabili
+12940,Lombardia,Impianti idroelettrici
+12955,Sicilia,Fotovoltaici
+13329,Campania,Fotovoltaici
+13346,Campania,Fotovoltaici
+13211,Puglia,Fotovoltaici
+13029,Lombardia,Interporti
+12933,Emilia Romagna,Interporti
+12946,Lombardia,Opere stradali
+13129,Sardegna,Opere portuali e vie navigabili
+12986,Calabria,Opere portuali e vie navigabili
+13065,Sicilia,Impianti eolici offshore
+13140,Veneto,Raffinerie
+13344,Sardegna,Fotovoltaici
+12943,Toscana,Opere stradali
+13342,Sardegna,Fotovoltaici
+13050,Puglia,Impianti eolici onshore
+13358,Sardegna,Impianti eolici onshore
+12930,Piemonte,Fotovoltaici
+13326,Lazio,Fotovoltaici
+13524,Basilicata,Elettrodotti
+13341,Sardegna,Impianti eolici onshore
+13136,Puglia,Opere stradali
+13194,Puglia,Fotovoltaici
+13137,Puglia,Opere stradali
+13337,Campania,Impianti eolici onshore
+13340,Lazio,Impianti eolici onshore
+13340,Umbria,Impianti eolici onshore
+13201,Sicilia,Fotovoltaici
+13345,Puglia,Fotovoltaici
+13323,Puglia,Fotovoltaici
+13339,Sicilia,Fotovoltaici
+12948,Veneto,Opere portuali e vie navigabili
+13081,Lazio,Impianti eolici offshore
+13081,Sardegna,Impianti eolici offshore
+12907,Veneto,Opere stradali
+13338,Puglia,Fotovoltaici
+13079,Sardegna,Impianti eolici offshore
+13159,Sardegna,Impianti eolici offshore
+12975,Veneto,Metanodotti
+13049,Puglia,Impianti eolici onshore
+12908,Piemonte,Impianti idroelettrici
+13149,Abruzzo,Prospezione idrocarburi
+13036,Basilicata,Impianti eolici onshore
+13866,Sardegna,Opere portuali e vie navigabili
+12915,Sicilia,Opere portuali e vie navigabili
+13195,Puglia,Fotovoltaici
+13327,Molise,Fotovoltaici
+13549,Lazio,Opere portuali e vie navigabili
+13084,Lombardia,Impianti di stoccaggio
+12921,Puglia,Fotovoltaici
+12927,Puglia,Fotovoltaici
+12949,Campania,Fotovoltaici
+13039,Puglia,Elettrodotti
+13322,Sardegna,Impianti eolici onshore
+13026,Sardegna,Opere portuali e vie navigabili
+13330,Piemonte,Fotovoltaici
+12889,Piemonte,Centrali
+12926,Basilicata,Fotovoltaici
+13336,Sardegna,Fotovoltaici
+12919,Sicilia,Fotovoltaici
+13325,Puglia,Fotovoltaici
+12873,Sardegna,Opere portuali e vie navigabili
+12882,Sicilia,Elettrodotti
+12884,Campania,Opere ferroviarie
+12898,Basilicata,Fotovoltaici
+12880,Veneto,Fotovoltaici
+13333,Sardegna,Fotovoltaici
+12925,Lazio,Fotovoltaici
+13101,Puglia,Impianti eolici onshore
+12917,Basilicata,Impianti eolici onshore
+12867,Veneto,Opere portuali e vie navigabili
+12900,Liguria,Aeroporti
+12992,Emilia Romagna,Impianti eolici offshore
+13308,Sardegna,Fotovoltaici
+13013,Puglia,Impianti eolici onshore
+12913,Sicilia,Fotovoltaici
+12906,Puglia,Fotovoltaici
+13305,Basilicata,Fotovoltaici
+12904,Basilicata,Fotovoltaici
+12924,Basilicata,Fotovoltaici
+13207,Sicilia,Fotovoltaici
+12901,Toscana,Elettrodotti
+12903,Friuli Venezia Giulia,Opere stradali
+12903,Veneto,Opere stradali
+12891,Sardegna,Fotovoltaici
+12858,Lombardia,Attività minerarie
+12890,Lazio,Fotovoltaici
+12890,Toscana,Fotovoltaici
+13307,Puglia,Fotovoltaici
+12866,Sicilia,Fotovoltaici
+13055,Sardegna,Impianti eolici offshore
+13296,Puglia,Fotovoltaici
+13649,Calabria,Impianti eolici onshore
+12892,Puglia,Fotovoltaici
+13063,Emilia Romagna,Metanodotti
+13063,Marche,Metanodotti
+12854,Piemonte,Attività minerarie
+13025,Basilicata,Impianti eolici onshore
+12887,Puglia,Fotovoltaici
+13005,Basilicata,Impianti eolici onshore
+13706,Toscana,Impianti geotermici
+12842,Sardegna,Opere portuali e vie navigabili
+12847,Sicilia,Opere stradali
+12989,Veneto,Opere idrauliche
+12824,Calabria,Opere stradali
+12848,Sicilia,Impianti eolici onshore
+12829,Puglia,Fotovoltaici
+12832,Molise,Fotovoltaici
+12843,Campania,Fotovoltaici
+13303,Sicilia,Fotovoltaici
+12819,Liguria,Opere portuali e vie navigabili
+12845,Puglia,Fotovoltaici
+12916,Basilicata,Centrali
+12850,Campania,Impianti eolici onshore
+12798,Friuli Venezia Giulia,Interporti
+12810,Liguria,Opere portuali e vie navigabili
+12812,Lazio,Opere stradali
+13032,Campania,Opere stradali
+12896,Puglia,Fotovoltaici
+12834,Sardegna,Fotovoltaici
+13067,Sicilia,Ricerca idrocarburi
+12837,Sardegna,Fotovoltaici
+12817,Basilicata,Opere ferroviarie
+12817,Puglia,Opere ferroviarie
+12835,Basilicata,Fotovoltaici
+12833,Puglia,Fotovoltaici
+12988,Puglia,Impianti eolici onshore
+12799,Lazio,Fotovoltaici
+13299,Piemonte,Fotovoltaici
+12849,Puglia,Fotovoltaici
+13298,Sicilia,Fotovoltaici
+12868,Calabria,Impianti di rigassificazione
+13300,Puglia,Fotovoltaici
+12801,Puglia,Fotovoltaici
+12803,Puglia,Fotovoltaici
+12818,Toscana,Opere portuali e vie navigabili
+13051,Sardegna,Impianti eolici offshore
+12769,Sicilia,Opere ferroviarie
+12844,Veneto,Impianti di rigassificazione
+12754,Piemonte,Opere idrauliche
+12792,Calabria,Opere stradali
+12839,Basilicata,Impianti eolici onshore
+13306,Lazio,Fotovoltaici
+12753,Emilia Romagna,Opere stradali
+12738,Friuli Venezia Giulia,Opere stradali
+12738,Veneto,Opere stradali
+12770,Puglia,Fotovoltaici
+12778,Campania,Fotovoltaici
+12789,Puglia,Impianti eolici onshore
+12776,Campania,Opere stradali
+13520,Toscana,Centrali
+12745,Puglia,Fotovoltaici
+12840,Sicilia,Fotovoltaici
+13287,Basilicata,Fotovoltaici
+12719,Lombardia,Opere ferroviarie
+12732,Emilia Romagna,Metanodotti
+12732,Marche,Metanodotti
+12732,Abruzzo,Metanodotti
+12922,Sardegna,Fotovoltaici
+12676,Campania,Aeroporti
+13038,Sardegna,Fotovoltaici
+13289,Sardegna,Impianti eolici onshore
+12758,Sicilia,Impianti eolici offshore
+13756,Molise,Fotovoltaici
+14271,Puglia,Fotovoltaici
+13833,Sicilia,Fotovoltaici
+12766,Puglia,Fotovoltaici
+12682,Calabria,Opere portuali e vie navigabili
+13293,Basilicata,Fotovoltaici
+12685,Sicilia,Opere stradali
+12788,Basilicata,Fotovoltaici
+13285,Emilia Romagna,Fotovoltaici
+12777,Basilicata,Impianti eolici onshore
+13297,Sicilia,Fotovoltaici
+12680,Liguria,Opere portuali e vie navigabili
+12687,Piemonte,Opere stradali
+12974,Sicilia,Fotovoltaici
+13743,Molise,Impianti di stoccaggio
+13743,Abruzzo,Impianti di stoccaggio
+12744,Sicilia,Impianti eolici onshore
+12836,Calabria,Impianti eolici offshore
+15107,Piemonte,Centrali
+12748,Puglia,Fotovoltaici
+13294,Molise,Fotovoltaici
+13301,Sardegna,Impianti eolici onshore
+13302,Sardegna,Impianti eolici onshore
+12779,Puglia,Fotovoltaici
+13041,Campania,Fotovoltaici
+12795,Campania,Elettrodotti
+12886,Piemonte,Elettrodotti
+12893,Toscana,Impianti chimici integrati
+14031,Puglia,Impianti eolici onshore
+14031,Molise,Impianti eolici onshore
+14031,Campania,Impianti eolici onshore
+12787,Sicilia,Fotovoltaici
+12759,Emilia Romagna,Metanodotti
+12636,Sicilia,Impianti eolici offshore
+12774,Campania,Centrali
+12632,Sicilia,Opere ferroviarie
+12694,Lazio,Opere ferroviarie
+12633,Calabria,Elettrodotti
+12675,Basilicata,Fotovoltaici
+12675,Puglia,Fotovoltaici
+13134,Puglia,Fotovoltaici
+15179,Emilia Romagna,Coltivazione idrocarburi
+12606,Sicilia,Fotovoltaici
+13282,Puglia,Fotovoltaici
+12945,Piemonte,Fotovoltaici
+12644,Calabria,Opere ferroviarie
+12825,Friuli Venezia Giulia,Metanodotti
+12825,Veneto,Metanodotti
+12643,Abruzzo,Opere stradali
+12820,Emilia Romagna,Elettrodotti
+12763,Calabria,Elettrodotti
+13076,Puglia,Fotovoltaici
+12605,Toscana,Opere idrauliche
+12612,Sicilia,Fotovoltaici
+12563,Basilicata,Impianti eolici onshore
+13270,Lazio,Impianti eolici onshore
+13277,Sardegna,Impianti eolici onshore
+13265,Sardegna,Fotovoltaici
+13536,Sicilia,Impianti eolici onshore
+12615,Sicilia,Fotovoltaici
+12647,Sicilia,Fotovoltaici
+12660,Sicilia,Fotovoltaici
+12604,Puglia,Opere ferroviarie
+12662,Emilia Romagna,Metanodotti
+12662,Marche,Metanodotti
+13286,Puglia,Fotovoltaici
+12614,Veneto,Fotovoltaici
+13284,Sicilia,Fotovoltaici
+13024,Puglia,Fotovoltaici
+12595,Sardegna,Fotovoltaici
+12584,Puglia,Opere stradali
+13126,Puglia,Fotovoltaici
+13127,Puglia,Fotovoltaici
+13283,Puglia,Fotovoltaici
+13272,Puglia,Fotovoltaici
+12928,Calabria,Impianti eolici offshore
+12579,Sardegna,Opere idrauliche
+13288,Sardegna,Fotovoltaici
+12929,Molise,Fotovoltaici
+12591,Lazio,Fotovoltaici
+13269,Molise,Impianti eolici onshore
+13281,Molise,Fotovoltaici
+12865,Puglia,Impianti chimici integrati
+12568,Marche,Opere stradali
+13267,Lazio,Fotovoltaici
+13546,Puglia,Fotovoltaici
+12607,Basilicata,Fotovoltaici
+12581,Sardegna,Impianti eolici offshore
+12582,Lazio,Impianti eolici onshore
+13280,Sicilia,Fotovoltaici
+12593,Sardegna,Fotovoltaici
+12706,Sardegna,Fotovoltaici
+13266,Puglia,Fotovoltaici
+12722,Basilicata,Fotovoltaici
+12730,Basilicata,Fotovoltaici
+12639,Emilia Romagna,Fotovoltaici
+12897,Basilicata,Fotovoltaici
+12561,Liguria,Opere stradali
+12562,Abruzzo,Opere stradali
+12600,Marche,Fotovoltaici
+12564,Sicilia,Opere portuali e vie navigabili
+12556,Sicilia,Opere stradali
+12654,Puglia,Fotovoltaici
+12553,Liguria,Opere stradali
+13544,Sicilia,Impianti eolici onshore
+12656,Basilicata,Fotovoltaici
+12656,Puglia,Fotovoltaici
+13156,Sardegna,Fotovoltaici
+13040,Campania,Fotovoltaici
+13782,Lombardia,Impianti di stoccaggio
+12597,Puglia,Impianti eolici onshore
+12598,Lombardia,Opere stradali
+12619,Campania,Fotovoltaici
+12653,Puglia,Fotovoltaici
+12674,Campania,Fotovoltaici
+12585,Emilia Romagna,Opere stradali
+12546,Emilia Romagna,Centrali
+12716,Basilicata,Fotovoltaici
+12594,Basilicata,Impianti eolici onshore
+12641,Puglia,Fotovoltaici
+12532,Sicilia,Opere portuali e vie navigabili
+12627,Basilicata,Fotovoltaici
+13236,Molise,Impianti eolici onshore
+12630,Sicilia,Fotovoltaici
+13226,Sicilia,Fotovoltaici
+13261,Sicilia,Fotovoltaici
+12527,Sardegna,Opere stradali
+12566,Puglia,Raffinerie
+13177,Sardegna,Fotovoltaici
+12747,Basilicata,Fotovoltaici
+12528,Veneto,Opere stradali
+12669,Basilicata,Fotovoltaici
+12616,Sicilia,Fotovoltaici
+13262,Sardegna,Fotovoltaici
+12686,Sardegna,Fotovoltaici
+12894,Sicilia,Fotovoltaici
+13314,Molise,Fotovoltaici
+12539,Veneto,Opere portuali e vie navigabili
+12667,Sardegna,Impianti eolici onshore
+12611,Puglia,Impianti eolici onshore
+12666,Puglia,Fotovoltaici
+12625,Molise,Opere stradali
+13202,Basilicata,Elettrodotti
+12548,Sicilia,Opere portuali e vie navigabili
+12618,Sardegna,Fotovoltaici
+12586,Emilia Romagna,Ricerca idrocarburi
+12752,Veneto,Centrali
+12543,Calabria,Impianti eolici onshore
+12544,Sicilia,Impianti eolici onshore
+12688,Lazio,Fotovoltaici
+12516,Calabria,Aeroporti
+12804,Sardegna,Impianti eolici offshore
+12715,Puglia,Fotovoltaici
+12678,Molise,Fotovoltaici
+12755,Puglia,Fotovoltaici
+12486,Puglia,Opere portuali e vie navigabili
+13045,Campania,Impianti eolici onshore
+12734,Sicilia,Fotovoltaici
+12620,Molise,Fotovoltaici
+12635,Sardegna,Fotovoltaici
+12518,Lazio,Impianti eolici offshore
+12985,Sardegna,Impianti eolici onshore
+12870,Puglia,Fotovoltaici
+12517,Sicilia,Centrali
+12489,Toscana,Opere stradali
+12712,Basilicata,Fotovoltaici
+12712,Puglia,Fotovoltaici
+12869,Puglia,Fotovoltaici
+12634,Puglia,Fotovoltaici
+12610,Puglia,Impianti eolici onshore
+12762,Abruzzo,Metanodotti
+12499,Lazio,Fotovoltaici
+13779,Emilia Romagna,Impianti di stoccaggio
+12629,Basilicata,Fotovoltaici
+13043,Sicilia,Fotovoltaici
+13263,Sardegna,Fotovoltaici
+12617,Puglia,Fotovoltaici
+12623,Sicilia,Fotovoltaici
+12626,Sicilia,Fotovoltaici
+12624,Basilicata,Fotovoltaici
+12958,Sardegna,Fotovoltaici
+12477,Piemonte,Opere ferroviarie
+13555,Lazio,Fotovoltaici
+13273,Molise,Fotovoltaici
+12705,Puglia,Fotovoltaici
+13258,Lazio,Impianti eolici onshore
+12704,Molise,Fotovoltaici
+13030,Puglia,Fotovoltaici
+12628,Emilia Romagna,Fotovoltaici
+14215,Toscana,Opere portuali e vie navigabili
+12503,Veneto,Opere ferroviarie
+13148,Sicilia,Fotovoltaici
+12442,Umbria,Opere stradali
+12445,Umbria,Opere stradali
+12447,Umbria,Opere stradali
+12452,Umbria,Opere stradali
+12455,Umbria,Opere stradali
+12911,Sicilia,Centrali
+13264,Puglia,Fotovoltaici
+12707,Sicilia,Impianti eolici onshore
+12794,Puglia,Elettrodotti
+12622,Molise,Fotovoltaici
+12521,Campania,Elettrodotti
+13155,Puglia,Fotovoltaici
+12590,Puglia,Fotovoltaici
+12536,Sicilia,Fotovoltaici
+12382,Sardegna,Opere idrauliche
+12431,Puglia,Impianti idroelettrici
+12377,Veneto,Opere stradali
+12670,Sicilia,Fotovoltaici
+13256,Sardegna,Fotovoltaici
+12713,Puglia,Fotovoltaici
+12944,Sardegna,Impianti eolici onshore
+13097,Sicilia,Fotovoltaici
+13255,Puglia,Fotovoltaici
+13068,Sicilia,Impianti eolici onshore
+13000,Sardegna,Impianti eolici onshore
+13103,Puglia,Fotovoltaici
+12386,Toscana,Opere portuali e vie navigabili
+12372,Emilia Romagna,Opere stradali
+12356,Calabria,Opere portuali e vie navigabili
+12871,Sardegna,Impianti eolici onshore
+12649,Campania,Fotovoltaici
+12648,Abruzzo,Fotovoltaici
+12434,Basilicata,Fotovoltaici
+12428,Sardegna,Terminali marittimi
+12369,Molise,Prospezione idrocarburi
+12436,Puglia,Fotovoltaici
+12376,Emilia Romagna,Opere stradali
+12984,Sardegna,Fotovoltaici
+12439,Basilicata,Fotovoltaici
+13225,Puglia,Fotovoltaici
+12347,Campania,Opere stradali
+12393,Lombardia,Opere stradali
+12981,Puglia,Fotovoltaici
+12389,Sardegna,Opere idrauliche
+12330,Lombardia,Opere idrauliche
+12460,Puglia,Impianti eolici onshore
+12401,Sicilia,Elettrodotti
+12337,Emilia Romagna,Opere stradali
+12337,Lombardia,Opere stradali
+12337,Veneto,Opere stradali
+12435,Friuli Venezia Giulia,Fotovoltaici
+12972,Sicilia,Fotovoltaici
+12457,Basilicata,Impianti eolici onshore
+12786,Sicilia,Fotovoltaici
+12979,Sicilia,Fotovoltaici
+12973,Puglia,Fotovoltaici
+12437,Sardegna,Fotovoltaici
+12978,Sicilia,Fotovoltaici
+12525,Lazio,Fotovoltaici
+13184,Basilicata,Fotovoltaici
+12444,Puglia,Fotovoltaici
+12875,Puglia,Fotovoltaici
+12969,Puglia,Fotovoltaici
+12524,Campania,Fotovoltaici
+12535,Veneto,Opere idrauliche
+12971,Marche,Fotovoltaici
+12318,Veneto,Terminali marittimi
+12292,Emilia Romagna,Coltivazione idrocarburi
+12541,Liguria,Impianti eolici onshore
+13355,Puglia,Fotovoltaici
+12282,Sicilia,Opere stradali
+12291,Sicilia,Opere portuali e vie navigabili
+12711,Veneto,Fotovoltaici
+12340,Puglia,Impianti eolici onshore
+12968,Sicilia,Fotovoltaici
+12709,Sardegna,Fotovoltaici
+12784,Sicilia,Fotovoltaici
+12552,Campania,Impianti eolici onshore
+12692,Sicilia,Fotovoltaici
+12274,Piemonte,Elettrodotti
+13930,Puglia,Fotovoltaici
+12272,Toscana,Opere portuali e vie navigabili
+12342,Sardegna,Centrali
+12265,Sicilia,Opere portuali e vie navigabili
+12785,Basilicata,Fotovoltaici
+12266,Trentino Alto Adige,Elettrodotti
+12368,Sicilia,Impianti eolici offshore
+12251,Veneto,Opere stradali
+12427,Lazio,Fotovoltaici
+12427,Umbria,Fotovoltaici
+12427,Sicilia,Fotovoltaici
+12391,Basilicata,Fotovoltaici
+12383,Puglia,Fotovoltaici
+12520,Campania,Fotovoltaici
+12257,Puglia,Opere ferroviarie
+12425,Puglia,Fotovoltaici
+12249,Toscana,Opere stradali
+12483,Calabria,Impianti eolici onshore
+12258,Emilia Romagna,Opere idrauliche
+13252,Campania,Impianti eolici onshore
+12392,Sardegna,Fotovoltaici
+12966,Puglia,Fotovoltaici
+12796,Sardegna,Centrali
+12965,Basilicata,Fotovoltaici
+12937,Puglia,Fotovoltaici
+12259,Puglia,Impianti eolici onshore
+12223,Lazio,Elettrodotti
+12451,Basilicata,Fotovoltaici
+12558,Sardegna,Impianti eolici onshore
+12932,Piemonte,Fotovoltaici
+12830,Sicilia,Impianti eolici onshore
+12756,Puglia,Fotovoltaici
+13528,Puglia,Fotovoltaici
+12364,Emilia Romagna,Fotovoltaici
+12359,Sicilia,Fotovoltaici
+12512,Sicilia,Fotovoltaici
+12242,Friuli Venezia Giulia,Opere stradali
+12449,Basilicata,Fotovoltaici
+12449,Puglia,Fotovoltaici
+12408,Sicilia,Fotovoltaici
+12471,Molise,Fotovoltaici
+12424,Sardegna,Fotovoltaici
+12472,Puglia,Fotovoltaici
+12448,Puglia,Fotovoltaici
+12783,Puglia,Fotovoltaici
+12781,Puglia,Fotovoltaici
+12415,Puglia,Fotovoltaici
+12551,Sicilia,Impianti eolici onshore
+12366,Emilia Romagna,Fotovoltaici
+12450,Lazio,Fotovoltaici
+12327,Basilicata,Impianti eolici onshore
+12962,Puglia,Fotovoltaici
+12538,Sicilia,Fotovoltaici
+12760,Basilicata,Fotovoltaici
+12530,Lazio,Fotovoltaici
+12467,Molise,Impianti eolici onshore
+12559,Puglia,Fotovoltaici
+12334,Puglia,Impianti eolici onshore
+12384,Puglia,Fotovoltaici
+12360,Puglia,Fotovoltaici
+12409,Puglia,Fotovoltaici
+12339,Lazio,Fotovoltaici
+12287,Puglia,Impianti eolici offshore
+12423,Basilicata,Fotovoltaici
+12410,Puglia,Fotovoltaici
+13442,Molise,Fotovoltaici
+12790,Puglia,Fotovoltaici
+12782,Basilicata,Fotovoltaici
+12782,Puglia,Fotovoltaici
+12780,Sicilia,Fotovoltaici
+15145,Veneto,Centrali
+12199,Emilia Romagna,Opere idrauliche
+12199,Toscana,Opere idrauliche
+12198,Puglia,Opere idrauliche
+12405,Basilicata,Fotovoltaici
+12196,Marche,Opere portuali e vie navigabili
+12205,Veneto,Centrali
+12362,Veneto,Fotovoltaici
+12523,Veneto,Fotovoltaici
+12960,Sicilia,Fotovoltaici
+12207,Toscana,Elettrodotti
+12677,Sicilia,Fotovoltaici
+12959,Puglia,Fotovoltaici
+13884,Liguria,Opere portuali e vie navigabili
+12328,Puglia,Impianti eolici onshore
+12311,Puglia,Impianti eolici onshore
+12358,Sicilia,Fotovoltaici
+12270,Piemonte,Centrali
+12350,Puglia,Fotovoltaici
+12967,Toscana,Impianti eolici onshore
+12673,Molise,Fotovoltaici
+12673,Abruzzo,Fotovoltaici
+12665,Basilicata,Fotovoltaici
+12665,Puglia,Fotovoltaici
+12970,Puglia,Fotovoltaici
+12441,Sicilia,Impianti eolici onshore
+12494,Puglia,Fotovoltaici
+12822,Puglia,Fotovoltaici
+12823,Puglia,Fotovoltaici
+14812,Emilia Romagna,Coltivazione idrocarburi
+14813,Marche,Coltivazione idrocarburi
+12394,Friuli Venezia Giulia,Fotovoltaici
+12192,Sardegna,Opere portuali e vie navigabili
+12293,Puglia,Impianti eolici onshore
+12195,Sicilia,Opere portuali e vie navigabili
+12772,Sardegna,Impianti eolici offshore
+12187,Friuli Venezia Giulia,Opere ferroviarie
+12188,Friuli Venezia Giulia,Opere ferroviarie
+12188,Veneto,Opere ferroviarie
+12252,Sardegna,Elettrodotti
+12367,Puglia,Fotovoltaici
+12761,Puglia,Fotovoltaici
+12684,Puglia,Fotovoltaici
+12961,Molise,Fotovoltaici
+12939,Basilicata,Fotovoltaici
+12939,Puglia,Fotovoltaici
+12497,Basilicata,Fotovoltaici
+12497,Puglia,Fotovoltaici
+12161,Calabria,Opere portuali e vie navigabili
+12344,Basilicata,Impianti eolici onshore
+12646,Basilicata,Fotovoltaici
+12253,Sardegna,Centrali
+12254,Basilicata,Impianti idroelettrici
+12254,Puglia,Impianti idroelettrici
+12547,Basilicata,Fotovoltaici
+12547,Puglia,Fotovoltaici
+12206,Basilicata,Impianti eolici onshore
+12206,Puglia,Impianti eolici onshore
+12811,Puglia,Fotovoltaici
+12964,Molise,Fotovoltaici
+12964,Abruzzo,Fotovoltaici
+12357,Puglia,Fotovoltaici
+12165,Lazio,Opere ferroviarie
+12703,Puglia,Fotovoltaici
+12502,Puglia,Fotovoltaici
+12957,Marche,Fotovoltaici
+12193,Sicilia,Elettrodotti
+12729,Basilicata,Fotovoltaici
+12746,Basilicata,Fotovoltaici
+12749,Basilicata,Fotovoltaici
+12742,Basilicata,Fotovoltaici
+12731,Basilicata,Fotovoltaici
+12952,Puglia,Fotovoltaici
+12496,Basilicata,Fotovoltaici
+12250,Umbria,Metanodotti
+12250,Toscana,Metanodotti
+12589,Sicilia,Fotovoltaici
+12153,Lazio,Opere stradali
+12173,Veneto,Opere stradali
+12479,Sardegna,Fotovoltaici
+12526,Lazio,Fotovoltaici
+12681,Basilicata,Fotovoltaici
+12681,Puglia,Fotovoltaici
+12498,Sicilia,Impianti eolici onshore
+12500,Sicilia,Impianti eolici onshore
+12144,Toscana,Centrali
+12247,Puglia,Fotovoltaici
+12248,Sardegna,Impianti eolici onshore
+12134,Sicilia,Opere ferroviarie
+12355,Sardegna,Fotovoltaici
+12210,Basilicata,Impianti eolici onshore
+12349,Sicilia,Fotovoltaici
+12473,Lombardia,Centrali
+12126,Lombardia,Opere stradali
+12422,Puglia,Fotovoltaici
+12123,Molise,Elettrodotti
+12123,Abruzzo,Elettrodotti
+12320,Lazio,Fotovoltaici
+12119,Sicilia,Aeroporti
+12332,Sardegna,Fotovoltaici
+12797,Sardegna,Fotovoltaici
+12574,Puglia,Fotovoltaici
+12416,Sardegna,Fotovoltaici
+12728,Puglia,Fotovoltaici
+12417,Basilicata,Fotovoltaici
+12208,Puglia,Impianti eolici onshore
+12942,Basilicata,Fotovoltaici
+13205,Basilicata,Fotovoltaici
+12412,Toscana,Fotovoltaici
+13206,Basilicata,Fotovoltaici
+13204,Basilicata,Fotovoltaici
+13203,Basilicata,Fotovoltaici
+12107,Sardegna,Centrali
+12438,Lazio,Fotovoltaici
+12136,Umbria,Metanodotti
+12136,Marche,Metanodotti
+12655,Puglia,Fotovoltaici
+12183,Basilicata,Impianti eolici onshore
+12085,Veneto,Opere stradali
+12403,Puglia,Fotovoltaici
+12407,Sicilia,Fotovoltaici
+12160,Lazio,Opere ferroviarie
+12160,Campania,Opere ferroviarie
+12088,Lazio,Opere ferroviarie
+12404,Basilicata,Fotovoltaici
+12404,Puglia,Fotovoltaici
+12583,Puglia,Fotovoltaici
+12083,Sicilia,Aeroporti
+12077,Piemonte,Attività minerarie
+12069,Lazio,Opere stradali
+12151,Basilicata,Fotovoltaici
+12080,Emilia Romagna,Fotovoltaici
+12150,Sardegna,Fotovoltaici
+12067,Trentino Alto Adige,Impianti di rigassificazione
+12149,Sicilia,Impianti eolici onshore
+12087,Lazio,Fotovoltaici
+12089,Sicilia,Fotovoltaici
+12078,Basilicata,Fotovoltaici
+12081,Emilia Romagna,Fotovoltaici
+12084,Puglia,Fotovoltaici
+12086,Puglia,Fotovoltaici
+12056,Emilia Romagna,Opere stradali
+12177,Basilicata,Fotovoltaici
+12177,Puglia,Fotovoltaici
+12717,Basilicata,Fotovoltaici
+12402,Basilicata,Fotovoltaici
+12718,Basilicata,Fotovoltaici
+12399,Basilicata,Fotovoltaici
+12720,Basilicata,Fotovoltaici
+12063,Puglia,Fotovoltaici
+12184,Emilia Romagna,Fotovoltaici
+12091,Sicilia,Fotovoltaici
+12093,Sicilia,Fotovoltaici
+12140,Sicilia,Fotovoltaici
+12090,Puglia,Fotovoltaici
+13590,Puglia,Fotovoltaici
+12185,Basilicata,Fotovoltaici
+12125,Sicilia,Impianti eolici offshore
+12137,Puglia,Fotovoltaici
+12138,Puglia,Fotovoltaici
+12130,Puglia,Fotovoltaici
+12098,Basilicata,Fotovoltaici
+12098,Puglia,Fotovoltaici
+12061,Trentino Alto Adige,Opere ferroviarie
+12060,Marche,Metanodotti
+12128,Abruzzo,Opere stradali
+12038,Campania,Opere portuali e vie navigabili
+12042,Basilicata,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+12050,Basilicata,Fotovoltaici
+12139,Basilicata,Fotovoltaici
+12156,Sardegna,Fotovoltaici
+12053,Basilicata,Fotovoltaici
+12049,Basilicata,Fotovoltaici
+12037,Trentino Alto Adige,Opere ferroviarie
+12116,Sardegna,Impianti eolici onshore
+12095,Puglia,Fotovoltaici
+12079,Basilicata,Fotovoltaici
+12657,Basilicata,Fotovoltaici
+12174,Basilicata,Fotovoltaici
+12096,Basilicata,Fotovoltaici
+12175,Toscana,Fotovoltaici
+12379,Basilicata,Fotovoltaici
+12172,Sicilia,Fotovoltaici
+12478,Sardegna,Fotovoltaici
+12176,Veneto,Fotovoltaici
+12097,Veneto,Fotovoltaici
+12157,Piemonte,Fotovoltaici
+12255,Sicilia,Aeroporti
+12373,Sardegna,Fotovoltaici
+12346,Basilicata,Fotovoltaici
+12397,Basilicata,Fotovoltaici
+12074,Sardegna,Opere portuali e vie navigabili
+12044,Lazio,Elettrodotti
+12052,Campania,Fotovoltaici
+12055,Basilicata,Fotovoltaici
+12154,Puglia,Fotovoltaici
+12155,Puglia,Fotovoltaici
+12152,Basilicata,Fotovoltaici
+12076,Abruzzo,Opere stradali
+12032,Basilicata,Fotovoltaici
+12026,Puglia,Opere stradali
+12009,Calabria,Opere stradali
+12021,Lombardia,Aeroporti
+12031,Puglia,Fotovoltaici
+12036,Umbria,Opere ferroviarie
+12256,Sardegna,Metanodotti
+12024,Puglia,Fotovoltaici
+12341,Puglia,Fotovoltaici
+12000,Molise,Impianti eolici onshore
+12029,Basilicata,Fotovoltaici
+12029,Puglia,Fotovoltaici
+12141,Puglia,Fotovoltaici
+12030,Puglia,Fotovoltaici
+12001,Piemonte,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+13597,Puglia,Fotovoltaici
+12027,Puglia,Fotovoltaici
+11994,Piemonte,Centrali
+12576,Puglia,Fotovoltaici
+12033,Campania,Impianti eolici onshore
+12039,Basilicata,Fotovoltaici
+12039,Puglia,Fotovoltaici
+12047,Puglia,Fotovoltaici
+12004,Campania,Fotovoltaici
+12043,Lazio,Fotovoltaici
+12018,Basilicata,Opere stradali
+12041,Puglia,Fotovoltaici
+12216,Sicilia,Fotovoltaici
+12040,Puglia,Fotovoltaici
+11991,Liguria,Opere portuali e vie navigabili
+11983,Puglia,Opere ferroviarie
+12015,Sardegna,Fotovoltaici
+12726,Toscana,Fotovoltaici
+12020,Puglia,Fotovoltaici
+12481,Veneto,Opere portuali e vie navigabili
+11970,Piemonte,Aeroporti
+11989,Puglia,Fotovoltaici
+11974,Umbria,Opere ferroviarie
+12012,Puglia,Opere stradali
+12113,Campania,Fotovoltaici
+11996,Puglia,Fotovoltaici
+11972,Abruzzo,Elettrodotti
+11981,Sicilia,Fotovoltaici
+11979,Campania,Impianti eolici onshore
+11980,Sicilia,Fotovoltaici
+11961,Sicilia,Opere portuali e vie navigabili
+13162,Sardegna,Opere stradali
+11967,Sardegna,Opere stradali
+11946,Liguria,Opere portuali e vie navigabili
+11959,Basilicata,Fotovoltaici
+11965,Puglia,Centrali
+11958,Puglia,Fotovoltaici
+11964,Puglia,Centrali
+12008,Emilia Romagna,Metanodotti
+11943,Sardegna,Opere stradali
+11995,Sicilia,Fotovoltaici
+11963,Piemonte,Centrali
+11957,Basilicata,Fotovoltaici
+11947,Puglia,Fotovoltaici
+11956,Puglia,Fotovoltaici
+11948,Calabria,Fotovoltaici
+11951,Puglia,Fotovoltaici
+11952,Puglia,Fotovoltaici
+11968,Sicilia,Impianti eolici onshore
+11955,Lazio,Centrali
+12278,Umbria,Centrali
+12456,Puglia,Fotovoltaici
+11931,Trentino Alto Adige,Impianti idroelettrici
+12023,Molise,Metanodotti
+12023,Abruzzo,Metanodotti
+11925,Sardegna,Opere stradali
+11915,Emilia Romagna,Opere stradali
+12058,Sicilia,Fotovoltaici
+11933,Sicilia,Opere ferroviarie
+12343,Puglia,Fotovoltaici
+12059,Sardegna,Fotovoltaici
+12573,Basilicata,Fotovoltaici
+11905,Puglia,Elettrodotti
+12557,Sardegna,Impianti eolici onshore
+12570,Basilicata,Fotovoltaici
+12440,Sardegna,Impianti eolici onshore
+12111,Puglia,Fotovoltaici
+12221,Basilicata,Fotovoltaici
+12073,Sicilia,Fotovoltaici
+11993,Puglia,Fotovoltaici
+11988,Toscana,Fotovoltaici
+11930,Puglia,Fotovoltaici
+12361,Puglia,Fotovoltaici
+12068,Puglia,Fotovoltaici
+12220,Basilicata,Fotovoltaici
+12220,Puglia,Fotovoltaici
+12016,Emilia Romagna,Impianti di stoccaggio
+11888,Lombardia,Opere stradali
+12070,Puglia,Fotovoltaici
+12046,Sardegna,Fotovoltaici
+12057,Veneto,Elettrodotti
+11895,Puglia,Impianti eolici onshore
+11902,Veneto,Centrali
+11923,Sicilia,Opere portuali e vie navigabili
+11926,Puglia,Fotovoltaici
+11928,Sardegna,Fotovoltaici
+11924,Puglia,Fotovoltaici
+11922,Puglia,Fotovoltaici
+11921,Puglia,Fotovoltaici
+12127,Lazio,Impianti eolici onshore
+12048,Sicilia,Ricerca idrocarburi
+11945,Friuli Venezia Giulia,Opere stradali
+11883,Veneto,Opere stradali
+12115,Campania,Fotovoltaici
+12102,Campania,Impianti eolici onshore
+11874,Lombardia,Aeroporti
+11877,Sicilia,Opere ferroviarie
+11878,Piemonte,Opere ferroviarie
+12114,Sicilia,Fotovoltaici
+11871,Calabria,Opere portuali e vie navigabili
+12124,Sicilia,Fotovoltaici
+12010,Emilia Romagna,Centrali
+11870,Sardegna,Opere idrauliche
+12575,Basilicata,Fotovoltaici
+11929,Friuli Venezia Giulia,Centrali
+11986,Basilicata,Opere stradali
+11986,Puglia,Opere stradali
+11861,Sicilia,Opere stradali
+11858,Molise,Interporti
+13145,Sicilia,Impianti eolici onshore
+12215,Sicilia,Fotovoltaici
+11863,Liguria,Impianti di rigassificazione
+11863,Piemonte,Impianti di rigassificazione
+12122,Sardegna,Fotovoltaici
+11987,Basilicata,Fotovoltaici
+11859,Puglia,Impianti eolici offshore
+11985,Puglia,Fotovoltaici
+12261,Basilicata,Fotovoltaici
+11881,Sardegna,Impianti eolici offshore
+11882,Sardegna,Impianti eolici offshore
+11938,Puglia,Fotovoltaici
+11872,Toscana,Impianti idroelettrici
+11901,Emilia Romagna,Coltivazione idrocarburi
+11997,Emilia Romagna,Centrali
+11937,Puglia,Fotovoltaici
+11873,Liguria,Opere portuali e vie navigabili
+11936,Puglia,Fotovoltaici
+11935,Puglia,Fotovoltaici
+12103,Puglia,Fotovoltaici
+11835,Sardegna,Opere portuali e vie navigabili
+12112,Puglia,Fotovoltaici
+12108,Emilia Romagna,Fotovoltaici
+11822,Campania,Opere portuali e vie navigabili
+11831,Liguria,Opere portuali e vie navigabili
+11820,Sardegna,Opere portuali e vie navigabili
+12213,Puglia,Fotovoltaici
+11862,Sicilia,Fotovoltaici
+11818,Puglia,Elettrodotti
+11810,Campania,Opere stradali
+11824,Sicilia,Centrali
+11840,Puglia,Fotovoltaici
+11809,Campania,Opere stradali
+11976,Campania,Fotovoltaici
+11823,Lombardia,Centrali
+11850,Friuli Venezia Giulia,Opere stradali
+11845,Puglia,Fotovoltaici
+12212,Puglia,Fotovoltaici
+12101,Puglia,Fotovoltaici
+11851,Sicilia,Elettrodotti
+11842,Campania,Centrali
+11856,Basilicata,Fotovoltaici
+11812,Sardegna,Fotovoltaici
+11782,Sardegna,Opere portuali e vie navigabili
+11779,Basilicata,Impianti idroelettrici
+11792,Piemonte,Fotovoltaici
+12243,Lombardia,Centrali
+11780,Puglia,Opere portuali e vie navigabili
+11775,Emilia Romagna,Opere stradali
+11777,Toscana,Opere idrauliche
+11778,Toscana,Opere idrauliche
+11772,Veneto,Opere stradali
+11770,Liguria,Opere portuali e vie navigabili
+11771,Liguria,Opere portuali e vie navigabili
+11769,Liguria,Opere portuali e vie navigabili
+11768,Liguria,Opere portuali e vie navigabili
+11759,Liguria,Opere portuali e vie navigabili
+11764,Liguria,Opere portuali e vie navigabili
+11846,Lazio,Fotovoltaici
+11816,Puglia,Fotovoltaici
+11743,Sicilia,Elettrodotti
+11761,Piemonte,Centrali
+11798,Umbria,Fotovoltaici
+12100,Sicilia,Fotovoltaici
+11784,Basilicata,Fotovoltaici
+11739,Puglia,Impianti eolici onshore
+11738,Emilia Romagna,Opere idrauliche
+11806,Puglia,Fotovoltaici
+11807,Puglia,Fotovoltaici
+11734,Umbria,Opere stradali
+11765,Lombardia,Interporti
+11715,Calabria,Opere portuali e vie navigabili
+11821,Lombardia,Centrali
+11826,Puglia,Fotovoltaici
+11723,Basilicata,Impianti eolici onshore
+11731,Puglia,Impianti eolici onshore
+11724,Molise,Impianti eolici onshore
+11724,Campania,Impianti eolici onshore
+11719,Umbria,Impianti eolici onshore
+11733,Puglia,Impianti eolici onshore
+11729,Sicilia,Opere stradali
+11852,Puglia,Fotovoltaici
+11843,Puglia,Fotovoltaici
+11797,Calabria,Opere stradali
+11781,Toscana,Opere stradali
+11838,Puglia,Fotovoltaici
+11716,Sardegna,Impianti chimici integrati
+11725,Emilia Romagna,Opere idrauliche
+11741,Liguria,Opere portuali e vie navigabili
+11803,Basilicata,Fotovoltaici
+12319,Basilicata,Fotovoltaici
+12099,Puglia,Fotovoltaici
+11805,Puglia,Fotovoltaici
+11804,Puglia,Fotovoltaici
+11722,Puglia,Impianti eolici onshore
+11722,Molise,Impianti eolici onshore
+11786,Lazio,Fotovoltaici
+11802,Sicilia,Fotovoltaici
+12022,Basilicata,Impianti eolici onshore
+11712,Campania,Impianti eolici onshore
+11714,Puglia,Impianti eolici onshore
+11710,Molise,Impianti eolici onshore
+11785,Sicilia,Fotovoltaici
+11709,Lombardia,Centrali
+11730,Sicilia,Impianti eolici onshore
+11801,Basilicata,Fotovoltaici
+11855,Puglia,Fotovoltaici
+11813,Puglia,Fotovoltaici
+11848,Puglia,Fotovoltaici
+11860,Marche,Opere ferroviarie
+11837,Basilicata,Fotovoltaici
+11814,Puglia,Fotovoltaici
+11787,Puglia,Fotovoltaici
+12378,Liguria,Opere idrauliche
+12378,Piemonte,Opere idrauliche
+13069,Puglia,Fotovoltaici
+11700,Toscana,Opere stradali
+11854,Puglia,Fotovoltaici
+11708,Puglia,Impianti chimici integrati
+11693,Sicilia,Opere idrauliche
+11701,Lombardia,Impianti di stoccaggio
+12271,Puglia,Fotovoltaici
+11790,Molise,Fotovoltaici
+11789,Molise,Fotovoltaici
+11788,Puglia,Fotovoltaici
+12146,Puglia,Fotovoltaici
+11919,Puglia,Fotovoltaici
+11762,Sicilia,Opere portuali e vie navigabili
+11791,Sicilia,Fotovoltaici
+11698,Abruzzo,Metanodotti
+11692,Puglia,Elettrodotti
+11834,Sardegna,Fotovoltaici
+11917,Puglia,Fotovoltaici
+11918,Puglia,Fotovoltaici
+12145,Puglia,Fotovoltaici
+12147,Puglia,Fotovoltaici
+11844,Puglia,Fotovoltaici
+11690,Sicilia,Opere stradali
+11706,Piemonte,Opere ferroviarie
+11706,Valle d,Opere ferroviarie
+11691,Campania,Impianti eolici onshore
+11688,Basilicata,Impianti eolici onshore
+11687,Liguria,Opere ferroviarie
+11689,Puglia,Impianti eolici onshore
+11684,Emilia Romagna,Elettrodotti
+11680,Lazio,Opere stradali
+11667,Puglia,Opere portuali e vie navigabili
+11685,Veneto,Centrali
+11686,Puglia,Centrali
+11682,Emilia Romagna,Metanodotti
+11669,Abruzzo,Metanodotti
+11763,Sicilia,Opere portuali e vie navigabili
+11705,Emilia Romagna,Impianti di stoccaggio
+11664,Campania,Opere portuali e vie navigabili
+11681,Puglia,Opere stradali
+11665,Marche,Interporti
+11660,Puglia,Elettrodotti
+11654,Campania,Opere portuali e vie navigabili
+11659,Molise,Impianti eolici onshore
+11661,Puglia,Impianti eolici offshore
+11670,Sicilia,Opere portuali e vie navigabili
+11647,Abruzzo,Opere stradali
+11644,Basilicata,Impianti eolici onshore
+11649,Sicilia,Metanodotti
+11645,Abruzzo,Metanodotti
+11641,Sardegna,Impianti di rigassificazione
+11638,Campania,Opere ferroviarie
+11655,Puglia,Elettrodotti
+11657,Emilia Romagna,Centrali
+11637,Sicilia,Impianti eolici onshore
+11624,Calabria,Opere stradali
+14278,Puglia,Metanodotti
+11632,Liguria,Opere stradali
+14247,Toscana,Impianti di rigassificazione
+11621,Sardegna,Opere idrauliche
+11620,Sicilia,Impianti eolici onshore
+11617,Marche,Opere stradali
+11617,Toscana,Opere stradali
+11618,Toscana,Opere stradali
+11616,Emilia Romagna,Opere stradali
+11616,Lombardia,Opere stradali
+11616,Veneto,Opere stradali
+12466,Nessuna regione,Centrali
+11619,Basilicata,Impianti eolici onshore
+11608,Calabria,Opere stradali
+11606,Liguria,Opere portuali e vie navigabili
+11615,Puglia,Impianti eolici onshore
+12997,Emilia Romagna,Ricerca idrocarburi
+11613,Puglia,Opere stradali
+11602,Puglia,Impianti eolici onshore
+11614,Puglia,Impianti eolici onshore
+11628,Sicilia,Impianti eolici onshore
+11590,Liguria,Opere portuali e vie navigabili
+11580,Toscana,Opere stradali
+11594,Sicilia,Impianti eolici onshore
+11612,Veneto,Impianti di stoccaggio
+11574,Sardegna,Opere portuali e vie navigabili
+11586,Sicilia,Impianti eolici onshore
+11566,Toscana,Opere stradali
+11604,Lombardia,Centrali
+11562,Abruzzo,Opere stradali
+11557,Sicilia,Opere ferroviarie
+11558,Liguria,Opere portuali e vie navigabili
+11597,Basilicata,Impianti eolici onshore
+11552,Sardegna,Opere ferroviarie
+11559,Puglia,Impianti eolici onshore
+11577,Veneto,Opere stradali
+12019,Sicilia,Opere portuali e vie navigabili
+12807,Puglia,Opere ferroviarie
+11766,Veneto,Opere stradali
+12816,Liguria,Opere portuali e vie navigabili
+11571,Campania,Centrali
+11573,Piemonte,Centrali
+11534,Trentino Alto Adige,Opere ferroviarie
+11528,Abruzzo,Opere stradali
+11532,Sicilia,Impianti eolici onshore
+11516,Sardegna,Opere stradali
+11518,Lazio,Opere stradali
+11520,Lombardia,Opere stradali
+11530,Basilicata,Impianti eolici onshore
+11553,Sardegna,Elettrodotti
+11498,Piemonte,Attività minerarie
+11497,Lombardia,Opere stradali
+12934,Veneto,Elettrodotti
+11587,Piemonte,Centrali
+11492,Sardegna,Opere portuali e vie navigabili
+11491,Abruzzo,Opere stradali
+11496,Piemonte,Attività minerarie
+11482,Emilia Romagna,Centrali
+11478,Piemonte,Opere stradali
+11538,Emilia Romagna,Centrali
+11475,Toscana,Opere portuali e vie navigabili
+11480,Sardegna,Impianti di rigassificazione
+11472,Liguria,Opere portuali e vie navigabili
+11490,Calabria,Centrali
+11469,Emilia Romagna,Aeroporti
+11468,Piemonte,Impianti idroelettrici
+11467,Puglia,Aeroporti
+11461,Sardegna,Opere stradali
+11463,Abruzzo,Opere stradali
+11517,Sicilia,Impianti eolici onshore
+11545,Lombardia,Centrali
+11455,Abruzzo,Opere ferroviarie
+11460,Puglia,Impianti eolici onshore
+11457,Lombardia,Opere ferroviarie
+11448,Calabria,Aeroporti
+11459,Puglia,Impianti eolici onshore
+11458,Basilicata,Impianti eolici onshore
+11489,Lombardia,Centrali
+11445,Toscana,Opere stradali
+11447,Sicilia,Impianti eolici onshore
+11444,Calabria,Aeroporti
+11438,Emilia Romagna,Opere stradali
+11434,Sicilia,Opere ferroviarie
+11437,Sicilia,Opere ferroviarie
+11446,Puglia,Impianti eolici onshore
+11483,Puglia,Impianti eolici onshore
+11452,Lazio,Opere stradali
+11423,Abruzzo,Aeroporti
+11435,Sicilia,Opere ferroviarie
+11419,Campania,Opere ferroviarie
+11417,Toscana,Opere stradali
+11418,Lombardia,Opere stradali
+11384,Lazio,Opere portuali e vie navigabili
+11385,Emilia Romagna,Opere stradali
+11386,Emilia Romagna,Opere stradali
+11387,Emilia Romagna,Opere stradali
+11388,Emilia Romagna,Opere stradali
+11389,Emilia Romagna,Opere stradali
+11473,Campania,Impianti eolici onshore
+11381,Sicilia,Impianti eolici onshore
+11382,Campania,Impianti eolici onshore
+11428,Sardegna,Impianti eolici onshore
+11401,Abruzzo,Centrali
+11402,Lazio,Opere stradali
+11379,Abruzzo,Opere stradali
+11421,Campania,Impianti eolici onshore
+11366,Campania,Opere portuali e vie navigabili
+11361,Liguria,Attività minerarie
+11360,Emilia Romagna,Attività minerarie
+11371,Sicilia,Prospezione idrocarburi
+11354,Sicilia,Opere portuali e vie navigabili
+11363,Sardegna,Opere portuali e vie navigabili
+11357,Abruzzo,Opere stradali
+11358,Abruzzo,Opere stradali
+11359,Abruzzo,Opere stradali
+11406,Lombardia,Opere stradali
+11368,Basilicata,Impianti eolici onshore
+11367,Sardegna,Impianti eolici onshore
+11603,Lombardia,Centrali
+11343,Abruzzo,Opere stradali
+11373,Sardegna,Aeroporti
+11340,Sardegna,Opere stradali
+11341,Sardegna,Opere stradali
+11356,Basilicata,Impianti eolici onshore
+11425,Molise,Centrali
+11426,Lombardia,Centrali
+11433,Sicilia,Raffinerie
+11887,Piemonte,Opere stradali
+11324,Emilia Romagna,Opere stradali
+11365,Sicilia,Impianti eolici onshore
+11345,Sicilia,Raffinerie
+11323,Toscana,Impianti di rigassificazione
+11380,Puglia,Impianti eolici onshore
+11321,Umbria,Opere ferroviarie
+11320,Campania,Elettrodotti
+11329,Sicilia,Opere portuali e vie navigabili
+11311,Liguria,Opere portuali e vie navigabili
+11422,Puglia,Impianti eolici onshore
+11312,Puglia,Impianti eolici onshore
+11313,Puglia,Impianti eolici onshore
+11314,Puglia,Impianti eolici onshore
+11306,Calabria,Opere portuali e vie navigabili
+11344,Lazio,Centrali
+11302,Veneto,Elettrodotti
+11304,Veneto,Elettrodotti
+11297,Lombardia,Opere stradali
+11298,Lombardia,Opere stradali
+11299,Lombardia,Opere stradali
+11322,Toscana,Opere stradali
+11292,Calabria,Opere portuali e vie navigabili
+11258,Sardegna,Impianti eolici onshore
+11291,Lombardia,Aeroporti
+11293,Puglia,Metanodotti
+11300,Sicilia,Opere ferroviarie
+11288,Lombardia,Opere ferroviarie
+11289,Puglia,Opere portuali e vie navigabili
+11268,Puglia,Opere portuali e vie navigabili
+11269,Sardegna,Opere portuali e vie navigabili
+11262,Friuli Venezia Giulia,Opere ferroviarie
+11257,Veneto,Opere stradali
+11263,Friuli Venezia Giulia,Opere idrauliche
+11255,Lazio,Elettrodotti
+11256,Umbria,Elettrodotti
+11256,Marche,Elettrodotti
+11259,Calabria,Impianti eolici onshore
+11242,Puglia,Opere portuali e vie navigabili
+14246,Toscana,Impianti di rigassificazione
+11233,Campania,Opere portuali e vie navigabili
+11342,Toscana,Impianti di rigassificazione
+11237,Lazio,Opere ferroviarie
+11236,Puglia,Opere stradali
+11212,Puglia,Opere idrauliche
+11201,Veneto,Opere stradali
+11205,Puglia,Opere portuali e vie navigabili
+13761,Sicilia,Coltivazione idrocarburi
+11286,Toscana,Impianti geotermici
+11209,Sicilia,Ricerca idrocarburi
+11249,Puglia,Impianti eolici onshore
+11249,Molise,Impianti eolici onshore
+11239,Marche,Opere stradali
+11184,Sardegna,Opere stradali
+11181,Basilicata,Impianti eolici onshore
+11169,Sardegna,Impianti eolici onshore
+10928,Lombardia,Opere ferroviarie
+10928,Veneto,Opere ferroviarie
+11308,Campania,Metanodotti
+11199,Friuli Venezia Giulia,Opere stradali
+11178,Campania,Impianti eolici onshore
+11154,Sardegna,Opere portuali e vie navigabili
+11155,Sicilia,Impianti eolici onshore
+11158,Sicilia,Impianti eolici onshore
+11157,Sicilia,Impianti eolici onshore
+11171,Basilicata,Impianti eolici onshore
+11179,Sicilia,Elettrodotti
+11153,Veneto,Opere stradali
+11285,Veneto,Metanodotti
+11149,Liguria,Opere portuali e vie navigabili
+11156,Marche,Opere stradali
+11224,Piemonte,Attività minerarie
+11163,Veneto,Centrali
+11159,Puglia,Impianti eolici onshore
+11160,Puglia,Impianti eolici onshore
+11161,Puglia,Impianti eolici onshore
+11162,Puglia,Impianti eolici onshore
+11166,Puglia,Impianti eolici onshore
+11164,Lombardia,Centrali
+11211,Veneto,Opere stradali
+11265,Emilia Romagna,Centrali
+11147,Basilicata,Impianti eolici onshore
+11146,Piemonte,Opere stradali
+11143,Sardegna,Opere idrauliche
+11137,Piemonte,Opere stradali
+11138,Sicilia,Opere stradali
+11148,Sardegna,Opere stradali
+11136,Sardegna,Impianti eolici onshore
+11134,Veneto,Opere stradali
+11132,Sicilia,Impianti eolici onshore
+11133,Puglia,Opere ferroviarie
+11202,Campania,Impianti eolici onshore
+11122,Sardegna,Opere stradali
+11121,Sicilia,Opere ferroviarie
+11325,Basilicata,Centrali
+11130,Lombardia,Impianti di stoccaggio
+11115,Toscana,Opere portuali e vie navigabili
+11114,Molise,Opere stradali
+11113,Lazio,Opere portuali e vie navigabili
+11112,Sardegna,Opere idrauliche
+11119,Veneto,Opere stradali
+11108,Sicilia,Opere portuali e vie navigabili
+11109,Sicilia,Opere portuali e vie navigabili
+11096,Emilia Romagna,Centrali
+11095,Liguria,Opere portuali e vie navigabili
+11099,Lombardia,Opere ferroviarie
+11097,Lombardia,Opere stradali
+11086,Liguria,Opere idrauliche
+11086,Piemonte,Opere idrauliche
+11078,Piemonte,Centrali
+11118,Puglia,Elettrodotti
+11076,Umbria,Centrali
+11069,Sicilia,Opere stradali
+11066,Veneto,Opere stradali
+11101,Puglia,Elettrodotti
+11070,Puglia,Opere ferroviarie
+11067,Liguria,Centrali
+11074,Lazio,Centrali
+11059,Toscana,Centrali
+11080,Puglia,Impianti eolici onshore
+11062,Puglia,Elettrodotti
+11058,Puglia,Opere ferroviarie
+11063,Basilicata,Impianti eolici offshore
+11063,Sicilia,Impianti eolici offshore
+11063,Campania,Impianti eolici offshore
+11063,Calabria,Impianti eolici offshore
+11060,Toscana,Opere portuali e vie navigabili
+11092,Veneto,Ricerca idrocarburi
+11051,Sicilia,Centrali
+11056,Piemonte,Opere stradali
+11045,Sardegna,Opere idrauliche
+11046,Piemonte,Opere ferroviarie
+11044,Sicilia,Centrali
+11053,Basilicata,Impianti eolici onshore
+11037,Sicilia,Opere ferroviarie
+11054,Sardegna,Impianti eolici onshore
+11039,Toscana,Opere portuali e vie navigabili
+11093,Piemonte,Centrali
+11043,Campania,Centrali
+11031,Toscana,Impianti di stoccaggio
+11036,Emilia Romagna,Centrali
+11036,Lombardia,Centrali
+11052,Lombardia,Aeroporti
+11020,Lombardia,Opere ferroviarie
+11025,Lombardia,Opere ferroviarie
+11025,Veneto,Opere ferroviarie
+11016,Lombardia,Attività minerarie
+11009,Piemonte,Elettrodotti
+11014,Sicilia,Impianti eolici onshore
+11015,Campania,Impianti eolici onshore
+11012,Basilicata,Impianti eolici onshore
+11008,Sicilia,Prospezione idrocarburi
+11004,Liguria,Opere stradali
+11010,Sardegna,Impianti eolici onshore
+11001,Lombardia,Impianti chimici integrati
+11002,Lombardia,Opere ferroviarie
+11002,Veneto,Opere ferroviarie
+10998,Puglia,Impianti eolici onshore
+10996,Basilicata,Impianti eolici onshore
+10986,Sicilia,Opere portuali e vie navigabili
+11013,Emilia Romagna,Metanodotti
+11030,Toscana,Opere stradali
+10992,Marche,Metanodotti
+10997,Basilicata,Impianti eolici onshore
+10982,Liguria,Impianti di rigassificazione
+11007,Lombardia,Impianti di stoccaggio
+10980,Sicilia,Raffinerie
+10980,Lombardia,Raffinerie
+10999,Sardegna,Impianti eolici onshore
+11027,Friuli Venezia Giulia,Centrali
+10994,Basilicata,Impianti eolici onshore
+10964,Calabria,Aeroporti
+10983,Toscana,Centrali
+10974,Basilicata,Impianti eolici onshore
+10968,Emilia Romagna,Opere stradali
+10969,Emilia Romagna,Opere stradali
+10971,Basilicata,Impianti eolici onshore
+11029,Calabria,Centrali
+10961,Campania,Impianti eolici onshore
+10960,Puglia,Elettrodotti
+10990,Sicilia,Centrali
+10955,Toscana,Impianti idroelettrici
+11011,Puglia,Impianti eolici onshore
+10956,Abruzzo,Elettrodotti
+10950,Toscana,Opere portuali e vie navigabili
+10987,Toscana,Centrali
+10954,Veneto,Opere stradali
+10991,Sicilia,Metanodotti
+11034,Sicilia,Interporti
+10941,Sicilia,Interporti
+10993,Puglia,Impianti eolici onshore
+10938,Campania,Centrali
+10942,Trentino Alto Adige,Impianti idroelettrici
+10920,Toscana,Opere stradali
+10944,Puglia,Impianti eolici onshore
+10966,Puglia,Opere portuali e vie navigabili
+10946,Puglia,Impianti eolici onshore
+10929,Piemonte,Elettrodotti
+10926,Friuli Venezia Giulia,Opere stradali
+10912,Sardegna,Impianti eolici onshore
+10927,Sicilia,Opere ferroviarie
+10932,Piemonte,Opere ferroviarie
+10918,Liguria,Opere portuali e vie navigabili
+10939,Veneto,Terminali marittimi
+11567,Puglia,Impianti eolici offshore
+10937,Lombardia,Centrali
+10914,Lombardia,Aeroporti
+10945,Veneto,Metanodotti
+10910,Sardegna,Impianti eolici onshore
+10909,Sicilia,Interporti
+10906,Piemonte,Centrali
+10902,Toscana,Opere portuali e vie navigabili
+10903,Toscana,Opere portuali e vie navigabili
+10904,Toscana,Opere portuali e vie navigabili
+10900,Sardegna,Opere portuali e vie navigabili
+10911,Piemonte,Opere portuali e vie navigabili
+10962,Puglia,Opere ferroviarie
+10962,Campania,Opere ferroviarie
+10896,Liguria,Opere portuali e vie navigabili
+10907,Campania,Metanodotti
+10908,Toscana,Metanodotti
+10951,Piemonte,Elettrodotti
+10898,Nessuna regione,Impianti eolici onshore
+10943,Basilicata,Impianti di smaltimento e recupero rifiuti
+10884,Emilia Romagna,Opere stradali
+10889,Liguria,Attività minerarie
+10888,Sardegna,Attività minerarie
+10887,Sicilia,Elettrodotti
+10880,Veneto,Opere stradali
+10881,Veneto,Opere stradali
+10885,Toscana,Opere ferroviarie
+10879,Calabria,Opere stradali
+10893,Lazio,Impianti eolici onshore
+10873,Puglia,Impianti eolici onshore
+10874,Campania,Impianti eolici onshore
+10866,Emilia Romagna,Centrali
+10867,Sicilia,Centrali
+10868,Sicilia,Centrali
+10890,Liguria,Opere portuali e vie navigabili
+10859,Liguria,Opere portuali e vie navigabili
+10862,Lombardia,Opere ferroviarie
+10834,Puglia,Opere idrauliche
+11120,Sardegna,Opere idrauliche
+10848,Sicilia,Opere portuali e vie navigabili
+10830,Sardegna,Impianti eolici onshore
+10823,Trentino Alto Adige,Impianti idroelettrici
+10821,Lombardia,Aeroporti
+10832,Campania,Impianti eolici onshore
+10824,Puglia,Impianti eolici onshore
+10854,Veneto,Opere stradali
+10855,Veneto,Opere stradali
+10886,Lazio,Centrali
+10844,Friuli Venezia Giulia,Centrali
+10810,Molise,Metanodotti
+10853,Veneto,Opere stradali
+10806,Trentino Alto Adige,Opere ferroviarie
+10806,Veneto,Opere ferroviarie
+10860,Sardegna,Impianti eolici offshore
+10802,Sardegna,Opere idrauliche
+10825,Emilia Romagna,Centrali
+10799,Lombardia,Elettrodotti
+10849,Lazio,Elettrodotti
+10826,Abruzzo,Centrali
+10870,Umbria,Centrali
+10803,Puglia,Impianti eolici onshore
+10794,Veneto,Opere stradali
+10793,Emilia Romagna,Opere stradali
+10792,Emilia Romagna,Opere stradali
+11241,Campania,Opere portuali e vie navigabili
+10775,Veneto,Opere stradali
+10790,Puglia,Impianti eolici onshore
+10782,Abruzzo,Impianti chimici integrati
+10795,Lombardia,Opere ferroviarie
+10795,Veneto,Opere ferroviarie
+10829,Campania,Metanodotti
+10773,Lazio,Aeroporti
+10774,Emilia Romagna,Metanodotti
+10774,Veneto,Metanodotti
+10766,Piemonte,Opere ferroviarie
+10820,Puglia,Impianti eolici offshore
+10781,Calabria,Centrali
+10765,Sicilia,Opere ferroviarie
+13316,Puglia,Opere portuali e vie navigabili
+10752,Calabria,Opere portuali e vie navigabili
+10763,Umbria,Aeroporti
+10780,Basilicata,Impianti eolici onshore
+10738,Sicilia,Opere stradali
+10965,Sardegna,Opere stradali
+10770,Basilicata,Impianti eolici onshore
+10833,Sicilia,Opere portuali e vie navigabili
+10759,Puglia,Impianti eolici onshore
+10740,Sardegna,Opere portuali e vie navigabili
+10777,Sardegna,Opere idrauliche
+10776,Sicilia,Opere idrauliche
+10729,Piemonte,Opere ferroviarie
+10729,Lombardia,Opere ferroviarie
+10729,Veneto,Opere ferroviarie
+10745,Sardegna,Opere idrauliche
+10735,Sardegna,Impianti eolici onshore
+10736,Puglia,Impianti eolici onshore
+10723,Lombardia,Impianti di rigassificazione
+10750,Puglia,Impianti eolici onshore
+10744,Campania,Impianti eolici onshore
+10758,Calabria,Impianti eolici onshore
+10747,Lazio,Metanodotti
+10747,Abruzzo,Metanodotti
+10753,Calabria,Metanodotti
+10755,Piemonte,Centrali
+10706,Puglia,Impianti eolici onshore
+10722,Molise,Impianti eolici onshore
+10764,Toscana,Opere stradali
+10711,Lombardia,Centrali
+10702,Campania,Impianti eolici onshore
+10712,Basilicata,Elettrodotti
+10718,Piemonte,Impianti idroelettrici
+10721,Toscana,Impianti di rigassificazione
+10719,Sicilia,Elettrodotti
+10698,Toscana,Centrali
+10699,Piemonte,Centrali
+10714,Lazio,Elettrodotti
+12035,Basilicata,Impianti eolici onshore
+10700,Puglia,Impianti eolici onshore
+10681,Lazio,Aeroporti
+10725,Campania,Centrali
+10749,Calabria,Centrali
+10701,Puglia,Centrali
+10760,Basilicata,Impianti eolici onshore
+10703,Piemonte,Centrali
+10715,Abruzzo,Opere stradali
+10679,Toscana,Opere idrauliche
+10713,Lombardia,Impianti di stoccaggio
+10716,Liguria,Opere portuali e vie navigabili
+10685,Sardegna,Metanodotti
+10669,Toscana,Centrali
+10737,Sardegna,Opere portuali e vie navigabili
+10761,Basilicata,Impianti eolici onshore
+10717,Campania,Elettrodotti
+10720,Puglia,Elettrodotti
+10691,Lazio,Centrali
+10665,Emilia Romagna,Centrali
+10748,Lazio,Centrali
+10709,Emilia Romagna,Centrali
+10756,Sicilia,Metanodotti
+10670,Sardegna,Opere idrauliche
+10661,Sardegna,Opere idrauliche
+10801,Liguria,Opere idrauliche
+10801,Piemonte,Opere idrauliche
+10741,Sicilia,Metanodotti
+10682,Sicilia,Opere portuali e vie navigabili
+10663,Sardegna,Centrali
+10791,Lombardia,Opere stradali
+11407,Puglia,Impianti eolici onshore
+14054,Piemonte,Opere idrauliche
+10692,Liguria,Centrali
+10693,Puglia,Centrali
+10660,Campania,Elettrodotti
+10694,Veneto,Impianti chimici integrati
+10852,Sicilia,Impianti eolici onshore
+10947,Emilia Romagna,Interporti
+10686,Toscana,Centrali
+10705,Campania,Opere ferroviarie
+10858,Lombardia,Impianti chimici integrati
+10675,Lazio,Metanodotti
+10675,Umbria,Metanodotti
+11139,Campania,Opere portuali e vie navigabili
+11420,Campania,Opere portuali e vie navigabili
+10651,Lombardia,Opere stradali
+10648,Campania,Opere portuali e vie navigabili
+10684,Piemonte,Centrali
+10657,Piemonte,Centrali
+10652,Puglia,Elettrodotti
+10652,Campania,Elettrodotti
+10645,Toscana,Centrali
+10643,Campania,Impianti eolici onshore
+10646,Toscana,Opere ferroviarie
+10649,Basilicata,Impianti eolici onshore
+10644,Puglia,Impianti eolici onshore
+10639,Veneto,Opere portuali e vie navigabili
+10640,Lazio,Opere ferroviarie
+10640,Puglia,Opere ferroviarie
+10640,Campania,Opere ferroviarie
+10695,Puglia,Metanodotti
+10641,Puglia,Impianti eolici onshore
+10650,Friuli Venezia Giulia,Metanodotti
+10650,Veneto,Metanodotti
+10851,Puglia,Opere portuali e vie navigabili
+10634,Puglia,Aeroporti
+10627,Toscana,Opere idrauliche
+14398,Sicilia,Coltivazione idrocarburi
+10632,Molise,Impianti eolici onshore
+10614,Puglia,Impianti eolici onshore
+10617,Basilicata,Impianti eolici onshore
+10617,Puglia,Impianti eolici onshore
+10619,Calabria,Opere portuali e vie navigabili
+10616,Sicilia,Metanodotti
+10630,Puglia,Opere portuali e vie navigabili
+10620,Emilia Romagna,Impianti chimici integrati
+10611,Puglia,Impianti eolici onshore
+10635,Lombardia,Opere portuali e vie navigabili
+10610,Puglia,Metanodotti
+10610,Abruzzo,Metanodotti
+10603,Emilia Romagna,Aeroporti
+10604,Sicilia,Aeroporti
+10626,Sicilia,Opere stradali
+10600,Lazio,Aeroporti
+10609,Puglia,Impianti eolici onshore
+10608,Abruzzo,Elettrodotti
+10618,Piemonte,Opere ferroviarie
+10596,Sicilia,Opere stradali
+10598,Campania,Opere portuali e vie navigabili
+10607,Calabria,Impianti eolici onshore
+10590,Puglia,Opere idrauliche
+10605,Lombardia,Attività minerarie
+10905,Sicilia,Opere ferroviarie
+10592,Piemonte,Opere portuali e vie navigabili
+10601,Sardegna,Impianti eolici onshore
+15061,Lazio,Opere portuali e vie navigabili
+10597,Abruzzo,Opere stradali
+10952,Piemonte,Elettrodotti
+11200,Umbria,Opere stradali
+11200,Marche,Opere stradali
+10581,Campania,Opere portuali e vie navigabili
+10582,Lazio,Centrali
+10583,Molise,Centrali
+10584,Calabria,Centrali
+10574,Basilicata,Impianti eolici onshore
+10574,Puglia,Impianti eolici onshore
+10575,Basilicata,Impianti eolici onshore
+10575,Puglia,Impianti eolici onshore
+10589,Emilia Romagna,Centrali
+10569,Puglia,Impianti eolici onshore
+10561,Toscana,Opere idrauliche
+10563,Molise,Impianti eolici onshore
+10565,Puglia,Impianti eolici onshore
+10564,Sicilia,Impianti eolici onshore
+11165,Lazio,Opere portuali e vie navigabili
+10562,Lazio,Opere portuali e vie navigabili
+10677,Liguria,Opere portuali e vie navigabili
+10560,Liguria,Metanodotti
+10560,Piemonte,Metanodotti
+10548,Puglia,Impianti eolici onshore
+10554,Emilia Romagna,Centrali
+10551,Lazio,Elettrodotti
+10547,Liguria,Opere portuali e vie navigabili
+10622,Emilia Romagna,Opere stradali
+10537,Puglia,Impianti eolici onshore
+10538,Puglia,Impianti eolici onshore
+10556,Piemonte,Centrali
+10520,Puglia,Impianti eolici onshore
+10539,Abruzzo,Metanodotti
+10552,Toscana,Centrali
+10557,Puglia,Metanodotti
+10517,Sardegna,Opere portuali e vie navigabili
+10521,Veneto,Opere stradali
+11630,Piemonte,Impianti idroelettrici
+10549,Toscana,Impianti di stoccaggio
+10559,Trentino Alto Adige,Metanodotti
+10518,Puglia,Impianti eolici onshore
+10515,Puglia,Impianti eolici onshore
+10514,Sardegna,Opere portuali e vie navigabili
+10505,Basilicata,Metanodotti
+10510,Piemonte,Opere stradali
+10509,Veneto,Elettrodotti
+10508,Calabria,Opere stradali
+15050,Puglia,Aeroporti
+10504,Liguria,Opere stradali
+10498,Campania,Opere ferroviarie
+10573,Campania,Impianti eolici onshore
+10500,Toscana,Opere idrauliche
+10506,Puglia,Impianti eolici onshore
+10511,Puglia,Impianti eolici onshore
+10503,Sicilia,Impianti eolici offshore
+10499,Piemonte,Elettrodotti
+10492,Basilicata,Impianti eolici onshore
+10488,Sicilia,Elettrodotti
+10493,Marche,Opere portuali e vie navigabili
+10491,Calabria,Impianti eolici onshore
+10490,Sicilia,Impianti eolici onshore
+10483,Piemonte,Opere stradali
+10495,Puglia,Elettrodotti
+10480,Friuli Venezia Giulia,Centrali
+10494,Puglia,Opere portuali e vie navigabili
+10473,Puglia,Impianti eolici onshore
+10471,Puglia,Centrali
+10466,Lazio,Opere stradali
+10461,Emilia Romagna,Opere stradali
+10460,Lazio,Opere portuali e vie navigabili
+10452,Toscana,Centrali
+10443,Liguria,Opere ferroviarie
+10443,Piemonte,Opere ferroviarie
+11774,Lombardia,Opere stradali
+10444,Emilia Romagna,Opere stradali
+10479,Liguria,Elettrodotti
+10525,Marche,Opere stradali
+10459,Veneto,Opere idrauliche
+10442,Sardegna,Opere idrauliche
+10439,Puglia,Opere idrauliche
+10440,Friuli Venezia Giulia,Opere stradali
+10438,Toscana,Impianti di stoccaggio
+10431,Toscana,Aeroporti
+10432,Sardegna,Aeroporti
+10436,Puglia,Centrali
+10434,Puglia,Centrali
+10435,Puglia,Centrali
+10419,Friuli Venezia Giulia,Opere stradali
+10416,Sicilia,Centrali
+10421,Puglia,Raffinerie
+10426,Piemonte,Centrali
+10425,Sardegna,Opere idrauliche
+10408,Emilia Romagna,Opere stradali
+10411,Emilia Romagna,Opere stradali
+10429,Puglia,Aeroporti
+10420,Toscana,Opere idrauliche
+10405,Calabria,Centrali
+10413,Molise,Centrali
+10414,Lazio,Centrali
+10417,Sicilia,Centrali
+10418,Umbria,Centrali
+10410,Calabria,Impianti eolici onshore
+10406,Calabria,Impianti eolici onshore
+10441,Campania,Metanodotti
+10412,Lombardia,Centrali
+10403,Marche,Elettrodotti
+10415,Emilia Romagna,Centrali
+10397,Sicilia,Opere ferroviarie
+10389,Veneto,Opere stradali
+10398,Veneto,Opere stradali
+10394,Toscana,Centrali
+10393,Toscana,Opere stradali
+10379,Sardegna,Opere idrauliche
+10385,Sicilia,Opere portuali e vie navigabili
+10382,Lazio,Opere portuali e vie navigabili
+10378,Emilia Romagna,Elettrodotti
+10384,Lombardia,Centrali
+11540,Calabria,Elettrodotti
+10314,Campania,Elettrodotti
+10376,Basilicata,Impianti eolici onshore
+10373,Puglia,Impianti eolici onshore
+10374,Toscana,Impianti chimici integrati
+10360,Veneto,Opere stradali
+10356,Puglia,Impianti idroelettrici
+10349,Basilicata,Impianti eolici onshore
+10344,Abruzzo,Opere portuali e vie navigabili
+10364,Lombardia,Centrali
+10355,Lombardia,Opere ferroviarie
+10355,Veneto,Opere ferroviarie
+10449,Lombardia,Impianti di stoccaggio
+10351,Sardegna,Elettrodotti
+10351,Toscana,Elettrodotti
+10788,Piemonte,Opere stradali
+10346,Basilicata,Impianti eolici onshore
+10350,Puglia,Impianti eolici onshore
+10337,Sardegna,Opere portuali e vie navigabili
+10345,Campania,Impianti eolici onshore
+10336,Calabria,Elettrodotti
+10322,Sicilia,Opere portuali e vie navigabili
+15081,Campania,Impianti eolici onshore
+10330,Piemonte,Elettrodotti
+10331,Piemonte,Elettrodotti
+10318,Emilia Romagna,Opere stradali
+10327,Emilia Romagna,Coltivazione idrocarburi
+10332,Friuli Venezia Giulia,Centrali
+10332,Veneto,Centrali
+10319,Puglia,Elettrodotti
+10324,Sicilia,Opere portuali e vie navigabili
+10320,Lombardia,Elettrodotti
+10334,Emilia Romagna,Opere stradali
+10312,Toscana,Aeroporti
+10372,Piemonte,Metanodotti
+10361,Friuli Venezia Giulia,Centrali
+10333,Veneto,Opere stradali
+10329,Toscana,Centrali
+10313,Basilicata,Impianti eolici onshore
+10310,Molise,Impianti idroelettrici
+10302,Lombardia,Aeroporti
+10558,Puglia,Metanodotti
+10301,Lombardia,Interporti
+10299,Sardegna,Aeroporti
+10296,Friuli Venezia Giulia,Interporti
+10347,Campania,Impianti eolici onshore
+10304,Puglia,Coltivazione idrocarburi
+10295,Lombardia,Impianti di stoccaggio
+10292,Lazio,Opere portuali e vie navigabili
+10291,Campania,Interporti
+10300,Veneto,Centrali
+10283,Veneto,Opere stradali
+10284,Trentino Alto Adige,Opere ferroviarie
+10294,Campania,Impianti eolici onshore
+10288,Puglia,Impianti eolici onshore
+10282,Toscana,Opere stradali
+10279,Piemonte,Impianti idroelettrici
+10307,Veneto,Elettrodotti
+10298,Piemonte,Impianti idroelettrici
+10286,Puglia,Impianti eolici onshore
+10268,Lombardia,Metanodotti
+10272,Lombardia,Opere stradali
+10273,Puglia,Metanodotti
+10269,Liguria,Opere portuali e vie navigabili
+10261,Emilia Romagna,Elettrodotti
+10260,Puglia,Elettrodotti
+10262,Emilia Romagna,Opere stradali
+10263,Emilia Romagna,Opere stradali
+10264,Emilia Romagna,Opere stradali
+10259,Basilicata,Impianti eolici onshore
+10250,Puglia,Elettrodotti
+10247,Emilia Romagna,Centrali
+10293,Abruzzo,Elettrodotti
+10246,Liguria,Opere portuali e vie navigabili
+10238,Marche,Opere ferroviarie
+10244,Emilia Romagna,Centrali
+10243,Molise,Elettrodotti
+10241,Sardegna,Interporti
+10235,Friuli Venezia Giulia,Opere stradali
+10237,Basilicata,Impianti eolici onshore
+10230,Umbria,Elettrodotti
+10230,Marche,Elettrodotti
+10245,Umbria,Aeroporti
+10236,Puglia,Elettrodotti
+10228,Puglia,Elettrodotti
+10231,Sicilia,Elettrodotti
+10231,Calabria,Elettrodotti
+10240,Abruzzo,Terminali marittimi
+10234,Sicilia,Aeroporti
+10225,Lombardia,Elettrodotti
+10224,Liguria,Metanodotti
+10218,Puglia,Opere ferroviarie
+10222,Sicilia,Metanodotti
+10223,Puglia,Opere idrauliche
+10185,Toscana,Opere stradali
+10221,Sardegna,Impianti eolici onshore
+10190,Lombardia,Opere idrauliche
+10179,Friuli Venezia Giulia,Opere stradali
+10180,Veneto,Centrali
+10181,Puglia,Centrali
+10182,Liguria,Centrali
+10183,Lazio,Centrali
+10164,Sicilia,Opere stradali
+10153,Calabria,Elettrodotti
+10137,Sicilia,Centrali
+10163,Puglia,Elettrodotti
+10129,Friuli Venezia Giulia,Centrali
+10115,Puglia,Centrali
+10184,Calabria,Opere stradali
+10154,Veneto,Opere stradali
+10104,Liguria,Interporti
+10162,Veneto,Elettrodotti
+10114,Campania,Impianti eolici onshore
+10139,Lombardia,Elettrodotti
+10116,Lombardia,Opere stradali
+10106,Puglia,Centrali
+10109,Sicilia,Impianti eolici onshore
+10131,Piemonte,Metanodotti
+10156,Veneto,Centrali
+10080,Emilia Romagna,Impianti di stoccaggio
+10097,Lazio,Centrali
+10075,Piemonte,Opere stradali
+10094,Sardegna,Opere idrauliche
+10085,Sardegna,Opere stradali
+10157,Basilicata,Elettrodotti
+10074,Piemonte,Opere stradali
+10068,Puglia,Impianti eolici onshore
+10196,Lazio,Opere portuali e vie navigabili
+10195,Lazio,Opere portuali e vie navigabili
+10194,Lazio,Opere portuali e vie navigabili
+10193,Lazio,Opere portuali e vie navigabili
+10192,Lazio,Opere portuali e vie navigabili
+10191,Lazio,Opere portuali e vie navigabili
+10219,Lazio,Opere portuali e vie navigabili
+10082,Lazio,Opere portuali e vie navigabili
+10071,Emilia Romagna,Metanodotti
+10071,Toscana,Metanodotti
+10220,Lazio,Opere portuali e vie navigabili
+10067,Campania,Impianti eolici onshore
+10059,Lazio,Opere portuali e vie navigabili
+10057,Lazio,Opere portuali e vie navigabili
+10058,Lazio,Opere portuali e vie navigabili
+10069,Lombardia,Impianti di stoccaggio
+10072,Sicilia,Opere portuali e vie navigabili
+10035,Toscana,Opere stradali
+10047,Lombardia,Elettrodotti
+10055,Lazio,Opere portuali e vie navigabili
+10189,Lazio,Opere portuali e vie navigabili
+10188,Lazio,Opere portuali e vie navigabili
+10158,Veneto,Opere stradali
+10054,Toscana,Impianti di stoccaggio
+10061,Puglia,Impianti eolici onshore
+10037,Trentino Alto Adige,Elettrodotti
+10159,Veneto,Opere stradali
+10161,Veneto,Opere stradali
+10036,Sardegna,Opere portuali e vie navigabili
+10028,Sardegna,Opere portuali e vie navigabili
+10017,Basilicata,Impianti eolici onshore
+10049,Campania,Opere idrauliche
+10012,Toscana,Opere stradali
+10030,Puglia,Opere stradali
+10013,Friuli Venezia Giulia,Elettrodotti
+10011,Campania,Elettrodotti
+10081,Basilicata,Impianti eolici onshore
+11978,Basilicata,Impianti eolici onshore
+9991,Emilia Romagna,Centrali
+9998,Veneto,Elettrodotti
+10062,Campania,Impianti eolici onshore
+9990,Sicilia,Opere portuali e vie navigabili
+9972,Emilia Romagna,Opere stradali
+9749,Piemonte,Opere stradali
+9980,Toscana,Impianti chimici integrati
+9989,Puglia,Opere portuali e vie navigabili
+9984,Sardegna,Impianti eolici onshore
+9978,Basilicata,Metanodotti
+9977,Nessuna regione,Opere ferroviarie
+9970,Puglia,Impianti eolici onshore
+13070,Marche,Impianti di stoccaggio
+9963,Toscana,Opere portuali e vie navigabili
+9979,Puglia,Centrali
+9961,Veneto,Elettrodotti
+9965,Sicilia,Aeroporti
+9938,Emilia Romagna,Opere idrauliche
+9966,Basilicata,Elettrodotti
+9954,Puglia,Metanodotti
+9960,Veneto,Elettrodotti
+9964,Veneto,Elettrodotti
+9937,Puglia,Opere idrauliche
+9957,Sicilia,Opere portuali e vie navigabili
+9925,Veneto,Opere stradali
+9919,Campania,Opere stradali
+9921,Basilicata,Impianti eolici onshore
+9931,Sardegna,Aeroporti
+9899,Emilia Romagna,Opere stradali
+9903,Campania,Opere ferroviarie
+9889,Veneto,Opere stradali
+9891,Veneto,Opere stradali
+9974,Emilia Romagna,Opere stradali
+9913,Lombardia,Impianti di stoccaggio
+9895,Sardegna,Opere portuali e vie navigabili
+9883,Puglia,Impianti eolici onshore
+9879,Liguria,Opere portuali e vie navigabili
+9882,Sardegna,Opere portuali e vie navigabili
+9845,Lombardia,Opere stradali
+9841,Molise,Impianti eolici onshore
+9844,Basilicata,Impianti eolici onshore
+9881,Puglia,Impianti eolici onshore
+9843,Abruzzo,Metanodotti
+9924,Puglia,Elettrodotti
+9890,Campania,Aeroporti
+9877,Campania,Elettrodotti
+9923,Basilicata,Elettrodotti
+9878,Veneto,Opere stradali
+10762,Basilicata,Impianti eolici onshore
+9837,Campania,Aeroporti
+9901,Puglia,Impianti eolici onshore
+9909,Sardegna,Opere portuali e vie navigabili
+9906,Sardegna,Opere portuali e vie navigabili
+9827,Basilicata,Impianti eolici onshore
+9825,Emilia Romagna,Elettrodotti
+9825,Toscana,Elettrodotti
+9823,Sardegna,Opere ferroviarie
+9766,Abruzzo,Opere portuali e vie navigabili
+9815,Emilia Romagna,Elettrodotti
+9835,Sicilia,Coltivazione idrocarburi
+9759,Abruzzo,Elettrodotti
+9778,Marche,Elettrodotti
+9826,Piemonte,Centrali
+9752,Veneto,Terminali marittimi
+9744,Lazio,Metanodotti
+9744,Abruzzo,Metanodotti
+9751,Sicilia,Opere portuali e vie navigabili
+9768,Puglia,Impianti eolici onshore
+9776,Lazio,Elettrodotti
+9724,Liguria,Opere portuali e vie navigabili
+9743,Sardegna,Impianti eolici onshore
+9715,Lazio,Opere portuali e vie navigabili
+9709,Puglia,Opere portuali e vie navigabili
+9736,Veneto,Elettrodotti
+9741,Lombardia,Opere stradali
+9735,Veneto,Elettrodotti
+9710,Piemonte,Opere stradali
+9700,Lombardia,Impianti di stoccaggio
+9740,Sicilia,Elettrodotti
+9695,Veneto,Opere stradali
+9701,Umbria,Centrali
+9817,Abruzzo,Opere stradali
+9822,Puglia,Opere stradali
+9720,Campania,Opere ferroviarie
+9739,Veneto,Elettrodotti
+9737,Emilia Romagna,Elettrodotti
+9737,Toscana,Elettrodotti
+9738,Liguria,Opere portuali e vie navigabili
+9673,Lazio,Opere portuali e vie navigabili
+10076,Basilicata,Impianti eolici onshore
+13525,Basilicata,Impianti eolici onshore
+9680,Lombardia,Centrali
+9667,Toscana,Centrali
+9659,Campania,Metanodotti
+9668,Puglia,Impianti eolici onshore
+9671,Piemonte,Attività minerarie
+9664,Veneto,Impianti idroelettrici
+9666,Veneto,Metanodotti
+9644,Lombardia,Aeroporti
+9665,Veneto,Metanodotti
+9651,Abruzzo,Elettrodotti
+9641,Piemonte,Centrali
+9637,Veneto,Opere stradali
+9708,Molise,Opere stradali
+9623,Marche,Coltivazione idrocarburi
+12003,Basilicata,Impianti eolici onshore
+9656,Lombardia,Centrali
+9624,Puglia,Impianti eolici onshore
+9655,Campania,Impianti eolici onshore
+9654,Sardegna,Opere portuali e vie navigabili
+10108,Toscana,Opere portuali e vie navigabili
+9632,Lombardia,Elettrodotti
+9617,Emilia Romagna,Opere stradali
+9638,Veneto,Opere stradali
+9631,Lazio,Opere portuali e vie navigabili
+9625,Sardegna,Impianti di rigassificazione
+9657,Marche,Metanodotti
+9639,Emilia Romagna,Centrali
+9620,Veneto,Elettrodotti
+9611,Toscana,Elettrodotti
+9636,Campania,Impianti eolici onshore
+9652,Campania,Elettrodotti
+9622,Sardegna,Impianti eolici onshore
+9615,Calabria,Metanodotti
+9658,Puglia,Metanodotti
+9713,Friuli Venezia Giulia,Opere portuali e vie navigabili
+9660,Puglia,Opere stradali
+9682,Sicilia,Opere stradali
+9661,Sicilia,Opere portuali e vie navigabili
+9594,Lombardia,Opere portuali e vie navigabili
+9597,Lazio,Aeroporti
+9726,Toscana,Opere idrauliche
+9602,Basilicata,Coltivazione idrocarburi
+3216,Campania,Opere portuali e vie navigabili
+3217,Sardegna,Opere stradali
+3215,Puglia,Metanodotti
+9635,Sicilia,Opere portuali e vie navigabili
+9601,Veneto,Elettrodotti
+3209,Friuli Venezia Giulia,Elettrodotti
+9605,Abruzzo,Opere stradali
+3208,Puglia,Impianti eolici onshore
+3199,Basilicata,Impianti eolici onshore
+9603,Lazio,Metanodotti
+3195,Basilicata,Coltivazione idrocarburi
+3194,Lombardia,Elettrodotti
+9604,Lombardia,Metanodotti
+3192,Piemonte,Attività minerarie
+3193,Piemonte,Attività minerarie
+3218,Toscana,Centrali
+3190,Marche,Elettrodotti
+3191,Piemonte,Elettrodotti
+3178,Liguria,Opere portuali e vie navigabili
+9633,Sicilia,Opere portuali e vie navigabili
+3182,Lazio,Elettrodotti
+3186,Piemonte,Opere stradali
+3184,Piemonte,Attività minerarie
+3179,Piemonte,Opere portuali e vie navigabili
+9653,Basilicata,Impianti eolici onshore
+3189,Campania,Impianti eolici onshore
+3185,Basilicata,Impianti eolici onshore
+3185,Puglia,Impianti eolici onshore
+3187,Puglia,Impianti chimici integrati
+3188,Calabria,Impianti eolici onshore
+3175,Puglia,Impianti eolici onshore
+3174,Sardegna,Centrali
+3181,Trentino Alto Adige,Elettrodotti
+3180,Veneto,Elettrodotti
+3166,Veneto,Opere stradali
+3167,Veneto,Opere stradali
+3160,Liguria,Opere portuali e vie navigabili
+3171,Marche,Metanodotti
+3158,Puglia,Metanodotti
+3156,Friuli Venezia Giulia,Centrali
+3169,Umbria,Elettrodotti
+3147,Lombardia,Attività minerarie
+3149,Puglia,Impianti eolici onshore
+3163,Puglia,Ricerca idrocarburi
+3165,Puglia,Ricerca idrocarburi
+3159,Puglia,Metanodotti
+3168,Abruzzo,Elettrodotti
+3146,Liguria,Opere portuali e vie navigabili
+3145,Lazio,Centrali
+3157,Basilicata,Impianti eolici onshore
+3136,Toscana,Opere portuali e vie navigabili
+3151,Lazio,Aeroporti
+3134,Emilia Romagna,Opere stradali
+3135,Abruzzo,Elettrodotti
+3161,Puglia,Metanodotti
+3154,Lazio,Elettrodotti
+3129,Puglia,Impianti eolici onshore
+3130,Puglia,Impianti eolici onshore
+3131,Puglia,Impianti eolici onshore
+3155,Abruzzo,Elettrodotti
+3164,Piemonte,Metanodotti
+9706,Puglia,Metanodotti
+3152,Liguria,Opere portuali e vie navigabili
+3124,Sardegna,Opere stradali
+3118,Puglia,Impianti eolici onshore
+3121,Abruzzo,Opere stradali
+3153,Basilicata,Impianti eolici onshore
+3117,Piemonte,Attività minerarie
+3112,Puglia,Aeroporti
+3108,Lazio,Impianti idroelettrici
+10798,Lombardia,Metanodotti
+3106,Basilicata,Opere stradali
+3106,Calabria,Opere stradali
+3105,Puglia,Opere ferroviarie
+3101,Campania,Opere ferroviarie
+3092,Campania,Metanodotti
+3088,Puglia,Impianti eolici onshore
+3085,Basilicata,Coltivazione idrocarburi
+3082,Puglia,Ricerca idrocarburi
+3099,Emilia Romagna,Impianti chimici integrati
+3080,Puglia,Centrali
+3079,Basilicata,Impianti eolici onshore
+10731,Nessuna regione,Metanodotti
+3074,Basilicata,Centrali
+9892,Lazio,Opere stradali
+3072,Puglia,Impianti eolici onshore
+3065,Liguria,Opere portuali e vie navigabili
+3064,Sardegna,Impianti eolici onshore
+3062,Puglia,Raffinerie
+3060,Piemonte,Opere idrauliche
+3056,Basilicata,Opere stradali
+3056,Campania,Opere stradali
+3053,Toscana,Centrali
+3051,Piemonte,Ricerca idrocarburi
+3051,Lombardia,Ricerca idrocarburi
+3054,Puglia,Impianti eolici onshore
+3049,Sardegna,Raffinerie
+3034,Sicilia,Opere portuali e vie navigabili
+3042,Calabria,Opere idrauliche
+3033,Toscana,Centrali
+3069,Sicilia,Opere portuali e vie navigabili
+3075,Sicilia,Opere portuali e vie navigabili
+3010,Liguria,Risanamento ambientale
+3010,Piemonte,Risanamento ambientale
+3009,Piemonte,Centrali
+3006,Sardegna,Opere portuali e vie navigabili
+3007,Lombardia,Opere portuali e vie navigabili
+3004,Puglia,Impianti eolici onshore
+3000,Emilia Romagna,Ricerca idrocarburi
+2996,Veneto,Opere stradali
+2994,Molise,Centrali
+2991,Veneto,Opere stradali
+2990,Sicilia,Raffinerie
+2983,Veneto,Raffinerie
+2979,Veneto,Opere ferroviarie
+2963,Veneto,Opere stradali
+2964,Veneto,Opere stradali
+2965,Veneto,Opere stradali
+2966,Veneto,Opere stradali
+2962,Puglia,Opere portuali e vie navigabili
+2954,Trentino Alto Adige,Opere stradali
+2954,Veneto,Opere stradali
+2949,Sardegna,Opere portuali e vie navigabili
+2957,Sardegna,Metanodotti
+2958,Sardegna,Metanodotti
+2945,Lombardia,Ricerca idrocarburi
+2942,Puglia,Centrali
+2941,Lombardia,Elettrodotti
+2940,Sicilia,Metanodotti
+9742,Veneto,Aeroporti
+2937,Sicilia,Coltivazione idrocarburi
+2936,Sicilia,Coltivazione idrocarburi
+2934,Basilicata,Coltivazione idrocarburi
+2939,Liguria,Opere idrauliche
+2967,Sardegna,Centrali
+2931,Campania,Opere stradali
+2932,Lombardia,Opere stradali
+2968,Emilia Romagna,Centrali
+2935,Puglia,Impianti eolici onshore
+2929,Emilia Romagna,Elettrodotti
+2929,Lombardia,Elettrodotti
+2928,Lazio,Impianti di stoccaggio
+2927,Piemonte,Elettrodotti
+2924,Sardegna,Metanodotti
+2925,Puglia,Impianti eolici onshore
+2952,Toscana,Opere idrauliche
+2918,Sicilia,Coltivazione idrocarburi
+2917,Calabria,Elettrodotti
+2905,Toscana,Opere portuali e vie navigabili
+2906,Lombardia,Raffinerie
+2904,Campania,Opere stradali
+2903,Sardegna,Impianti di rigassificazione
+14443,Lombardia,Impianti di stoccaggio
+2898,Lazio,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+2893,Sicilia,Prospezione idrocarburi
+2899,Lazio,Centrali
+2888,Campania,Aeroporti
+2884,Piemonte,Impianti idroelettrici
+2883,Friuli Venezia Giulia,Opere portuali e vie navigabili
+2876,Lazio,Aeroporti
+2874,Lombardia,Coltivazione idrocarburi
+2875,Campania,Elettrodotti
+2867,Sardegna,Opere portuali e vie navigabili
+2866,Veneto,Elettrodotti
+2863,Toscana,Opere ferroviarie
+2865,Toscana,Elettrodotti
+2854,Basilicata,Elettrodotti
+2854,Calabria,Elettrodotti
+2851,Emilia Romagna,Coltivazione idrocarburi
+2851,Veneto,Coltivazione idrocarburi
+2850,Umbria,Elettrodotti
+2847,Sicilia,Raffinerie
+2831,Piemonte,Opere ferroviarie
+2828,Lombardia,Elettrodotti
+2829,Piemonte,Impianti idroelettrici
+2820,Basilicata,Ricerca idrocarburi
+2821,Basilicata,Ricerca idrocarburi
+2821,Campania,Ricerca idrocarburi
+2822,Basilicata,Ricerca idrocarburi
+2817,Sicilia,Elettrodotti
+2816,Basilicata,Coltivazione idrocarburi
+2810,Toscana,Opere stradali
+2809,Sardegna,Raffinerie
+2800,Friuli Venezia Giulia,Opere stradali
+2794,Veneto,Opere ferroviarie
+2798,Emilia Romagna,Opere stradali
+2798,Lombardia,Opere stradali
+2798,Veneto,Opere stradali
+2892,Emilia Romagna,Impianti di stoccaggio
+2768,Lombardia,Centrali
+2766,Emilia Romagna,Ricerca idrocarburi
+2775,Calabria,Opere portuali e vie navigabili
+2760,Calabria,Opere stradali
+2750,Lombardia,Ricerca idrocarburi
+2747,Lombardia,Opere ferroviarie
+2749,Sardegna,Opere stradali
+2745,Emilia Romagna,Coltivazione idrocarburi
+2746,Emilia Romagna,Coltivazione idrocarburi
+2742,Sardegna,Opere portuali e vie navigabili
+2739,Abruzzo,Coltivazione idrocarburi
+2727,Lazio,Opere idrauliche
+2726,Sicilia,Ricerca idrocarburi
+2770,Emilia Romagna,Opere stradali
+2771,Emilia Romagna,Opere stradali
+2771,Marche,Opere stradali
+2772,Marche,Opere stradali
+2716,Lombardia,Impianti di smaltimento e recupero rifiuti
+2715,Puglia,Centrali
+2702,Sicilia,Impianti chimici integrati
+2704,Toscana,Elettrodotti
+2824,Puglia,Opere stradali
+2694,Sicilia,Opere stradali
+2686,Sicilia,Coltivazione idrocarburi
+2681,Lazio,Aeroporti
+2677,Sicilia,Opere stradali
+2672,Sicilia,Opere portuali e vie navigabili
+2671,Umbria,Elettrodotti
+2685,Sicilia,Raffinerie
+2669,Sicilia,Metanodotti
+2673,Nessuna regione,Ricerca idrocarburi
+2663,Sicilia,Opere portuali e vie navigabili
+2659,Sicilia,Metanodotti
+2651,Piemonte,Centrali
+2655,Calabria,Opere portuali e vie navigabili
+2656,Calabria,Opere portuali e vie navigabili
+2645,Toscana,Impianti di rigassificazione
+2649,Veneto,Opere ferroviarie
+2647,Umbria,Elettrodotti
+2628,Toscana,Impianti geotermici
+2620,Puglia,Impianti chimici integrati
+2617,Lazio,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+2616,Sicilia,Coltivazione idrocarburi
+2674,Sicilia,Opere portuali e vie navigabili
+2610,Sicilia,Elettrodotti
+2603,Toscana,Opere stradali
+2597,Lazio,Opere stradali
+2596,Sicilia,Opere ferroviarie
+2808,Sicilia,Raffinerie
+2584,Molise,Ricerca idrocarburi
+2582,Piemonte,Aeroporti
+2601,Emilia Romagna,Ricerca idrocarburi
+2577,Piemonte,Impianti idroelettrici
+2575,Toscana,Elettrodotti
+2569,Lombardia,Centrali
+2567,Sicilia,Centrali
+2568,Piemonte,Impianti idroelettrici
+2544,Lazio,Impianti geotermici
+2541,Lombardia,Elettrodotti
+2538,Campania,Opere portuali e vie navigabili
+2573,Campania,Impianti geotermici
+2533,Lazio,Opere stradali
+2537,Basilicata,Coltivazione idrocarburi
+2531,Toscana,Opere portuali e vie navigabili
+2535,Toscana,Impianti geotermici
+2530,Lazio,Centrali
+2526,Sardegna,Opere stradali
+2524,Toscana,Impianti geotermici
+2515,Emilia Romagna,Coltivazione idrocarburi
+2511,Lombardia,Impianti idroelettrici
+2509,Veneto,Raffinerie
+2501,Campania,Impianti geotermici
+2500,Emilia Romagna,Ricerca idrocarburi
+2700,Toscana,Impianti di rigassificazione
+2803,Calabria,Ricerca idrocarburi
+2492,Calabria,Opere stradali
+2490,Toscana,Impianti di rigassificazione
+2486,Campania,Impianti geotermici
+2480,Basilicata,Coltivazione idrocarburi
+2479,Emilia Romagna,Impianti chimici integrati
+2491,Lombardia,Opere stradali
+2466,Marche,Raffinerie
+2468,Veneto,Opere portuali e vie navigabili
+2457,Friuli Venezia Giulia,Opere portuali e vie navigabili
+2469,Sardegna,Impianti di stoccaggio
+2428,Molise,Coltivazione idrocarburi
+2389,Emilia Romagna,Impianti di stoccaggio
+2472,Puglia,Elettrodotti
+2378,Campania,Opere stradali
+2372,Liguria,Opere portuali e vie navigabili
+2354,Sardegna,Prospezione idrocarburi
+2346,Veneto,Opere portuali e vie navigabili
+2373,Lombardia,Opere ferroviarie
+2365,Lazio,Centrali
+2439,Friuli Venezia Giulia,Metanodotti
+2335,Marche,Ricerca idrocarburi
+2793,Lombardia,Opere stradali
+2397,Sicilia,Centrali
+2348,Emilia Romagna,Ricerca idrocarburi
+2332,Piemonte,Ricerca idrocarburi
+2360,Friuli Venezia Giulia,Elettrodotti
+2329,Toscana,Impianti chimici integrati
+2331,Sicilia,Impianti eolici offshore
+2327,Toscana,Interporti
+2322,Puglia,Centrali
+2313,Toscana,Aeroporti
+2381,Veneto,Centrali
+2304,Toscana,Opere idrauliche
+2305,Toscana,Opere stradali
+2436,Campania,Opere portuali e vie navigabili
+2298,Veneto,Opere portuali e vie navigabili
+2299,Basilicata,Prospezione idrocarburi
+2299,Puglia,Prospezione idrocarburi
+2299,Calabria,Prospezione idrocarburi
+2297,Lombardia,Opere stradali
+2292,Calabria,Prospezione idrocarburi
+2293,Calabria,Prospezione idrocarburi
+2294,Puglia,Prospezione idrocarburi
+2291,Calabria,Prospezione idrocarburi
+2295,Puglia,Prospezione idrocarburi
+2323,Sicilia,Opere portuali e vie navigabili
+2415,Puglia,Elettrodotti
+2415,Campania,Elettrodotti
+2333,Lazio,Opere stradali
+2259,Veneto,Opere portuali e vie navigabili
+2257,Puglia,Impianti chimici integrati
+2272,Lombardia,Opere ferroviarie
+2242,Sicilia,Prospezione idrocarburi
+2248,Lombardia,Opere stradali
+2249,Calabria,Opere stradali
+2246,Sicilia,Prospezione idrocarburi
+2241,Puglia,Elettrodotti
+2237,Marche,Elettrodotti
+2233,Friuli Venezia Giulia,Impianti di rigassificazione
+2234,Molise,Opere stradali
+2236,Toscana,Elettrodotti
+2232,Abruzzo,Ricerca idrocarburi
+2243,Lazio,Elettrodotti
+2222,Calabria,Opere ferroviarie
+2399,Toscana,Aeroporti
+1976,Sicilia,Ricerca idrocarburi
+2219,Veneto,Opere stradali
+2218,Lombardia,Centrali
+2392,Veneto,Impianti di stoccaggio
+1993,Campania,Elettrodotti
+2238,Calabria,Opere stradali
+1982,Puglia,Prospezione idrocarburi
+1983,Puglia,Prospezione idrocarburi
+1984,Puglia,Prospezione idrocarburi
+1985,Puglia,Prospezione idrocarburi
+2319,Emilia Romagna,Metanodotti
+2319,Lombardia,Metanodotti
+1975,Emilia Romagna,Elettrodotti
+2409,Sicilia,Centrali
+1970,Sardegna,Prospezione idrocarburi
+1974,Campania,Centrali
+1959,Umbria,Elettrodotti
+1959,Marche,Elettrodotti
+2403,Liguria,Centrali
+2400,Calabria,Elettrodotti
+1958,Piemonte,Opere stradali
+1956,Puglia,Acciaierie
+2369,Sicilia,Opere portuali e vie navigabili
+1957,Puglia,Centrali
+2284,Campania,Metanodotti
+1934,Toscana,Elettrodotti
+1940,Sardegna,Centrali
+2434,Marche,Centrali
+2321,Basilicata,Metanodotti
+2321,Puglia,Metanodotti
+2343,Lombardia,Metanodotti
+1938,Calabria,Opere stradali
+1937,Calabria,Coltivazione idrocarburi
+1921,Lazio,Opere stradali
+1921,Toscana,Opere stradali
+1912,Lazio,Opere stradali
+2318,Veneto,Centrali
+1909,Puglia,Elettrodotti
+1905,Molise,Elettrodotti
+1928,Toscana,Opere portuali e vie navigabili
+2345,Toscana,Opere stradali
+1891,Lazio,Impianti idroelettrici
+1893,Piemonte,Impianti idroelettrici
+1899,Lazio,Opere portuali e vie navigabili
+1955,Campania,Opere stradali
+1890,Lazio,Impianti idroelettrici
+1879,Marche,Coltivazione idrocarburi
+1968,Toscana,Impianti di rigassificazione
+1922,Liguria,Centrali
+1906,Sardegna,Centrali
+1904,Sicilia,Opere portuali e vie navigabili
+2267,Sicilia,Opere stradali
+1871,Basilicata,Impianti di trattamento e stoccaggio temporaneo rifiuti radioattivi
+1870,Lombardia,Impianti idroelettrici
+1863,Piemonte,Opere stradali
+1860,Piemonte,Opere stradali
+1868,Puglia,Impianti di stoccaggio
+1851,Puglia,Elettrodotti
+1858,Sicilia,Opere portuali e vie navigabili
+1848,Calabria,Opere stradali
+1849,Lombardia,Opere ferroviarie
+1853,Lazio,Centrali
+1856,Puglia,Centrali
+2427,Puglia,Centrali
+1939,Nessuna regione,Impianti geotermici
+1876,Piemonte,Opere stradali
+1831,Piemonte,Opere stradali
+1825,Calabria,Ricerca idrocarburi
+1821,Liguria,Aeroporti
+1822,Piemonte,Opere stradali
+1724,Calabria,Opere stradali
+1969,Calabria,Centrali
+1717,Marche,Coltivazione idrocarburi
+1715,Friuli Venezia Giulia,Centrali
+1713,Emilia Romagna,Impianti di stoccaggio
+1719,Veneto,Opere stradali
+1755,Calabria,Aeroporti
+1711,Puglia,Impianti eolici offshore
+1707,Liguria,Terminali marittimi
+1701,Puglia,Elettrodotti
+1702,Puglia,Elettrodotti
+1703,Calabria,Elettrodotti
+2401,Lazio,Opere stradali
+1722,Lombardia,Opere stradali
+1698,Calabria,Opere stradali
+1696,Campania,Opere portuali e vie navigabili
+1692,Lazio,Impianti di stoccaggio
+1688,Sardegna,Risanamento ambientale
+1689,Sicilia,Ricerca idrocarburi
+1690,Basilicata,Ricerca idrocarburi
+1690,Puglia,Ricerca idrocarburi
+1690,Calabria,Ricerca idrocarburi
+1683,Sicilia,Ricerca idrocarburi
+1694,Calabria,Elettrodotti
+1691,Sicilia,Opere portuali e vie navigabili
+1675,Sardegna,Centrali
+1674,Lombardia,Opere ferroviarie
+1835,Campania,Opere stradali
+1670,Puglia,Ricerca idrocarburi
+1737,Toscana,Opere portuali e vie navigabili
+1748,Puglia,Aeroporti
+1520,Toscana,Opere stradali
+1511,Sicilia,Opere stradali
+2430,Emilia Romagna,Centrali
+1977,Sicilia,Ricerca idrocarburi
+2410,Toscana,Centrali
+1783,Piemonte,Opere stradali
+1815,Toscana,Impianti di rigassificazione
+2275,Puglia,Opere stradali
+2447,Puglia,Centrali
+2391,Emilia Romagna,Metanodotti
+2391,Veneto,Metanodotti
+2220,Lazio,Centrali
+1780,Sicilia,Raffinerie
+1787,Marche,Opere stradali
+1500,Lombardia,Metanodotti
+1480,Veneto,Centrali
+1477,Campania,Opere idrauliche
+1475,Basilicata,Ricerca idrocarburi
+1475,Calabria,Ricerca idrocarburi
+1476,Basilicata,Ricerca idrocarburi
+1476,Calabria,Ricerca idrocarburi
+1474,Puglia,Terminali marittimi
+1472,Campania,Centrali
+1473,Calabria,Centrali
+1470,Lombardia,Centrali
+1772,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1468,Puglia,Elettrodotti
+1468,Molise,Elettrodotti
+1468,Abruzzo,Elettrodotti
+14909,Toscana,Opere ferroviarie
+1463,Marche,Terminali marittimi
+1461,Sicilia,Opere portuali e vie navigabili
+1457,Puglia,Coltivazione idrocarburi
+2367,Puglia,Opere portuali e vie navigabili
+1490,Nessuna regione,Prospezione idrocarburi
+1767,Emilia Romagna,Impianti di stoccaggio
+1421,Veneto,Impianti chimici integrati
+1419,Campania,Opere stradali
+1790,Sardegna,Centrali
+1930,Basilicata,Ricerca idrocarburi
+1949,Basilicata,Opere idrauliche
+1949,Puglia,Opere idrauliche
+2426,Puglia,Impianti di rigassificazione
+1464,Veneto,Opere stradali
+1465,Veneto,Opere stradali
+1416,Veneto,Opere stradali
+1298,Piemonte,Impianti idroelettrici
+1301,Piemonte,Impianti idroelettrici
+1293,Nessuna regione,Impianti di stoccaggio
+1281,Toscana,Opere stradali
+1272,Sicilia,Opere portuali e vie navigabili
+1279,Campania,Metanodotti
+1263,Puglia,Opere portuali e vie navigabili
+1234,Emilia Romagna,Centrali
+1205,Campania,Opere portuali e vie navigabili
+1220,Piemonte,Raffinerie
+1206,Lombardia,Opere stradali
+1261,Piemonte,Centrali
+1215,Marche,Opere stradali
+1268,Toscana,Opere stradali
+1153,Marche,Opere portuali e vie navigabili
+1920,Piemonte,Centrali
+1134,Piemonte,Elettrodotti
+1134,Lombardia,Elettrodotti
+1829,Calabria,Metanodotti
+1022,Lombardia,Centrali
+1078,Marche,Raffinerie
+1044,Puglia,Impianti eolici offshore
+1077,Piemonte,Impianti idroelettrici
+1076,Puglia,Opere portuali e vie navigabili
+824,Veneto,Aeroporti
+1096,Campania,Opere stradali
+811,Toscana,Opere idrauliche
+1771,Piemonte,Elettrodotti
+1771,Lombardia,Elettrodotti
+1782,Friuli Venezia Giulia,Impianti idroelettrici
+742,Sicilia,Ricerca idrocarburi
+640,Lombardia,Opere stradali
+2730,Friuli Venezia Giulia,Impianti di rigassificazione
+634,Puglia,Prospezione idrocarburi
+632,Piemonte,Aeroporti
+878,Lombardia,Impianti idroelettrici
+619,Lombardia,Centrali
+720,Sicilia,Interporti
+1743,Lazio,Opere stradali
+758,Lombardia,Opere ferroviarie
+612,Sicilia,Ricerca idrocarburi
+613,Sicilia,Ricerca idrocarburi
+625,Marche,Ricerca idrocarburi
+727,Sicilia,Opere portuali e vie navigabili
+589,Piemonte,Opere stradali
+594,Sardegna,Opere stradali
+1820,Lazio,Opere stradali
+1820,Toscana,Opere stradali
+381,Sicilia,Raffinerie
+582,Sicilia,Opere portuali e vie navigabili
+1041,Sardegna,Opere portuali e vie navigabili
+580,Puglia,Opere stradali
+60,Lazio,Opere stradali
+377,Toscana,Opere stradali
+585,Sicilia,Opere portuali e vie navigabili
+584,Sicilia,Opere portuali e vie navigabili
+519,Lombardia,Impianti di stoccaggio
+1776,Campania,Centrali
+581,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+3,Sicilia,Ponte sullo stretto di Messina
+3,Calabria,Ponte sullo stretto di Messina
+520,Emilia Romagna,Opere idrauliche
+507,Abruzzo,Centrali
+496,Puglia,Prospezione idrocarburi
+496,Emilia Romagna,Prospezione idrocarburi
+496,Molise,Prospezione idrocarburi
+496,Marche,Prospezione idrocarburi
+496,Abruzzo,Prospezione idrocarburi
+559,Lombardia,Centrali
+388,Sicilia,Opere stradali
+509,Puglia,Ricerca idrocarburi
+510,Puglia,Ricerca idrocarburi
+494,Sicilia,Opere portuali e vie navigabili
+561,Marche,Coltivazione idrocarburi
+757,Calabria,Opere stradali
+225,Lombardia,Centrali
+492,Calabria,Centrali
+488,Sicilia,Ricerca idrocarburi
+486,Abruzzo,Impianti di stoccaggio
+703,Basilicata,Opere stradali
+703,Calabria,Opere stradali
+392,Emilia Romagna,Opere stradali
+493,Sicilia,Opere portuali e vie navigabili
+459,Sardegna,Opere portuali e vie navigabili
+517,Campania,Impianti idroelettrici
+489,Piemonte,Aeroporti
+489,Lombardia,Aeroporti
+368,Toscana,Opere stradali
+525,Lombardia,Impianti di stoccaggio
+588,Lombardia,Impianti di stoccaggio
+482,Lazio,Elettrodotti
+590,Puglia,Opere stradali
+477,Puglia,Centrali
+449,Puglia,Ricerca idrocarburi
+449,Molise,Ricerca idrocarburi
+539,Veneto,Centrali
+601,Calabria,Centrali
+474,Piemonte,Opere ferroviarie
+475,Calabria,Opere ferroviarie
+512,Marche,Impianti di stoccaggio
+472,Lazio,Raffinerie
+540,Veneto,Terminali marittimi
+322,Lombardia,Raffinerie
+526,Lazio,Impianti idroelettrici
+532,Lazio,Impianti idroelettrici
+533,Lazio,Impianti idroelettrici
+534,Lazio,Impianti idroelettrici
+524,Sicilia,Ricerca idrocarburi
+175,Sicilia,Opere idrauliche
+448,Veneto,Aeroporti
+447,Lazio,Opere stradali
+447,Molise,Opere stradali
+447,Campania,Opere stradali
+473,Abruzzo,Ricerca idrocarburi
+470,Campania,Opere stradali
+457,Emilia Romagna,Impianti chimici integrati
+586,Sicilia,Opere portuali e vie navigabili
+469,Sicilia,Opere portuali e vie navigabili
+438,Sardegna,Opere portuali e vie navigabili
+430,Friuli Venezia Giulia,Opere ferroviarie
+430,Veneto,Opere ferroviarie
+441,Lombardia,Impianti di stoccaggio
+431,Veneto,Opere ferroviarie
+432,Veneto,Opere ferroviarie
+433,Friuli Venezia Giulia,Opere ferroviarie
+442,Toscana,Risanamento ambientale
+543,Sicilia,Opere portuali e vie navigabili
+434,Sicilia,Metanodotti
+466,Sicilia,Opere portuali e vie navigabili
+456,Sardegna,Opere portuali e vie navigabili
+437,Puglia,Opere portuali e vie navigabili
+460,Puglia,Centrali
+462,Puglia,Opere portuali e vie navigabili
+536,Toscana,Risanamento ambientale
+577,Calabria,Centrali
+184,Sicilia,Metanodotti
+591,Sardegna,Aeroporti
+465,Puglia,Ricerca idrocarburi
+463,Puglia,Ricerca idrocarburi
+468,Puglia,Ricerca idrocarburi
+484,Puglia,Ricerca idrocarburi
+485,Puglia,Ricerca idrocarburi
+522,Puglia,Ricerca idrocarburi
+523,Puglia,Ricerca idrocarburi
+597,Sardegna,Coltivazione idrocarburi
+605,Sardegna,Ricerca idrocarburi
+425,Piemonte,Opere stradali
+440,Sardegna,Impianti chimici integrati
+1706,Sicilia,Interporti
+404,Piemonte,Opere ferroviarie
+412,Marche,Terminali marittimi
+647,Sicilia,Opere portuali e vie navigabili
+407,Emilia Romagna,Opere stradali
+410,Piemonte,Opere ferroviarie
+410,Valle d,Opere ferroviarie
+429,Veneto,Opere stradali
+406,Campania,Elettrodotti
+168,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+414,Friuli Venezia Giulia,Impianti idroelettrici
+455,Basilicata,Elettrodotti
+455,Calabria,Elettrodotti
+367,Toscana,Aeroporti
+372,Toscana,Centrali
+343,Toscana,Elettrodotti
+340,Sicilia,Coltivazione idrocarburi
+595,Sicilia,Ricerca idrocarburi
+596,Sicilia,Ricerca idrocarburi
+339,Sicilia,Metanodotti
+339,Calabria,Metanodotti
+396,Sicilia,Ricerca idrocarburi
+397,Sicilia,Ricerca idrocarburi
+1731,Lazio,Opere stradali
+379,Sicilia,Opere portuali e vie navigabili
+358,Piemonte,Impianti idroelettrici
+386,Marche,Ricerca idrocarburi
+361,Piemonte,Opere stradali
+393,Basilicata,Opere ferroviarie
+350,Puglia,Centrali
+383,Sicilia,Ricerca idrocarburi
+384,Sicilia,Ricerca idrocarburi
+335,Emilia Romagna,Opere stradali
+400,Sardegna,Opere portuali e vie navigabili
+803,Umbria,Opere stradali
+803,Marche,Opere stradali
+546,Trentino Alto Adige,Opere ferroviarie
+395,Marche,Opere portuali e vie navigabili
+403,Veneto,Opere stradali
+646,Piemonte,Opere stradali
+571,Abruzzo,Centrali
+359,Abruzzo,Ricerca idrocarburi
+352,Abruzzo,Coltivazione idrocarburi
+1907,Sicilia,Ricerca idrocarburi
+370,Veneto,Opere stradali
+593,Marche,Raffinerie
+320,Liguria,Elettrodotti
+665,Marche,Centrali
+371,Sicilia,Opere portuali e vie navigabili
+357,Abruzzo,Ricerca idrocarburi
+355,Piemonte,Opere stradali
+1736,Piemonte,Opere stradali
+296,Emilia Romagna,Prospezione idrocarburi
+645,Veneto,Opere stradali
+1741,Lombardia,Opere ferroviarie
+398,Emilia Romagna,Opere idrauliche
+1126,Nessuna regione,Impianti eolici offshore
+295,Puglia,Ricerca idrocarburi
+351,Lazio,Opere ferroviarie
+390,Veneto,Opere stradali
+641,Puglia,Opere stradali
+326,Campania,Opere stradali
+644,Puglia,Interporti
+767,Piemonte,Opere stradali
+298,Toscana,Metanodotti
+718,Lazio,Opere stradali
+718,Emilia Romagna,Opere stradali
+718,Umbria,Opere stradali
+718,Marche,Opere stradali
+718,Toscana,Opere stradali
+718,Veneto,Opere stradali
+305,Emilia Romagna,Coltivazione idrocarburi
+639,Sardegna,Opere portuali e vie navigabili
+348,Friuli Venezia Giulia,Centrali
+760,Sardegna,Opere portuali e vie navigabili
+347,Sicilia,Impianti eolici offshore
+363,Friuli Venezia Giulia,Metanodotti
+363,Veneto,Metanodotti
+373,Sicilia,Raffinerie
+606,Puglia,Ricerca idrocarburi
+606,Molise,Ricerca idrocarburi
+608,Molise,Ricerca idrocarburi
+608,Abruzzo,Ricerca idrocarburi
+481,Abruzzo,Ricerca idrocarburi
+445,Veneto,Opere stradali
+1484,Campania,Opere stradali
+759,Sardegna,Opere portuali e vie navigabili
+788,Lombardia,Opere stradali
+766,Piemonte,Opere stradali
+806,Piemonte,Opere stradali
+314,Veneto,Opere stradali
+2938,Lombardia,Opere stradali
+562,Molise,Coltivazione idrocarburi
+562,Abruzzo,Coltivazione idrocarburi
+312,Toscana,Opere portuali e vie navigabili
+310,Lombardia,Metanodotti
+310,Veneto,Metanodotti
+603,Piemonte,Impianti idroelettrici
+1961,Puglia,Aeroporti
+816,Piemonte,Opere stradali
+480,Lombardia,Impianti di stoccaggio
+817,Sicilia,Opere portuali e vie navigabili
+610,Marche,Impianti di rigassificazione
+804,Sicilia,Opere portuali e vie navigabili
+790,Veneto,Centrali
+334,Sardegna,Metanodotti
+334,Toscana,Metanodotti
+1963,Sicilia,Aeroporti
+1964,Sicilia,Aeroporti
+812,Emilia Romagna,Centrali
+505,Lombardia,Opere stradali
+291,Sicilia,Metanodotti
+291,Campania,Metanodotti
+288,Marche,Terminali marittimi
+289,Sicilia,Metanodotti
+285,Friuli Venezia Giulia,Metanodotti
+828,Veneto,Centrali
+818,Piemonte,Raffinerie
+294,Veneto,Centrali
+823,Lazio,Interporti
+664,Lazio,Impianti di stoccaggio
+1753,Nessuna regione,Metanodotti
+1273,Veneto,Opere stradali
+503,Calabria,Elettrodotti
+1251,Campania,Opere stradali
+283,Emilia Romagna,Impianti chimici integrati
+284,Lombardia,Elettrodotti
+279,Puglia,Impianti eolici offshore
+279,Molise,Impianti eolici offshore
+263,Calabria,Opere stradali
+261,Emilia Romagna,Ricerca idrocarburi
+278,Lombardia,Raffinerie
+819,Liguria,Raffinerie
+259,Lazio,Opere stradali
+276,Puglia,Impianti eolici offshore
+277,Puglia,Impianti eolici offshore
+258,Sardegna,Opere portuali e vie navigabili
+243,Veneto,Opere stradali
+255,Sardegna,Prospezione idrocarburi
+256,Sardegna,Prospezione idrocarburi
+253,Abruzzo,Ricerca idrocarburi
+260,Emilia Romagna,Metanodotti
+260,Veneto,Metanodotti
+839,Sicilia,Opere portuali e vie navigabili
+254,Friuli Venezia Giulia,Interporti
+232,Emilia Romagna,Coltivazione idrocarburi
+264,Umbria,Opere idrauliche
+264,Marche,Opere idrauliche
+229,Lombardia,Raffinerie
+274,Emilia Romagna,Impianti idroelettrici
+233,Veneto,Raffinerie
+221,Molise,Ricerca idrocarburi
+239,Toscana,Ricerca idrocarburi
+240,Sicilia,Ricerca idrocarburi
+241,Sicilia,Ricerca idrocarburi
+1275,Lazio,Opere stradali
+226,Emilia Romagna,Ricerca idrocarburi
+238,Sardegna,Ricerca idrocarburi
+262,Piemonte,Impianti di smaltimento e recupero rifiuti
+843,Veneto,Terminali marittimi
+237,Calabria,Ricerca idrocarburi
+268,Campania,Interporti
+143,Lombardia,Centrali
+145,Basilicata,Impianti di stoccaggio
+178,Lombardia,Raffinerie
+809,Toscana,Impianti idroelettrici
+838,Emilia Romagna,Opere ferroviarie
+838,Toscana,Opere ferroviarie
+141,Liguria,Impianti di rigassificazione
+139,Veneto,Centrali
+842,Sicilia,Opere portuali e vie navigabili
+847,Sicilia,Opere portuali e vie navigabili
+853,Sicilia,Ricerca idrocarburi
+854,Sicilia,Ricerca idrocarburi
+133,Friuli Venezia Giulia,Centrali
+275,Sicilia,Ricerca idrocarburi
+831,Emilia Romagna,Opere ferroviarie
+831,Toscana,Opere ferroviarie
+286,Sicilia,Ricerca idrocarburi
+132,Toscana,Opere portuali e vie navigabili
+131,Lazio,Opere stradali
+150,Lombardia,Raffinerie
+146,Puglia,Centrali
+147,Puglia,Raffinerie
+877,Veneto,Impianti chimici integrati
+152,Lombardia,Opere idrauliche
+151,Campania,Centrali
+129,Veneto,Terminali marittimi
+895,Sicilia,Opere portuali e vie navigabili
+158,Sicilia,Metanodotti
+875,Abruzzo,Impianti chimici integrati
+217,Lazio,Raffinerie
+154,Molise,Impianti di stoccaggio
+156,Toscana,Opere ferroviarie
+236,Puglia,Metanodotti
+857,Abruzzo,Ricerca idrocarburi
+872,Sicilia,Opere portuali e vie navigabili
+159,Emilia Romagna,Opere stradali
+751,Lombardia,Impianti di smaltimento e recupero rifiuti
+165,Basilicata,Centrali
+163,Sicilia,Impianti di rigassificazione
+861,Abruzzo,Centrali
+399,Emilia Romagna,Impianti di stoccaggio
+844,Veneto,Impianti di smaltimento e recupero rifiuti
+662,Basilicata,Impianti di smaltimento e recupero rifiuti
+161,Molise,Impianti eolici offshore
+1467,Lombardia,Opere stradali
+869,Puglia,Raffinerie
+171,Marche,Centrali
+169,Lombardia,Impianti di smaltimento e recupero rifiuti
+911,Nessuna regione,Ricerca idrocarburi
+913,Nessuna regione,Ricerca idrocarburi
+915,Nessuna regione,Ricerca idrocarburi
+918,Nessuna regione,Ricerca idrocarburi
+889,Calabria,Centrali
+164,Friuli Venezia Giulia,Opere portuali e vie navigabili
+865,Veneto,Centrali
+868,Lazio,Terminali marittimi
+180,Sicilia,Raffinerie
+55,Emilia Romagna,Opere stradali
+870,Lombardia,Opere stradali
+174,Lombardia,Impianti di smaltimento e recupero rifiuti
+845,Emilia Romagna,Centrali
+33,Puglia,Opere stradali
+883,Lombardia,Raffinerie
+110,Lazio,Opere stradali
+110,Emilia Romagna,Opere stradali
+110,Umbria,Opere stradali
+110,Toscana,Opere stradali
+110,Veneto,Opere stradali
+902,Piemonte,Centrali
+177,Lombardia,Centrali
+931,Emilia Romagna,Opere ferroviarie
+931,Toscana,Opere ferroviarie
+111,Calabria,Opere stradali
+292,Campania,Opere stradali
+179,Sicilia,Opere stradali
+2250,Sicilia,Opere idrauliche
+866,Toscana,Impianti di smaltimento e recupero rifiuti
+926,Nessuna regione,Ricerca idrocarburi
+176,Friuli Venezia Giulia,Impianti di rigassificazione
+166,Lazio,Opere stradali
+172,Puglia,Impianti di rigassificazione
+948,Sardegna,Opere portuali e vie navigabili
+863,Sicilia,Opere portuali e vie navigabili
+907,Sicilia,Opere portuali e vie navigabili
+206,Lombardia,Impianti di smaltimento e recupero rifiuti
+881,Sicilia,Aeroporti
+908,Lazio,Impianti chimici integrati
+882,Emilia Romagna,Centrali
+205,Lazio,Opere portuali e vie navigabili
+917,Puglia,Raffinerie
+789,Sardegna,Opere idrauliche
+846,Marche,Opere ferroviarie
+937,Toscana,Opere portuali e vie navigabili
+858,Friuli Venezia Giulia,Centrali
+935,Trentino Alto Adige,Elettrodotti
+181,Calabria,Impianti di rigassificazione
+1966,Puglia,Aeroporti
+840,Friuli Venezia Giulia,Centrali
+900,Friuli Venezia Giulia,Opere portuali e vie navigabili
+936,Sardegna,Opere portuali e vie navigabili
+933,Puglia,Centrali
+871,Lombardia,Impianti di stoccaggio
+919,Campania,Centrali
+953,Emilia Romagna,Centrali
+876,Piemonte,Impianti chimici integrati
+128,Toscana,Opere stradali
+502,Lazio,Impianti di smaltimento e recupero rifiuti
+930,Veneto,Impianti di smaltimento e recupero rifiuti
+864,Sicilia,Aeroporti
+190,Sicilia,Impianti di rigassificazione
+954,Nessuna regione,Coltivazione idrocarburi
+750,Lombardia,Opere stradali
+479,Abruzzo,Centrali
+914,Puglia,Impianti di smaltimento e recupero rifiuti
+922,Friuli Venezia Giulia,Centrali
+189,Puglia,Centrali
+905,Marche,Opere stradali
+106,Toscana,Opere stradali
+909,Sicilia,Centrali
+885,Marche,Opere stradali
+885,Toscana,Opere stradali
+104,Marche,Opere stradali
+916,Marche,Opere stradali
+898,Lombardia,Opere stradali
+892,Lazio,Opere stradali
+203,Calabria,Aeroporti
+660,Calabria,Centrali
+891,Lombardia,Impianti di smaltimento e recupero rifiuti
+962,Toscana,Impianti chimici integrati
+973,Nessuna regione,Ricerca idrocarburi
+829,Sicilia,Opere portuali e vie navigabili
+956,Nessuna regione,Ricerca idrocarburi
+974,Lombardia,Opere stradali
+667,Sicilia,Opere portuali e vie navigabili
+208,Lazio,Impianti di smaltimento e recupero rifiuti
+1043,Toscana,Centrali
+959,Piemonte,Aeroporti
+981,Toscana,Impianti di smaltimento e recupero rifiuti
+191,Abruzzo,Impianti di smaltimento e recupero rifiuti
+943,Sardegna,Centrali
+1004,Campania,Centrali
+989,Calabria,Centrali
+966,Puglia,Centrali
+763,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+999,Campania,Centrali
+983,Piemonte,Opere ferroviarie
+991,Campania,Opere ferroviarie
+134,Lazio,Opere stradali
+1003,Liguria,Centrali
+1005,Puglia,Centrali
+1015,Veneto,Centrali
+1019,Sardegna,Centrali
+99,Sicilia,Opere stradali
+100,Campania,Opere stradali
+101,Basilicata,Opere stradali
+101,Puglia,Opere stradali
+992,Lombardia,Impianti di smaltimento e recupero rifiuti
+1001,Sicilia,Opere portuali e vie navigabili
+95,Basilicata,Elettrodotti
+834,Piemonte,Centrali
+996,Sicilia,Raffinerie
+1018,Emilia Romagna,Opere ferroviarie
+1033,Abruzzo,Opere portuali e vie navigabili
+1002,Lazio,Opere portuali e vie navigabili
+193,Puglia,Metanodotti
+193,Molise,Metanodotti
+193,Campania,Metanodotti
+969,Veneto,Impianti chimici integrati
+971,Sicilia,Opere portuali e vie navigabili
+1035,Puglia,Centrali
+1027,Sicilia,Centrali
+1037,Nessuna regione,Ricerca idrocarburi
+1039,Nessuna regione,Ricerca idrocarburi
+1030,Nessuna regione,Ricerca idrocarburi
+852,Emilia Romagna,Impianti idroelettrici
+209,Toscana,Opere portuali e vie navigabili
+932,Nessuna regione,Ricerca idrocarburi
+990,Abruzzo,Opere stradali
+267,Campania,Interporti
+1024,Lombardia,Centrali
+1017,Emilia Romagna,Opere ferroviarie
+893,Veneto,Centrali
+93,Lazio,Opere stradali
+93,Molise,Opere stradali
+93,Campania,Opere stradali
+940,Liguria,Centrali
+1028,Liguria,Centrali
+1032,Sicilia,Centrali
+650,Molise,Centrali
+650,Campania,Centrali
+925,Toscana,Opere portuali e vie navigabili
+679,Toscana,Opere stradali
+1029,Campania,Centrali
+1051,Sicilia,Opere portuali e vie navigabili
+968,Friuli Venezia Giulia,Centrali
+764,Sardegna,Opere idrauliche
+994,Calabria,Centrali
+1050,Campania,Opere stradali
+967,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+945,Sicilia,Metanodotti
+84,Lombardia,Opere stradali
+1049,Puglia,Centrali
+1016,Toscana,Opere ferroviarie
+82,Piemonte,Opere ferroviarie
+195,Abruzzo,Metanodotti
+1067,Veneto,Impianti chimici integrati
+946,Lazio,Metanodotti
+946,Umbria,Metanodotti
+1023,Toscana,Opere portuali e vie navigabili
+856,Liguria,Opere stradali
+856,Toscana,Opere stradali
+1040,Nessuna regione,Ricerca idrocarburi
+986,Piemonte,Centrali
+1031,Nessuna regione,Ricerca idrocarburi
+899,Puglia,Opere portuali e vie navigabili
+1079,Emilia Romagna,Opere idrauliche
+762,Campania,Centrali
+744,Lombardia,Centrali
+960,Marche,Centrali
+83,Lombardia,Opere stradali
+1066,Nessuna regione,Ricerca idrocarburi
+927,Abruzzo,Centrali
+833,Lombardia,Centrali
+1064,Sicilia,Raffinerie
+997,Sicilia,Raffinerie
+1010,Veneto,Metanodotti
+90,Lombardia,Opere stradali
+1062,Nessuna regione,Ricerca idrocarburi
+81,Lombardia,Opere ferroviarie
+202,Puglia,Centrali
+995,Sicilia,Raffinerie
+1057,Lombardia,Centrali
+1072,Marche,Raffinerie
+963,Sicilia,Impianti di smaltimento e recupero rifiuti
+988,Campania,Impianti di smaltimento e recupero rifiuti
+1063,Piemonte,Impianti chimici integrati
+200,Lombardia,Centrali
+1070,Sicilia,Raffinerie
+1071,Lombardia,Raffinerie
+950,Emilia Romagna,Centrali
+1075,Veneto,Terminali marittimi
+1048,Toscana,Impianti di rigassificazione
+45,Campania,Elettrodotti
+1053,Puglia,Impianti di smaltimento e recupero rifiuti
+1038,Nessuna regione,Coltivazione idrocarburi
+1045,Abruzzo,Centrali
+1000,Campania,Centrali
+1065,Veneto,Opere stradali
+769,Piemonte,Centrali
+814,Basilicata,Centrali
+822,Calabria,Centrali
+1020,Calabria,Metanodotti
+1008,Sardegna,Opere portuali e vie navigabili
+1009,Lombardia,Centrali
+835,Campania,Centrali
+44,Campania,Opere ferroviarie
+35,Lazio,Opere ferroviarie
+30,Campania,Opere stradali
+38,Lombardia,Opere ferroviarie
+43,Sicilia,Opere ferroviarie
+66,Lombardia,Opere ferroviarie
+50,Umbria,Opere ferroviarie
+67,Lombardia,Opere ferroviarie
+34,Sicilia,Opere ferroviarie
+47,Umbria,Opere ferroviarie
+47,Marche,Opere ferroviarie
+894,Lombardia,Centrali
+29,Friuli Venezia Giulia,Opere stradali
+29,Veneto,Opere stradali
+72,Friuli Venezia Giulia,Opere ferroviarie
+1669,Marche,Metanodotti
+1481,Sicilia,Raffinerie
+57,Piemonte,Opere stradali
+691,Lombardia,Centrali
+859,Liguria,Opere portuali e vie navigabili
+222,Veneto,Impianti chimici integrati
+1074,Veneto,Impianti chimici integrati
+16,Veneto,Elettrodotti
+70,Sardegna,Opere stradali
+807,Veneto,Centrali
+745,Piemonte,Centrali
+31,Lombardia,Interporti
+13,Piemonte,Opere ferroviarie
+65,Lombardia,Opere stradali
+18,Campania,Interporti
+24,Friuli Venezia Giulia,Opere stradali
+8,Piemonte,Opere ferroviarie
+17,Friuli Venezia Giulia,Interporti
+1026,Liguria,Opere portuali e vie navigabili
+830,Sardegna,Impianti di smaltimento e recupero rifiuti
+214,Emilia Romagna,Centrali
+79,Lazio,Opere stradali
+1104,Lazio,Opere stradali
+4,Puglia,Opere ferroviarie
+4,Molise,Opere ferroviarie
+5,Marche,Opere ferroviarie
+1069,Calabria,Centrali
+599,Calabria,Centrali
+1108,Molise,Metanodotti
+1108,Abruzzo,Metanodotti
+924,Friuli Venezia Giulia,Impianti chimici integrati
+1113,Lombardia,Opere stradali
+884,Veneto,Aeroporti
+1047,Puglia,Impianti di smaltimento e recupero rifiuti
+692,Calabria,Centrali
+1006,Puglia,Opere portuali e vie navigabili
+1827,Lombardia,Centrali
+1021,Sicilia,Opere portuali e vie navigabili
+1089,Lombardia,Impianti di smaltimento e recupero rifiuti
+1107,Veneto,Opere stradali
+855,Sicilia,Terminali marittimi
+1061,Sicilia,Aeroporti
+1056,Calabria,Centrali
+1091,Calabria,Opere ferroviarie
+598,Lombardia,Centrali
+1083,Sardegna,Opere stradali
+1090,Lazio,Centrali
+1093,Trentino Alto Adige,Opere stradali
+1093,Veneto,Opere stradali
+768,Emilia Romagna,Centrali
+810,Emilia Romagna,Centrali
+815,Basilicata,Centrali
+1036,Puglia,Centrali
+1114,Emilia Romagna,Opere ferroviarie
+1058,Toscana,Elettrodotti
+1082,Lombardia,Centrali
+144,Lombardia,Centrali
+975,Lombardia,Impianti chimici integrati
+901,Piemonte,Centrali
+957,Lazio,Centrali
+215,Lazio,Centrali
+1034,Puglia,Centrali
+218,Lombardia,Centrali
+216,Lazio,Centrali
+938,Abruzzo,Centrali
+1087,Piemonte,Centrali
+1103,Lombardia,Impianti di smaltimento e recupero rifiuti
+1109,Lombardia,Aeroporti
+862,Veneto,Centrali
+1088,Lombardia,Centrali
+690,Emilia Romagna,Opere stradali
+690,Toscana,Opere stradali
+1081,Lombardia,Centrali
+1085,Lombardia,Elettrodotti
+1139,Sicilia,Aeroporti
+499,Molise,Centrali
+498,Lazio,Centrali
+951,Campania,Centrali
+500,Piemonte,Centrali
+942,Puglia,Centrali
+497,Toscana,Centrali
+949,Nessuna regione,Coltivazione idrocarburi
+1131,Toscana,Opere portuali e vie navigabili
+1144,Sardegna,Impianti di smaltimento e recupero rifiuti
+1135,Basilicata,Interporti
+1145,Veneto,Centrali
+1149,Lazio,Impianti di stoccaggio
+1115,Puglia,Opere ferroviarie
+1115,Campania,Opere ferroviarie
+1160,Lazio,Impianti di smaltimento e recupero rifiuti
+1118,Calabria,Centrali
+1138,Puglia,Opere stradali
+1122,Emilia Romagna,Centrali
+1146,Molise,Centrali
+611,Basilicata,Centrali
+1185,Toscana,Opere portuali e vie navigabili
+1125,Lombardia,Opere ferroviarie
+501,Piemonte,Impianti di smaltimento e recupero rifiuti
+1666,Campania,Opere stradali
+1169,Piemonte,Centrali
+1128,Lombardia,Impianti di smaltimento e recupero rifiuti
+1186,Puglia,Opere stradali
+1042,Toscana,Centrali
+1887,Basilicata,Centrali
+1137,Lombardia,Centrali
+1178,Lazio,Opere portuali e vie navigabili
+1159,Emilia Romagna,Centrali
+1143,Puglia,Centrali
+2602,Lombardia,Centrali
+1179,Toscana,Opere ferroviarie
+1151,Piemonte,Centrali
+1171,Emilia Romagna,Opere stradali
+1157,Liguria,Acciaierie
+1152,Toscana,Impianti di smaltimento e recupero rifiuti
+1175,Veneto,Opere stradali
+1192,Umbria,Aeroporti
+1055,Puglia,Impianti di smaltimento e recupero rifiuti
+1111,Lombardia,Opere stradali
+1142,Marche,Opere ferroviarie
+1195,Sicilia,Metanodotti
+1110,Toscana,Aeroporti
+1123,Campania,Centrali
+1187,Lombardia,Centrali
+1174,Lombardia,Centrali
+896,Veneto,Impianti chimici integrati
+1204,Sicilia,Terminali marittimi
+1170,Campania,Centrali
+1180,Puglia,Opere stradali
+550,Liguria,Opere portuali e vie navigabili
+993,Calabria,Centrali
+1216,Sicilia,Opere idrauliche
+1189,Piemonte,Opere stradali
+1189,Lombardia,Opere stradali
+1208,Basilicata,Opere stradali
+1208,Puglia,Opere stradali
+1167,Lombardia,Impianti di smaltimento e recupero rifiuti
+1166,Lombardia,Impianti di smaltimento e recupero rifiuti
+1124,Campania,Impianti di smaltimento e recupero rifiuti
+1177,Puglia,Terminali marittimi
+977,Lazio,Opere portuali e vie navigabili
+1156,Abruzzo,Interporti
+1225,Lombardia,Impianti di smaltimento e recupero rifiuti
+921,Friuli Venezia Giulia,Centrali
+1172,Lombardia,Impianti di smaltimento e recupero rifiuti
+1176,Puglia,Elettrodotti
+1219,Friuli Venezia Giulia,Impianti chimici integrati
+1668,Piemonte,Centrali
+1197,Lazio,Opere stradali
+1213,Sicilia,Opere stradali
+1196,Liguria,Acciaierie
+1198,Lombardia,Impianti di smaltimento e recupero rifiuti
+1214,Trentino Alto Adige,Impianti idroelettrici
+1211,Sardegna,Impianti di smaltimento e recupero rifiuti
+1227,Puglia,Interporti
+1162,Lombardia,Ricerca idrocarburi
+1168,Emilia Romagna,Opere stradali
+1203,Basilicata,Opere stradali
+1202,Umbria,Opere stradali
+1202,Marche,Opere stradali
+1210,Campania,Opere ferroviarie
+1059,Umbria,Opere idrauliche
+1165,Lombardia,Ricerca idrocarburi
+1287,Sicilia,Opere portuali e vie navigabili
+1288,Piemonte,Impianti di smaltimento e recupero rifiuti
+958,Piemonte,Aeroporti
+1136,Calabria,Interporti
+1332,Lombardia,Aeroporti
+1212,Piemonte,Metanodotti
+1212,Lombardia,Metanodotti
+1242,Piemonte,Metanodotti
+1242,Lombardia,Metanodotti
+1285,Sicilia,Centrali
+1161,Lombardia,Ricerca idrocarburi
+1199,Lombardia,Ricerca idrocarburi
+1323,Sardegna,Opere portuali e vie navigabili
+1231,Piemonte,Interporti
+1239,Toscana,Impianti di smaltimento e recupero rifiuti
+1311,Sicilia,Raffinerie
+1328,Friuli Venezia Giulia,Impianti chimici integrati
+1328,Veneto,Impianti chimici integrati
+1313,Marche,Opere portuali e vie navigabili
+1194,Emilia Romagna,Metanodotti
+1230,Puglia,Impianti di smaltimento e recupero rifiuti
+1284,Puglia,Opere stradali
+1240,Nessuna regione,Opere portuali e vie navigabili
+1340,Nessuna regione,Opere portuali e vie navigabili
+1191,Lombardia,Opere stradali
+1244,Emilia Romagna,Opere stradali
+1350,Liguria,Opere portuali e vie navigabili
+1326,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1235,Piemonte,Impianti di smaltimento e recupero rifiuti
+1233,Calabria,Impianti di smaltimento e recupero rifiuti
+1127,Campania,Impianti di smaltimento e recupero rifiuti
+1121,Sardegna,Opere stradali
+1164,Lombardia,Ricerca idrocarburi
+1217,Lombardia,Opere idrauliche
+1218,Lombardia,Opere idrauliche
+1248,Lombardia,Opere idrauliche
+1665,Veneto,Coltivazione idrocarburi
+1201,Calabria,Impianti di smaltimento e recupero rifiuti
+1331,Friuli Venezia Giulia,Interporti
+1238,Lombardia,Opere stradali
+1347,Veneto,Opere stradali
+1188,Sardegna,Opere idrauliche
+1348,Veneto,Interporti
+1329,Sicilia,Impianti chimici integrati
+1282,Lazio,Interporti
+1324,Veneto,Opere idrauliche
+1226,Molise,Interporti
+1319,Friuli Venezia Giulia,Centrali
+1346,Basilicata,Coltivazione idrocarburi
+1342,Toscana,Opere stradali
+1236,Lombardia,Impianti di smaltimento e recupero rifiuti
+1370,Veneto,Opere stradali
+1353,Molise,Opere stradali
+1243,Lombardia,Opere stradali
+1237,Emilia Romagna,Ricerca idrocarburi
+1372,Nessuna regione,Opere portuali e vie navigabili
+1349,Emilia Romagna,Aeroporti
+1352,Basilicata,Coltivazione idrocarburi
+1359,Toscana,Impianti di smaltimento e recupero rifiuti
+1158,Lazio,Opere stradali
+1232,Lazio,Opere stradali
+1356,Friuli Venezia Giulia,Opere stradali
+1315,Lombardia,Impianti di smaltimento e recupero rifiuti
+1286,Lombardia,Aeroporti
+1365,Friuli Venezia Giulia,Opere stradali
+1362,Lombardia,Impianti di smaltimento e recupero rifiuti
+1361,Toscana,Impianti di smaltimento e recupero rifiuti
+1322,Campania,Opere stradali
+1367,Sardegna,Opere idrauliche
+1358,Nessuna regione,Metanodotti
+1344,Basilicata,Coltivazione idrocarburi
+1312,Piemonte,Centrali
+1314,Emilia Romagna,Opere stradali
+1317,Veneto,Impianti di smaltimento e recupero rifiuti
+1147,Toscana,Opere idrauliche
+1246,Lombardia,Impianti di smaltimento e recupero rifiuti
+1366,Abruzzo,Opere stradali
+1318,Umbria,Opere stradali
+1382,Veneto,Impianti di smaltimento e recupero rifiuti
+1401,Piemonte,Opere stradali
+1376,Emilia Romagna,Coltivazione idrocarburi
+1341,Veneto,Ricerca idrocarburi
+1368,Sardegna,Opere idrauliche
+1316,Calabria,Opere portuali e vie navigabili
+1379,Toscana,Opere idrauliche
+1397,Basilicata,Opere stradali
+1399,Liguria,Opere ferroviarie
+1399,Lombardia,Opere ferroviarie
+1373,Marche,Interporti
+1345,Sardegna,Centrali
+1392,Sardegna,Impianti chimici integrati
+1402,Lombardia,Impianti di smaltimento e recupero rifiuti
+1381,Calabria,Opere idrauliche
+1404,Emilia Romagna,Opere idrauliche
+1395,Calabria,Opere idrauliche
+1380,Nessuna regione,Opere idrauliche
+1325,Lombardia,Impianti di smaltimento e recupero rifiuti
+1396,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1012,Piemonte,Impianti di smaltimento e recupero rifiuti
+1333,Emilia Romagna,Ricerca idrocarburi
+1403,Nessuna regione,Opere portuali e vie navigabili
+1343,Liguria,Opere idrauliche
+1412,Lazio,Opere stradali
+1412,Umbria,Opere stradali
+1409,Puglia,Opere stradali
+1355,Lombardia,Interporti
+1377,Emilia Romagna,Ricerca idrocarburi
+1388,Emilia Romagna,Ricerca idrocarburi
+1389,Emilia Romagna,Ricerca idrocarburi
+1390,Emilia Romagna,Ricerca idrocarburi
+1391,Emilia Romagna,Ricerca idrocarburi
+1393,Emilia Romagna,Ricerca idrocarburi
+1330,Lazio,Interporti
+1374,Toscana,Interporti
+1375,Sardegna,Opere stradali
+1364,Umbria,Opere ferroviarie
+1428,Sardegna,Opere stradali
+1432,Sardegna,Opere stradali
+1424,Lazio,Opere stradali
+1427,Veneto,Opere stradali
+1440,Lazio,Opere stradali
+1413,Trentino Alto Adige,Opere idrauliche
+1338,Lombardia,Impianti di smaltimento e recupero rifiuti
+1405,Lombardia,Impianti di smaltimento e recupero rifiuti
+1411,Nessuna regione,Opere portuali e vie navigabili
+1369,Basilicata,Coltivazione idrocarburi
+1415,Lazio,Elettrodotti
+1436,Umbria,Impianti idroelettrici
+1387,Toscana,Centrali
+1357,Lazio,Impianti di smaltimento e recupero rifiuti
+1291,Puglia,Impianti di smaltimento e recupero rifiuti
+1429,Puglia,Opere stradali
+1430,Puglia,Opere stradali
+1363,Lombardia,Impianti di smaltimento e recupero rifiuti
+1351,Basilicata,Coltivazione idrocarburi
+2864,Emilia Romagna,Impianti di stoccaggio
+1407,Toscana,Centrali
+1434,Toscana,Impianti di smaltimento e recupero rifiuti
+1410,Emilia Romagna,Elettrodotti
+1509,Nessuna regione,Opere portuali e vie navigabili
+1508,Emilia Romagna,Centrali
+1659,Lazio,Terminali marittimi
+1657,Veneto,Opere idrauliche
+1656,Puglia,Opere stradali
+1660,Sardegna,Centrali
+1512,Umbria,Impianti idroelettrici
+1652,Veneto,Opere stradali
+1653,Veneto,Opere stradali
+1354,Sardegna,Opere idrauliche
+1437,Toscana,Elettrodotti
+1661,Sardegna,Impianti di smaltimento e recupero rifiuti
+1441,Liguria,Impianti chimici integrati
+515,Emilia Romagna,Opere ferroviarie
+515,Toscana,Opere ferroviarie
+1700,Piemonte,Prospezione idrocarburi
+1700,Lombardia,Prospezione idrocarburi
+1908,Emilia Romagna,Prospezione idrocarburi
+1438,Abruzzo,Elettrodotti
+1654,Umbria,Centrali
+1643,Sicilia,Opere idrauliche
+1648,Piemonte,Opere stradali
+1648,Lombardia,Opere stradali
+1644,Sicilia,Opere idrauliche
+1634,Lombardia,Impianti di smaltimento e recupero rifiuti
+1641,Friuli Venezia Giulia,Opere portuali e vie navigabili
+1632,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1639,Emilia Romagna,Opere stradali
+1637,Piemonte,Impianti di smaltimento e recupero rifiuti
+1439,Lombardia,Elettrodotti
+1614,Lazio,Terminali marittimi
+1613,Puglia,Impianti di smaltimento e recupero rifiuti
+1616,Umbria,Opere idrauliche
+1435,Puglia,Elettrodotti
+1631,Sardegna,Elettrodotti
+1386,Calabria,Impianti chimici integrati
+1498,Nessuna regione,Metanodotti
+1618,Toscana,Elettrodotti
+1624,Puglia,Aeroporti
+1645,Puglia,Elettrodotti
+1482,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1636,Sicilia,Elettrodotti
+1609,Puglia,Opere idrauliche
+1629,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1625,Emilia Romagna,Opere portuali e vie navigabili
+1646,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1638,Marche,Opere portuali e vie navigabili
+1635,Lombardia,Impianti di smaltimento e recupero rifiuti
+1628,Molise,Impianti di smaltimento e recupero rifiuti
+1627,Lombardia,Impianti di smaltimento e recupero rifiuti
+1622,Lombardia,Elettrodotti
+1626,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+765,Umbria,Opere stradali
+1598,Liguria,Impianti chimici integrati
+1599,Sardegna,Raffinerie
+1620,Veneto,Impianti di smaltimento e recupero rifiuti
+1591,Lazio,Opere portuali e vie navigabili
+1664,Campania,Risanamento ambientale
+1655,Piemonte,Opere idrauliche
+1595,Toscana,Opere stradali
+1587,Lazio,Terminali marittimi
+1600,Lombardia,Impianti di smaltimento e recupero rifiuti
+1592,Marche,Raffinerie
+1611,Lombardia,Impianti di smaltimento e recupero rifiuti
+1617,Basilicata,Opere idrauliche
+1462,Lombardia,Impianti di smaltimento e recupero rifiuti
+1604,Liguria,Impianti di smaltimento e recupero rifiuti
+1615,Lazio,Impianti di smaltimento e recupero rifiuti
+1602,Puglia,Elettrodotti
+1586,Marche,Opere portuali e vie navigabili
+1606,Friuli Venezia Giulia,Impianti di stoccaggio
+1610,Piemonte,Impianti di smaltimento e recupero rifiuti
+1623,Marche,Opere portuali e vie navigabili
+1640,Piemonte,Impianti idroelettrici
+1619,Piemonte,Impianti di smaltimento e recupero rifiuti
+1290,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1596,Piemonte,Impianti di smaltimento e recupero rifiuti
+1601,Friuli Venezia Giulia,Impianti di stoccaggio
+1597,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1649,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1650,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1570,Emilia Romagna,Opere ferroviarie
+1605,Basilicata,Opere idrauliche
+1567,Campania,Opere ferroviarie
+1568,Lazio,Opere ferroviarie
+1584,Valle d,Impianti di smaltimento e recupero rifiuti
+1582,Veneto,Opere portuali e vie navigabili
+1581,Piemonte,Elettrodotti
+1569,Trentino Alto Adige,Impianti di smaltimento e recupero rifiuti
+1594,Piemonte,Opere stradali
+1585,Piemonte,Impianti di smaltimento e recupero rifiuti
+1566,Lazio,Centrali
+1578,Toscana,Impianti di smaltimento e recupero rifiuti
+1593,Liguria,Opere ferroviarie
+1593,Lombardia,Opere ferroviarie
+1588,Piemonte,Impianti di smaltimento e recupero rifiuti
+1662,Lazio,Risanamento ambientale
+1572,Toscana,Impianti di smaltimento e recupero rifiuti
+1647,Emilia Romagna,Opere portuali e vie navigabili
+1651,Liguria,Opere ferroviarie
+1576,Basilicata,Impianti di smaltimento e recupero rifiuti
+1589,Sicilia,Opere idrauliche
+1573,Lombardia,Impianti di smaltimento e recupero rifiuti
+1577,Piemonte,Opere stradali
+1557,Marche,Opere portuali e vie navigabili
+1564,Emilia Romagna,Opere idrauliche
+1658,Basilicata,Opere idrauliche
+1560,Piemonte,Impianti di smaltimento e recupero rifiuti
+1565,Toscana,Impianti di smaltimento e recupero rifiuti
+1590,Emilia Romagna,Impianti idroelettrici
+1580,Piemonte,Impianti di smaltimento e recupero rifiuti
+1556,Emilia Romagna,Opere idrauliche
+964,Puglia,Centrali
+1558,Puglia,Impianti di smaltimento e recupero rifiuti
+1561,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1550,Basilicata,Impianti di smaltimento e recupero rifiuti
+1575,Piemonte,Opere idrauliche
+1469,Liguria,Opere idrauliche
+1553,Toscana,Impianti di smaltimento e recupero rifiuti
+929,Veneto,Impianti di smaltimento e recupero rifiuti
+1603,Lombardia,Impianti di smaltimento e recupero rifiuti
+1583,Piemonte,Impianti di smaltimento e recupero rifiuti
+1551,Campania,Centrali
+1630,Sicilia,Opere stradali
+1554,Piemonte,Impianti di smaltimento e recupero rifiuti
+1547,Piemonte,Impianti idroelettrici
+1526,Lazio,Opere stradali
+1526,Toscana,Opere stradali
+1633,Sicilia,Opere idrauliche
+1538,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1542,Marche,Opere idrauliche
+1563,Veneto,Impianti di smaltimento e recupero rifiuti
+1548,Lombardia,Impianti di smaltimento e recupero rifiuti
+1530,Lombardia,Impianti di smaltimento e recupero rifiuti
+1527,Sardegna,Impianti di smaltimento e recupero rifiuti
+1545,Emilia Romagna,Impianti di smaltimento e recupero rifiuti
+1546,Piemonte,Impianti di smaltimento e recupero rifiuti
+1642,Sicilia,Opere idrauliche
+1574,Basilicata,Opere idrauliche
+1541,Sicilia,Opere idrauliche
+1535,Molise,Impianti di smaltimento e recupero rifiuti
+1579,Campania,Centrali
+1537,Friuli Venezia Giulia,Impianti di smaltimento e recupero rifiuti
+1540,Sicilia,Opere idrauliche
+1531,Basilicata,Opere idrauliche
+1555,Toscana,Opere idrauliche
+1532,Piemonte,Impianti di smaltimento e recupero rifiuti
+1528,Piemonte,Impianti di smaltimento e recupero rifiuti
+1533,Sardegna,Centrali
+1011,Piemonte,Impianti di smaltimento e recupero rifiuti
+1543,Veneto,Impianti di smaltimento e recupero rifiuti
+1522,Sardegna,Impianti chimici integrati
+1534,Piemonte,Centrali
+1544,Abruzzo,Impianti di smaltimento e recupero rifiuti
+1524,Lazio,Impianti di smaltimento e recupero rifiuti
+1525,Lazio,Impianti di smaltimento e recupero rifiuti
+1529,Basilicata,Opere idrauliche
+1562,Puglia,Opere idrauliche
+1562,Molise,Opere idrauliche
+1539,Molise,Centrali
+1521,Lazio,Impianti di smaltimento e recupero rifiuti
+1552,Sardegna,Impianti di smaltimento e recupero rifiuti
+1523,Lazio,Impianti di smaltimento e recupero rifiuti
+1518,Emilia Romagna,Opere idrauliche
+1514,Lazio,Opere portuali e vie navigabili
+1513,Lazio,Impianti di smaltimento e recupero rifiuti
