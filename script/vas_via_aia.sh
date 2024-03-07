@@ -27,9 +27,6 @@ mlrgo -I -S --csv sub -f regioni "Valle.+" "Valle d'Aosta" "${folder}"/../data/p
 mlrgo -S --csv cut -f id,regioni,tipologia then nest --evar "," -f regioni then clean-whitespace then count-distinct -f regioni,tipologia then sort -f regioni,tipologia "${folder}"/../data/progetti_italia.csv > "${folder}"/../data/progetti_italia_regioni.csv
 
 # estrai nomi regioni, province e comuni
-
-mlrgo -S --csv cut -o -f regioni,province,comuni,regioni then uniq -a then \
-nest --evar "," -f regioni then clean-whitespace then uniq -a then \
-nest --evar "," -f province then clean-whitespace then uniq -a then \
-nest --evar "," -f comuni then clean-whitespace then uniq -a then \
-sort -f regioni,province,comuni "${folder}"/../data/progetti_italia.csv >"${folder}"/../data/risorse/luoghi.csv
+for i in regioni province comuni; do
+    mlrgo -S --csv cut -f "$i" then nest --evar "," -f "$i" then clean-whitespace then uniq -a then sort -f "$i" "${folder}"/../data/progetti_italia.csv >"${folder}"/../data/risorse/"$i".csv
+done
