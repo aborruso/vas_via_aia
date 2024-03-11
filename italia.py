@@ -7,9 +7,9 @@
 # Created:     15/09/2023
 # Copyright:   (c) giuli 2023
 # Licence:     <your licence>
-# nella riga 239 inserire l'url del sito risultato della ricerca per territorio dal sito del ministero
-# nella riga 242 scrivere il nome del file di output con il path
-# nella riga 252 inserire il numero di pagine del sito del ministero, risultato della ricerca, aumentato di una
+# nella riga 313 inserire l'url del sito risultato della ricerca per territorio dal sito del ministero
+# nella riga 316 scrivere il nome del file di output con il path
+# nella riga 324 inserire il numero di pagine del sito del ministero, risultato della ricerca, aumentato di una
 #-------------------------------------------------------------------------------
 def main():
     pass
